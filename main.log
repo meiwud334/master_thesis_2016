@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.9)  19 SEP 2016 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.9)  20 SEP 2016 16:50
 entering extended mode
 **./main.tex
 (main.tex
@@ -1806,49 +1806,17 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 194.
- (main.toc)
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 215.
 
 1: section
 [11] [12
-
-] (main.lof)
-\tf@lof=\write7
-\openout7 = `main.lof'.
-
-
-1: section
-[13] [14
-
-] (main.lot)
-\tf@lot=\write8
-\openout8 = `main.lot'.
-
-
-1: section
-[15] [16
-
-]
-1: section
-[17] [18
-
-]
-1: section
-[19] [20
-
-]
-1: section
-[21] [22
 
 ]
 --------------------
  Dedicatory
 --------------------
 1: section
-[23] [24
+[13] [14
 
 ]
 1: section
@@ -1875,36 +1843,42 @@ Chapter 2.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 11.
 
-Overfull \hbox (3.30208pt too wide) in paragraph at lines 26--27
- []\T1/ppl/b/n/10.95 PLE[] \T1/ppl/m/n/10.95 res-o-nance ex-ci-ta-tion of op-ti
--cal tran-si-tion. Rsé-so-lu-tion lim-ited by scan-
+Overfull \hbox (0.94868pt too wide) in paragraph at lines 19--20
+ []\T1/ppl/b/n/10.95 FIB[] \T1/ppl/m/n/10.95 In or-der to make it more con-ve-n
+ient to trace the nan-odi-a-monds, mark-
  []
 
 1: section
 [3]
-Overfull \hbox (0.57648pt too wide) in paragraph at lines 40--41
+Overfull \hbox (3.30208pt too wide) in paragraph at lines 64--65
+ []\T1/ppl/b/n/10.95 PLE[] \T1/ppl/m/n/10.95 res-o-nance ex-ci-ta-tion of op-ti
+-cal tran-si-tion. Rsé-so-lu-tion lim-ited by scan-
+ []
+
+[4]
+Overfull \hbox (0.57648pt too wide) in paragraph at lines 78--79
  []\T1/ppl/b/n/10.95 Before Ox-i-da-tion[] \T1/ppl/m/n/10.95 Con-fo-cal im-age,
  SEM im-age, PL, time re-solved PL, PLE.
  []
 
 
-Overfull \hbox (20.95319pt too wide) in paragraph at lines 53--55
+Overfull \hbox (20.95319pt too wide) in paragraph at lines 91--93
 \T1/ppl/m/n/10.95 cool-ing, GR1 get-ting closer to the sur-face due to ox-i-da-
 tion caused size/thickness
  []
 
-) [4] [5]
+[5]) [6]
 \openout2 = `Chapters/Chapter3.aux'.
 
- (Chapters/Chapter3.tex [6
+ (Chapters/Chapter3.tex
+Chapter 3.
+)
+1: section
+[7
 
 
 
 ]
-Chapter 3.
-)
-1: section
-[7]
 \openout2 = `Appendices/AppendixA.aux'.
 
  (Appendices/AppendixA.tex [8
@@ -1934,19 +1908,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 283.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 283.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F3FCEAF6458F8DC1D81CBB2F1F611A7F;4212.
+(rerunfilecheck)             Checksum: A327108820BBA797D609703248EE50B7;4512.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31950 strings out of 493335
- 653408 string characters out of 3130231
- 842451 words of memory out of 3000000
+ 31935 strings out of 493335
+ 653340 string characters out of 3130231
+ 841451 words of memory out of 3000000
  35048 multiletter control sequences out of 15000+200000
  43121 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,19n,76p,10379b,1797s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,19n,82p,10379b,1797s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r
 .enc}<C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmmi10.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
@@ -1961,9 +1935,9 @@ C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a
 alatino/uplr8a.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/palatino/uplr8a.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (35 pages, 192673 bytes).
+Output written on main.pdf (25 pages, 183967 bytes).
 PDF statistics:
- 385 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
- 177 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 331 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
