@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.9)  22 SEP 2016 18:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.9)  22 SEP 2016 19:00
 entering extended mode
 **./main.tex
 (main.tex
@@ -1822,26 +1822,20 @@ glass/quartz(distraction
  []
 
 1: section
-[3]
-Overfull \hbox (0.94868pt too wide) in paragraph at lines 29--30
- []\T1/ppl/b/n/10.95 FIB[] \T1/ppl/m/n/10.95 In or-der to make it more con-ve-n
-ient to trace the nan-odi-a-monds, mark-
- []
-
-[4]
-Overfull \hbox (3.30208pt too wide) in paragraph at lines 74--75
+[3] [4]
+Overfull \hbox (3.30208pt too wide) in paragraph at lines 77--78
  []\T1/ppl/b/n/10.95 PLE[] \T1/ppl/m/n/10.95 res-o-nance ex-ci-ta-tion of op-ti
 -cal tran-si-tion. Rsé-so-lu-tion lim-ited by scan-
  []
 
 
-Overfull \hbox (0.57648pt too wide) in paragraph at lines 88--89
+Overfull \hbox (0.57648pt too wide) in paragraph at lines 91--92
  []\T1/ppl/b/n/10.95 Before Ox-i-da-tion[] \T1/ppl/m/n/10.95 Con-fo-cal im-age,
  SEM im-age, PL, time re-solved PL, PLE.
  []
 
 [5]
-Overfull \hbox (20.95319pt too wide) in paragraph at lines 104--106
+Overfull \hbox (20.95319pt too wide) in paragraph at lines 107--109
 \T1/ppl/m/n/10.95 cool-ing, GR1 get-ting closer to the sur-face due to ox-i-da-
 tion caused size/thickness
  []
@@ -1921,7 +1915,7 @@ rw/palatino/uplb8a.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/urw/palatino/uplr8a.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/wango/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (15 pages, 183570 bytes).
+Output written on main.pdf (15 pages, 183884 bytes).
 PDF statistics:
  281 PDF objects out of 1000 (max. 8388607)
  84 named destinations out of 1000 (max. 500000)
