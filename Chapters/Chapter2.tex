@@ -6,7 +6,10 @@
 %----------------------------------------------------------------------------------------
 %	SECTION 1
 %----------------------------------------------------------------------------------------
+\section{Information regarding the nanodiamond sample}
 
+\paragraph{here is a paragraph about the fabrication of nanodiamond}
+\paragraph{here is a paragraph about the separation of the nanodiamonds}
 \section[sample preparation]{sample preparation}
 \subsection{preparation of the substrate}
 \paragraph{IIa diamond as substrate}
@@ -53,6 +56,7 @@ In this procedure, 2 factors we find important.
 
 Throughout my project, with the help of Andrea Kurz, several combination of these factors had been has been tried out and in the end we landed on 
 
+\paragraph{here we need a list of different program of spin coating that we have tried,with indexxxxx}
 
 %-----------------------------------
 \subsubsection{Acid cleaning}
@@ -90,7 +94,7 @@ This is the flow cryostat, whose main body is a vaccum chamber with
 Confocal + Cryostat, Green laser + Red laser, spectrometer, apd, pic
 
 
-\paragraph{PL} green laser + spectrometer. Instrumental limitation fo resolution from spectrometer. See the sum of all Emission over exposure time. Observing ZPL and phonon side band.
+\paragraph{PL} Photoluminescence spectra is one of the most efficient way of finding silicon vacancies. In this measurement, we use green laser of 532nm to excite the Silicon vacancies from ground state to 
 
 \paragraph{PLE} resonance excitation of optical transition. Rsésolution limited by scanning step of laser. Observing phonon side band with apd. range of scanning: limited by laser, small.
 
@@ -101,25 +105,78 @@ Confocal + Cryostat, Green laser + Red laser, spectrometer, apd, pic
 %	SECTION 3
 %-----------------------------------
 \section{Oxidation}
-\paragraph{Effect of Oxidation} Size reducing, surface group changing, removal of Sp2 carbon
+\paragraph{Effect of Oxidation}
+Room temperature oxidization is a common way of nanodiamond purification. With different oxidizing temperature, different types of impurities can be removed from the surface of the nanodiamond, ranging from water and physisorbed organic impurities, amourphous carbon, and graphitic shells and ultimate the $sp^{3}$ phase of diamond[T.Gaebel,2010]. After the oxidation, carbonyl and carboxyl groups are formed on the surface[Petrakov,2012]. Several paper have mentioned temperature choices for oxidation aiming at impurity removal. During the master's thesis period, 2 different oxidation has been examined.
 
 \subsection[first Oxidation]{first Oxidation}
-\paragraph{method}According to the paper[Elka Neu], condition: . With the help from Markus Mohr. Setup : tube furnace, pic. 
+\paragraph{method}As reported, oxidation of $sp^{2}$ carbon already starts at $400^{o}C$, while the size reducing rate of diamond phase remains neglactable when the temperature is lower than $500^{o}C$. So it is an obvious choice to settle down the oxidation temperature at somewhere close to $500^{o}C$ when the maximum removal of $sp^{2}$ phased carbons and the minimum lost of the diamond body($sp^{3}$ phased carbons). Inspired by Elka Neu's paper, ....here insert a sentence explaining why we choose the two step oxidation program.
+\paragraph{setup}
 
-\paragraph{Before Oxidation} Confocal image, SEM image, PL, time resolved PL, PLE. Power dependence.
+The aerobatic oxidation is carried out in a tube furnace that is offered by the ?? institute and it is done with the help of Markus Mohr. The tube furnace consists of a glass tube connected to the room atmosphere and heating coils around the glass tube. The glass tube is slidable. We put our sample inside a ceramic ?bowl? and put the bowl into the glass tube carefully, after the temperature has been raised to ?460C?, the glass tube would be slide into the heating coils. After the Oxidation, the glass tube would be slide out and the sample would cooled inside the tube until room temperature.
+
+\paragraph{pre-characterisation}
+Before the oxidation, we tried to characterise the sample with several different methods based on our confocal microscopy setup.
+
+1. RT imaging and PL spectra
+
+First we take a scan with green laser and record the fluorescence with an APD, which offers us a confocal microscopy image of the surface of the sample, then the photoluminescnce spectra of the bright spots are taken, those ones with a sharp peak at 737nm are saved as points of interests and their positions are saved as region of interest for the reference of further examine.
+
+2. Cold spectra and PLE 
+The sample is attached to an cold finger and the placed inside the cryostat, after UHV condition has been achieved, we start the helium transfer, which would brought the temperature of the sample down to 4.8K. We refound the points of interests that has been confirmed with SiV like spectra
+
+3. PLE spectra
+
+4.time-resolved PL spectra.
+
+\paragraph{post-oxidation characterisation}
+1. Optical microscopy check
+The first thing we found after the oxidation is that, the surface of our sample turned very dirty. We are yet not certain about what the contaminations are, are they intrinsic or are they external. A possible deduction is that, the contamination comes from the glass tube of tube furnace, that the residues of previous treatments has attached to the inner surface of the tube and evaporized again, depositing on the surface of our sample. Further improvement of oxidation operation has been done in our second oxidation test, and will be mentioned in the next part of the thesis.
 
 
-\paragraph{After Oxidation}dirty surface: Optical image, Confocal image, time resolved PL. Power dependence.
+2. confocal microscopy imaging and PL spectra.
+Huge amount of bright spots can be seen in the confocal image when we excite the sample with 532nm green laser. There's no Silicon vacancy like spectra found in these bright spots. We refind our points of interests next to the marker 4C. The photoluminescence spectra shows much higher intensity than before the oxidation.
 
-\paragraph{Analysis} Reason for getting dirty surface. Behaviour of the lines: brighter, broader...
+
+3. Cold spectra and PLE 
+After the confirmation of points of interests, the sample was transfered into the flow cryostat and the helium flow brought the temperature down to 4.8K.
+
+At 4.8K we recorded the time-resolved photoluminescence spectra of different incident beam power with an excitation wavelength of 532nm. 
+
+After the first oxidation, we learned that due to the inner strain of photonic fibre, the incident beam can not preserve a static polarisation. To stable the polarisation, we used a polarising beam spliter with a LC noise eater behind it. This would fix the polarisation at vertical direction.
+
+
+\paragraph{Analysis}
 
 \subsection[Second Oxidation]{second Oxidation}
 
-\paragraph{method} According to [] paper, higher temperature - total removal of Sp2 carbon. Improvement of setup: to prevent contamination: cleaner tube, clean He flow when cooling. Improvement of characterisation: added in excitation polarisation, record the time resolved PL with 2 differently polarised incident beam. Samller nanodiamonds: a earlier batch.
+\paragraph{method} As is mentioned before, the optical properties of SiV in bulk diamond is extraordinary. Most importantly, the spectrodiffusion that we have observed in nanodiamonds has never been seen in bulk diamonds. In the first oxidation, it seems the removal of graphitic impurity didn't help with the stablization of emiision lines. In this second oxidation, we decided to used a higher temperature to acquire a surface with groups that imitates the bulk diamond.As reported by [paper], after 2 hours of aerobatic oxidation at $575^{o}C$, ... here insert a sentence of the surface groups of nanodiamonds. To increase the chance of finding smaller nanodiamonds that would fit into a cavity and decrease the chance of getting clusters of nanodiamonds, this time we chose to use nanodiamond of the first batch. These nanodiamond are spin coated on the substrate following the method II(the index, can be change).
 
-\paragraph{Before Oxidation} optical image after spincoating, excitation polarisation: confocal image, histogram of the distribution of peaks. SEM image.
+Taking the experiences of last oxidation into consideration. This time we introduces flowing inert gas (helium) to flush away the potential contaminations during the cooling process. This can also prevent the result to be affected by the humidity of the air.
+We found out the extinction rate of polarising beam spliter is not ideal, so this time we used a Clan Thompson polarisation filter instead.
+\paragraph{Before Oxidation}
+1.Optical microscopy observation
+  
+We observed the sample after the spin coating with optical microscopy, the surface appeared to be relatively clean, little amount of contamination has been observed, but is acceptable.
 
-\paragraph{After Oxidation} Confocal image of bright back ground. Gr1 center everywhere. Can't see pois.
+2.Mapping of $SiV^{-}$ with room temperature setup.
+
+Once again, we exxplored the sample with the same room temperature confocal microscopy setup. With the help of spectrometer, we find a few points of interest with a emission spectrum that resembles $SiV^{-}$. 
+
+3. Cold time resolved PL and exitation polarisation
+
+As has been mention in last chapter, it is suspect that the incident polarisation can affect the spectral behaviour of SiV. We added in the excitation polarisation measurement and recorded the time resolved photoluminescence spectra of 2 different excitation polarisation that are perpendicular to each other. This is achieved by putting a motor-driven half-lambda plate after the noise eater. 
+Due to short time scheme from this measurement we decided to fix the input power at [?need to check], which is the lowest power that can offer most of the points of interest's a decent signal to noise ration.
+
+
+
+
+\paragraph{After Oxidation} 
+
+1. Optical Microscopy observation. 
+
+After the Oxidation, we found the surface not as dirty as the last Oxidation. It seems a cleaner tube and flowing gas flushing do have helped suppressing the surface contamination introduced by the tube furnace.
+
+
 
 \paragraph{Analysis} 
 Comparasion if possible: different behaviour pre treatment between two batches
