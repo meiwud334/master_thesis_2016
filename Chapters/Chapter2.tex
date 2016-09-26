@@ -175,16 +175,28 @@ First we take a scan with green laser and record the fluorescence with an APD, w
 
 %\FloatBarrier
 
-2. Cryogenic measurements PLE 
-The sample is attached to an cold finger and the placed inside the cryostat, after UHV condition has been achieved, we start the helium transfer, which would brought the temperature of the sample down to 4.8K. We refound the points of interests that has been confirmed with SiV like spectra and excited it with 532nm green laser to double check the existence of SiV. After the confirmation, it has been tried to carry out a resonance excitation with Titan Sapphire laser, when observing a few points of interest next to marker 5A, it was noticed that while scanning the red laser across the line with the help of very low amount of 532nm for repopulation, a spectral drift of 6GHz in 15Min has been observed. It has also been noticed that the increase of green laser power can cause more severe spectral drift/jump. In a case when the power green laser is brought up for a better refocus, the line has shifted totally out of the range of the spectra scan, and didn't recover in 10min. This observation also brought difficulty in the measurement of orbital T1, since we always need to initialize the obital states with green laser, and this spectral shift/jump/diffusion that is related to the application of green laser can result in the fail of hitting the resonant wavelength, while it is technically difficult to refind the line and adjust the wavelength of the resonance laser coordinately. 
+2. SEM imaging of nanodiamonds
 
-3.time-resolved PL spectra.
+
+
+3. Cryogenic measurements PLE
+ 
+The sample is attached to an cold finger and the placed inside the cryostat, after UHV condition has been achieved, we start the helium transfer, which would brought the temperature of the sample down to 4.8K. We refound the points of interests that has been confirmed with SiV like spectra and excited it with 532nm green laser to double check the existence of SiV. After the confirmation, it has been tried to carry out a resonance excitation with Titan Sapphire laser, when observing a few points of interest next to marker 5A, it was noticed that while scanning the red laser across the line with the help of very low amount of 532nm for repopulation, a spectral diffusion of 6GHz in 15Min has been observed. To exclude the possibility of instrumental error, PLE has been operated on the bulk diamond sample with also SiV inside, where no spectral diffusio has been observed. It has also been noticed that the increase of green laser power can cause more severe spectral drift/jump. In a case when the power green laser is brought up for a better refocus, the line has shifted totally out of the range of the spectra scan, and didn't recover in 10min. This observation also brought difficulty in the measurement of orbital T1, since we always need to initialize the obital states with green laser, and this spectral shift/jump/diffusion that is related to the application of green laser can result in the fail of hitting the resonant wavelength, while it is technically difficult to refind the line and adjust the wavelength of the resonance laser coordinately. 
+
+4. time-resolved PL spectra.
 
 After the obeservation that is mentioned in the last paragraph, we want to study more about this spectral diffusion behaviour that is associated with the green laser. We learned that the sudden jump/diffusion when more green power is applied can be larger than 20GHz, maybe it is possible to resolve it with the higher resolution grating of spectrometer. 
 
 To observe the diffusion with a spectrometer, we introduced time-resolved photoluminescen spectrum, which has been detailed described in the chapter development fo a way to estimate the spectral diffusion.
 
-Due to the technical problem, our motorized sample stage can not move ideally in the vertical direction anymore, which has limited our region that is observable. This time we refind the ROI around the marker 4C. And recorded the time-resolved spectrum. A session is set to be 30 spectra taken consecutively. At first, to feel the long term diffusing better, 3 sessions, with a refocus after each, are undergone for each points of interests. Later we found it 
+Due to the technical problem, our motorized sample stage can not move ideally in the vertical direction anymore, which has limited our region that is observable. This time we refind the ROI around the marker 4C. And recorded the time-resolved spectrum. A session is set to be 30 spectra taken consecutively. At first, to feel the long term diffusing better, 3 sessions, with a refocus after each, are undergone for each points of interests. Since the green laser induced line jump in PLE is gets wider when raising the green laser power, we excite the sample with 500uW power in front of the objective lens to obtain more diffusion. As a result, line diffusion up to 1nm has been observed.
+
+Follow up we decrease the input power to examine the expectation that the level of this spectral diffusion is proportional to the excitation power.
+
+To estimate the level of spectral diffusion, we compared the time resolved spectra in following ways: the mean linewidth, histogram of wavelengths and cross-correlation betweenn spectra over time.
+
+
+
 %\FloatBarrier
 %\begin{figure}[h]
 %\centering
@@ -198,7 +210,7 @@ Due to the technical problem, our motorized sample stage can not move ideally in
 The first thing we found after the oxidation is that, the surface of our sample turned very dirty. We are yet not certain about what the contaminations are, are they intrinsic or are they external. A possible deduction is that, the contamination comes from the glass tube of tube furnace, that the residues of previous treatments has attached to the inner surface of the tube and evaporized again, depositing on the surface of our sample. Further improvement of oxidation operation has been done in our second oxidation test, and will be mentioned in the next part of the thesis.
 
 
-2. confocal microscopy imaging and PL spectra.
+2. Refound poi with RT setup
 Huge amount of bright spots can be seen in the confocal image when we excite the sample with 532nm green laser. There's no Silicon vacancy like spectra found in these bright spots. We refind our points of interests next to the marker 4C. The photoluminescence spectra shows much higher intensity than before the oxidation.
 
 
@@ -208,6 +220,18 @@ After the confirmation of points of interests, the sample was transfered into th
 At 4.8K we recorded the time-resolved photoluminescence spectra of different incident beam power with an excitation wavelength of 532nm. 
 
 After the first oxidation, we learned that due to the inner strain of photonic fibre, the incident beam can not preserve a static polarisation. To stable the polarisation, we used a polarising beam spliter with a LC noise eater behind it. This would fix the polarisation at vertical direction.
+
+The spectra appeared to be different from before oxidation, the most obvious change is the increase of the luminescence intensity, another observation is the broaden of the peaks and the decrease of peak number per spectra. The broadening can be caused by the misalighment of the spectrometer or the poor contact between the sample and indium, or between the sample mount and the cold finger. 
+
+We recorded the time-resolved PL spectra, in data proceeding of post characterisation, we noticed some slow diffusion, that is not obvious when only one session is taken. So we decided to take 2 session per poi and 90s per session.
+
+Due to the external sourced contamination, a few poi has gained a very noisy background, which leads to none ideal result.
+
+
+
+
+
+
 %\FloatBarrier
 %\begin{figure}[h]
 %\centering
