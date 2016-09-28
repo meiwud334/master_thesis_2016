@@ -1,25 +1,20 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.9)  26 SEP 2016 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  28 SEP 2016 09:11
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2016/03/31> patch level 1
+LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (MastersDoctoralThesis.cls
 Document Class: MastersDoctoralThesis 2016/03/25 v1.4 LaTeXTemplates.com
-
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count79
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\
-xparse.sty"
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
-"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
 Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-cod
-e.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
 Package: expl3 2016/05/18 v6512 L3 programming layer (code)
 L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
 L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
@@ -126,8 +121,7 @@ L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
 \l__coffin_scaled_width_dim=\dimen132
 L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode
-.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
 File: l3pdfmode.def 2016/03/26 v6465 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count102
 \l__driver_tmp_box=\box41
@@ -139,9 +133,9 @@ Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
 \l__xparse_processor_int=\count106
 \l__xparse_v_nesting_int=\count107
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk11.clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk11.clo"
 File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count108
@@ -168,20 +162,20 @@ File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 . Defining command \addsec with sig. ' s o m ' on line 149.
 .................................................
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2016/04/23 3.9r The Babel package
+
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engl
-ish.ldf"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
 Language: english 2012/08/20 v3.3p English support from the babel system
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count117
 \U@D=\dimen134
@@ -190,34 +184,28 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrbas
-e.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
 Package: scrbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfi
-le.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
 Package: scrlfile 2016/06/14 v3.21 KOMA-Script package (loading files)
 
 Package scrlfile, 2016/06/14 v3.21 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrhac
-k.sty"
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrhack.sty"
 Package: scrhack 2016/06/14 v3.21 KOMA-Script package 
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrkba
-se.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
 Package: scrkbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty"
 Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -400,19 +388,16 @@ Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
 . Defining command \xshowbibdriver with sig. 'm' on line 193.
 .................................................
 ))
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 Package scrhack Info: loading setspace hack on input line 162.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\setspa
-ce.hak"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\setspace.hak"
 File: setspace.hak 2016/06/14 v3.21 KOMA-Script package (hacking package setspa
 ce)
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip49
 \LTright=\skip50
@@ -430,21 +415,18 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count122
 \LT@p@ftn=\toks15
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
 Package: siunitx 2016/09/02 v2.6s A comprehensive (SI) units package
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen136
-)) ("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
-"
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen137
 \extrarowheight=\dimen138
@@ -452,8 +434,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip53
 \backup@length=\skip54
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2
-e\l3keys2e.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
 Package: l3keys2e 2016/05/18 v6512 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box46
@@ -615,39 +596,33 @@ Package: l3keys2e 2016/05/18 v6512 LaTeX2e option processing using LaTeX3 keys
 .................................................
 \g__file_internal_ior=\read1
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\base\transl
-ator\translator.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+.sty"
 Package: translator 2010/06/12 ver 1.10
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\base\transl
-ator\translator-language-mappings.tex")))
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\translator
+-language-mappings.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
-Package: graphics 2016/06/02 v1.0s Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.
-cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 96.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.
-def"
-File: pdftex.def 2016/06/17 v0.06h Graphics/color for pdfTeX
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count140
@@ -655,8 +630,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen153
 \lightrulewidth=\dimen154
@@ -676,12 +650,10 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count144
 \@thisrulewidth=\dimen165
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
-ty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen166
@@ -695,25 +667,20 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \c@ContinuedFloat=\count145
 Package caption Info: longtable package is loaded.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\ltcaption.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 ))
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
-ty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count146
@@ -729,15 +696,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen180
 \Gm@dimlist=\toks18
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-cfg"))
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlay
-er-scrpage.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrlayer-scrpage.sty"
 Package: scrlayer-scrpage 2016/06/14 v3.21 KOMA-Script package (end user interf
 ace for scrlayer)
-
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlay
-er.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrlayer.sty"
 Package: scrlayer 2016/06/14 v3.21 KOMA-Script package (defining layers and pag
 e styles)
 \footheight=\skip59
@@ -776,19 +739,19 @@ Package scrlayer-scrpage Info: auto-selection of `pagestyleset=standard'.
 . 
 . Defining environment 'acknowledgements' with sig. '' on line 405.
 .................................................
-) ("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
-y"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
- ("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -1025,7 +988,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -1066,7 +1029,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -1089,28 +1052,25 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) ("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.st
-y"
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
- ("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\palatino.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\palatino.sty"
 Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
 Package: biblatex 2016/09/17 v3.6 programmable bibliographies (PK/JW/AB)
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
-mds.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
-x.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -1119,38 +1079,35 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
-ys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
-s.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count149
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.def"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) ("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
-"
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) ("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xstring\xstring.st
-y"
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xstring\xstring.
-tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
 \@xs@message=\write3
 \integerpart=\count150
 \decimalpart=\count151
@@ -1211,8 +1168,7 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-dm.de
-f")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def")
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -1292,15 +1248,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-compa
-t.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
 File: blx-compat.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-bibte
-x.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-bibtex.def"
 File: blx-bibtex.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 
 
@@ -1310,9 +1264,7 @@ Package biblatex Warning: Using fall-back BibTeX(8) backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
-def"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
 File: biblatex.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 \c@textcitecount=\count325
 \c@textcitetotal=\count326
@@ -1325,21 +1277,18 @@ File: biblatex.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-natbi
-b.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-natbib.def"
 File: blx-natbib.def 2016/09/17 v3.6 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\autho
-ryear.bbx"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\authoryear.bbx"
 File: authoryear.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\stand
-ard.bbx"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
 File: standard.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count332
 \c@bbx:relatedtotal=\count333
@@ -1347,8 +1296,7 @@ File: standard.bbx 2016/09/17 v3.6 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\autho
-ryear.cbx"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\cbx\authoryear.cbx"
 File: authoryear.cbx 2016/09/17 v3.6 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -1361,21 +1309,17 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
-cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
 File: biblatex.cfg 
 ))
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2016/05/21 v6.83p Hypertext links for LaTeX
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-hyperref.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-generic.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -1399,28 +1343,25 @@ Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
 Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 Package: xcolor-patch 2016/05/16 xcolor patch
 Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
-ty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen181
 \Hy@linkcounter=\count334
 \Hy@pagecounter=\count335
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
-f"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2016/05/21 v6.83p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count336
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
-cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4486.
@@ -1456,15 +1397,12 @@ Package scrhack Info: hyperref hack deactivated because of
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
-ef"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2016/05/21 v6.83p Hyperref driver for pdfTeX
 \Fld@listcount=\count342
 \c@bookmark@seq@number=\count343
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
-check.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -1476,16 +1414,14 @@ Package hyperref Info: Option `hypertexnames' set `false' on input line 46.
 Package hyperref Info: Option `colorlinks' set `true' on input line 46.
 Package hyperref Info: Option `unicode' set `true' on input line 46.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\puenc.def
-"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
 File: puenc.def 2016/05/21 v6.83p Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 46.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty"
 Package: csquotes 2016/07/14 v5.1h context-sensitive quotations (JAW)
 \csq@reset=\count344
 \csq@gtype=\count345
@@ -1495,34 +1431,34 @@ Package: csquotes 2016/07/14 v5.1h context-sensitive quotations (JAW)
 \csq@tshold=\count349
 \csq@ltx@everypar=\toks21
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
-def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\csquotes\csquotes.def"
 File: csquotes.def 2016/07/14 v5.1h csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.
-cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg"
 File: csquotes.cfg 
 )
 Package csquotes Info: Enabling multilingual quotes.
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\placeins\placeins.
-sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
 Package: placeins 2005/04/18  v 2.2
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\engli
-sh.lbx"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
 File: english.lbx 2016/09/17 v3.6 biblatex localization (PK/JW/AB)
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux)
-(Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
+
+(main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux
+
+LaTeX Warning: Label `fig:20150907sample214spincoated5' multiply defined.
+
+) (Chapters/Chapter2.5.aux) (Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
@@ -1542,14 +1478,13 @@ LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 87.
-
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -1621,17 +1556,14 @@ File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\base\transl
-ator\dicts\translator-basic-dictionary\translator-basic-dictionary-English.dict
-"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\tran
+slator-basic-dictionary\translator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-ab
-breviations.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+"
 File: siunitx-abbreviations.cfg 2016/09/02 v2.6s siunitx: Abbreviated units
-)
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count350
 \scratchdimen=\dimen185
@@ -1644,17 +1576,12 @@ ii"
 \MPnumerator=\count354
 \makeMPintoPDFobject=\count355
 \everyMPtoPDFconversion=\toks23
-)
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
@@ -1722,26 +1649,21 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 87.
 Package biblatex Info: Reference segment=0 on input line 87.
 \AtBeginShipoutBox=\box54
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+LaTeX Info: Redefining \color on input line 83.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
-"
-Package: color 2016/06/02 v1.1d Standard LaTeX Color (DPC)
-LaTeX Info: Redefining \color on input line 86.
-
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cfg
-"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 147.
+Package color Info: Driver file: pdftex.def on input line 144.
 )
 Package hyperref Info: Link coloring ON on input line 87.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
-ty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
-estring.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count356
@@ -1749,7 +1671,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 87.
 LaTeX Info: Redefining \pageref on input line 87.
 LaTeX Info: Redefining \nameref on input line 87.
- (main.out) (main.out)
+
+(main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -1769,21 +1692,21 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 
 
 
-{C:/Users/wango/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ]
 --------------------
  Declaration of Authorship
 --------------------
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 141.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 144.
 
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 141.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 144.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
@@ -1791,111 +1714,330 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--147
 [3] [4
 
 ]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 197.
+ (main.toc
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
+)
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+
+1: section
+[5
+
+] [6
+
+]
 1: section
 \openout2 = `Chapters/Chapter1.aux'.
 
 (Chapters/Chapter1.tex
 Chapter 1.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 24.
-)
+<Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg, id=154, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg used on in
+put line 34.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+
+<Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg, id=155, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg used on in
+put line 42.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+
+<Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg, id=156, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg used on in
+put line 54.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 1: section
 [1
 
 
+ <./Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg> <./Figures/pic/WP_20160921_20_
+40_32_Pro_LI.jpg>]
+<Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg, id=164, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg Graphic file (type jpg)
 
-]
+<use Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg used on in
+put line 65.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+) [2 <./Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg> <./Figures/pic/WP_20160921
+_20_40_42_Pro_LI.jpg>]
 \openout2 = `Chapters/Chapter2.aux'.
 
- (Chapters/Chapter2.tex [2
 
-
-
-]
+(Chapters/Chapter2.tex
 Chapter 2.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 30.
+<Figures/pic/Unbenannt.png, id=172, 691.83469pt x 447.92343pt>
+File: Figures/pic/Unbenannt.png Graphic file (type png)
+
+<use Figures/pic/Unbenannt.png>
+Package pdftex.def Info: Figures/pic/Unbenannt.png used on input line 15.
+(pdftex.def)             Requested size: 252.94385pt x 163.7675pt.
+
+<Figures/pic/Unbenannt1.png, id=173, 803.25093pt x 346.29375pt>
+File: Figures/pic/Unbenannt1.png Graphic file (type png)
+
+<use Figures/pic/Unbenannt1.png>
+Package pdftex.def Info: Figures/pic/Unbenannt1.png used on input line 25.
+(pdftex.def)             Requested size: 252.94385pt x 109.04611pt.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
+
 1: section
-[3]
+[3
+
+
+
+ <./Figures/pic/Unbenannt.png> <./Figures/pic/Unbenannt1.png>]
 Overfull \hbox (5.2734pt too wide) in paragraph at lines 46--47
 \T1/ppl/m/n/10.95 al-ready ruled out a cou-ple of ma-te-ri-als, for in-stance, 
 glass/quartz(distraction
  []
 
-[4] [5]
-Overfull \hbox (3.30208pt too wide) in paragraph at lines 144--145
+
+<Figures/pic/20150907_sample214_spincoated_5.jpg, id=183, 770.88pt x 578.16pt>
+File: Figures/pic/20150907_sample214_spincoated_5.jpg Graphic file (type jpg)
+
+<use Figures/pic/20150907_sample214_spincoated_5.jpg>
+Package pdftex.def Info: Figures/pic/20150907_sample214_spincoated_5.jpg used o
+n input line 55.
+(pdftex.def)             Requested size: 252.94385pt x 189.70828pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5 <./Figures/pic/20150907_sample214_spincoated_5.jpg>]
+<Figures/pic/20150917-132834_sample214_49_q00.png, id=207, 361.35pt x 271.0125p
+t>
+File: Figures/pic/20150917-132834_sample214_49_q00.png Graphic file (type png)
+ <use Figures/pic/20150917-132834_sample214_49_q00.png>
+Package pdftex.def Info: Figures/pic/20150917-132834_sample214_49_q00.png used 
+on input line 62.
+(pdftex.def)             Requested size: 252.94385pt x 189.70744pt.
+
+<Figures/pic/2015-09-16_12h06m53s_confocal_xy_image_from_raw.png, id=208, 225.8
+4375pt x 225.84375pt>
+File: Figures/pic/2015-09-16_12h06m53s_confocal_xy_image_from_raw.png Graphic f
+ile (type png)
+
+<use Figures/pic/2015-09-16_12h06m53s_confocal_xy_image_from_raw.png>
+Package pdftex.def Info: Figures/pic/2015-09-16_12h06m53s_confocal_xy_image_fro
+m_raw.png used on input line 69.
+(pdftex.def)             Requested size: 252.94385pt x 252.9605pt.
+ [6 <./Figures/pic/20150917-132834_sample214_49_q00.png> <./Figures/pic/2015-09
+-16_12h06m53s_confocal_xy_image_from_raw.png>]
+<Figures/pic/image470.jpg, id=215, 1204.5pt x 903.375pt>
+File: Figures/pic/image470.jpg Graphic file (type jpg)
+
+<use Figures/pic/image470.jpg>
+Package pdftex.def Info: Figures/pic/image470.jpg used on input line 121.
+(pdftex.def)             Requested size: 252.94385pt x 189.70056pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7] [8 <./Figures/pic/image470.jpg>]
+Overfull \hbox (3.30208pt too wide) in paragraph at lines 167--168
  []\T1/ppl/b/n/10.95 PLE[] \T1/ppl/m/n/10.95 res-o-nance ex-ci-ta-tion of op-ti
 -cal tran-si-tion. Rsé-so-lu-tion lim-ited by scan-
  []
 
+) [9]
+\openout2 = `Chapters/Chapter2.5.aux'.
 
-Overfull \hbox (18.68384pt too wide) in paragraph at lines 154--155
+ (Chapters/Chapter2.5.tex [10
+
+
+
+]
+Chapter 3.
+
+Overfull \hbox (18.68384pt too wide) in paragraph at lines 13--14
 \T1/ppl/m/n/10.95 bon, and graphitic shells and ul-ti-mate the $\OML/cmm/m/it/1
 0.95 sp[]$ \T1/ppl/m/n/10.95 phase of di-a-mond[T.Gaebel,2010].
  []
 
 
-Overfull \hbox (1.8885pt too wide) in paragraph at lines 157--158
+Overfull \hbox (1.8885pt too wide) in paragraph at lines 16--17
  []\T1/ppl/b/n/10.95 method[] \T1/ppl/m/n/10.95 As re-ported, ox-i-da-tion of $
 \OML/cmm/m/it/10.95 sp[]$ \T1/ppl/m/n/10.95 car-bon al-ready starts at $\OT1/cm
 r/m/n/10.95 400[]\OML/cmm/m/it/10.95 C$\T1/ppl/m/n/10.95 , while
  []
 
 
-Overfull \hbox (3.59836pt too wide) in paragraph at lines 163--164
+Overfull \hbox (3.59836pt too wide) in paragraph at lines 22--23
  []\T1/ppl/b/n/10.95 pre-characterisation[] \T1/ppl/m/n/10.95 Be-fore the ox-i-
 da-tion, we tried to char-ac-terise the sam-
  []
 
-[6]
-Overfull \hbox (9.8561pt too wide) in paragraph at lines 190--191
+1: section
+[11]
+<Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png, id=251, 744.7825pt
+ x 624.3325pt>
+File: Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png Graphic file (
+type png)
+
+<use Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png>
+Package pdftex.def Info: Figures/pic/2015-09-07-ow-capture-20150907151210-744-1
+.png used on input line 30.
+(pdftex.def)             Requested size: 252.94385pt x 212.03207pt.
+
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 27.2pt needed,
+(scrlayer-scrpage)                but only 18.85364pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting geometry's option
+(scrlayer-scrpage)                `head=27.2pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 4
+7.
+
+
+Overfull \vbox (8.34636pt too high) has occurred while \output is active []
+
+
+[12 <./Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png (PNG copy)>]
+Overfull \hbox (9.8561pt too wide) in paragraph at lines 49--50
 []\T1/ppl/m/n/10.95 To ob-serve the dif-fu-sion with a spec-trom-e-ter, we in-t
 ro-duced time-resolved
  []
 
-[7]
-Overfull \hbox (6.86154pt too wide) in paragraph at lines 209--211
+<Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg, id=258, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg used on in
+put line 62.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+
+Overfull \hbox (6.86154pt too wide) in paragraph at lines 68--70
  []\T1/ppl/b/n/10.95 post-oxidation char-ac-ter-i-sa-tion[] \T1/ppl/m/n/10.95 1
 . Op-ti-cal mi-croscopy check The first thing
  []
 
-[8]
-Overfull \hbox (21.41249pt too wide) in paragraph at lines 274--284
-[]\T1/ppl/m/n/10.95 2.Mapping of $\OML/cmm/m/it/10.95 SiV[]$ \T1/ppl/m/n/10.95 
-with room tem-per-a-ture setup. Once again, we exxplored
- []
+[13 <./Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg>]
+<Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg, id=266, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg used on in
+put line 97.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+ [14 <./Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg>]
+<Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg, id=275, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg used on in
+put line 112.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+File: Figures/pic/20150907_sample214_spincoated_5.jpg Graphic file (type jpg)
+
+<use Figures/pic/20150907_sample214_spincoated_5.jpg>
+Package pdftex.def Info: Figures/pic/20150907_sample214_spincoated_5.jpg used o
+n input line 125.
+(pdftex.def)             Requested size: 252.94385pt x 189.70828pt.
+
+<Figures/pic/dc.png, id=276, 663.98062pt x 651.18282pt>
+File: Figures/pic/dc.png Graphic file (type png)
+
+<use Figures/pic/dc.png>
+Package pdftex.def Info: Figures/pic/dc.png used on input line 137.
+(pdftex.def)             Requested size: 252.94385pt x 248.06808pt.
 
 
-Overfull \hbox (20.95319pt too wide) in paragraph at lines 318--320
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg>]
+<Figures/pic/WP_20160921_21_04_59_Moment.jpg, id=285, 1084.05pt x 1927.2pt>
+File: Figures/pic/WP_20160921_21_04_59_Moment.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_21_04_59_Moment.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_21_04_59_Moment.jpg used on in
+put line 151.
+(pdftex.def)             Requested size: 252.94385pt x 449.65733pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16 <./Figures/pic/dc.png>]
+<Figures/pic/WP_20160921_21_05_04_Moment.jpg, id=292, 1084.05pt x 1927.2pt>
+File: Figures/pic/WP_20160921_21_05_04_Moment.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_21_05_04_Moment.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_21_05_04_Moment.jpg used on in
+put line 168.
+(pdftex.def)             Requested size: 252.94385pt x 449.65733pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./Figures/pic/WP_20160921_21_04_59_Moment.jpg>]
+Overfull \hbox (20.95319pt too wide) in paragraph at lines 177--179
 \T1/ppl/m/n/10.95 cool-ing, GR1 get-ting closer to the sur-face due to ox-i-da-
 tion caused size/thickness
  []
 
-[9]) [10]
+<Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg, id=299, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg used on in
+put line 191.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <./Figures/pic/WP_20160921_21_05_04_Moment.jpg>]
+<Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg, id=308, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg used on in
+put line 205.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+) [19 <./Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg> <./Figures/pic/WP_2016092
+1_21_05_13_Pro_LI.jpg>]
 \openout2 = `Chapters/Chapter3.aux'.
 
- (Chapters/Chapter3.tex
-Chapter 3.
 
-Overfull \hbox (5.548pt too wide) in paragraph at lines 29--30
+(Chapters/Chapter3.tex [20
+
+
+
+]
+Chapter 4.
+
+Overfull \hbox (5.548pt too wide) in paragraph at lines 28--29
  []\T1/ppl/b/n/10.95 better method for size se-lec-tion[] \T1/ppl/m/n/10.95 por
 ous/gel sys-tem, chro-mato-graphic way
  []
 
 )
 1: section
-[11
-
-
-
-]
+[21]
 \openout2 = `Appendices/AppendixA.aux'.
 
- (Appendices/AppendixA.tex [12
+ (Appendices/AppendixA.tex [22
 
 
 
@@ -1903,56 +2045,88 @@ ous/gel sys-tem, chro-mato-graphic way
 Appendix A.
 )
 1: section
-[13] [14
+[23] [24
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 279.
-
-("C:\Users\wango\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 283.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
 
 1: section
-[15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
+[25]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
  (main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux)
-(Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 283.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 283.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 30D929A780F8970D145124A7A1A5AADF;4579.
+(Chapters/Chapter2.5.aux) (Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: C10E261AFAEF22FACC7D95E8DB4FD716;5077
+(rerunfilecheck)             After:  4217BB19BA81FEFE8CFA43A2416A7620;5077.
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31936 strings out of 493335
- 653617 string characters out of 3130231
- 843496 words of memory out of 3000000
- 35055 multiletter control sequences out of 15000+200000
- 37561 words of font info for 65 fonts, out of 3000000 for 9000
+ 32114 strings out of 493335
+ 655479 string characters out of 3136674
+ 843379 words of memory out of 3000000
+ 35154 multiletter control sequences out of 15000+200000
+ 39167 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,20n,82p,10379b,1797s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r
-.enc}<C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi10.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmmi8.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/wango/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/wango/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/wango
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
-:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/cou
-rier/ucrr8a.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
-rw/palatino/uplb8a.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/palatino/uplr8a.pfb><C:/Users/wango/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/wango/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (19 pages, 200332 bytes).
+ 55i,20n,75p,10379b,1803s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{appendix*.79} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{appendix.78} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.72} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.68} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.67} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.61} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.56} has been referenced but does not exi
+st, replaced by a fixed one
+
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
+/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatin
+o/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8
+a.pfb>
+Output written on main.pdf (31 pages, 46397079 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
- 185 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 435 PDF objects out of 1000 (max. 8388607)
+ 131 named destinations out of 1000 (max. 500000)
+ 288 words of extra memory for PDF output out of 10000 (max. 10000000)
 

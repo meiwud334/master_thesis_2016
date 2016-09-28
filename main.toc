@@ -1,0 +1,71 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\contentsline {chapter}{Declaration of Authorship}{iii}{section*.1}
+\contentsline {chapter}{\numberline {1}Motivation and Background}{1}{chapter.3}
+\contentsline {section}{\numberline {1.1}Quantum info processing and Qubit candidates}{1}{section.4}
+\contentsline {section}{\numberline {1.2}Silicon vacancy as a Qubit candidate}{1}{section.5}
+\contentsline {section}{\numberline {1.3}Silicon vacancies in nanodiamonds}{1}{section.8}
+\contentsline {section}{\numberline {1.4}Motivation of the thesis, unsolved problem}{2}{section.10}
+\contentsline {chapter}{\numberline {2}Experimental approach of surpressing the spectral diffusion}{3}{chapter.12}
+\contentsline {section}{\numberline {2.1}Information regarding the nanodiamond sample}{3}{section.13}
+\contentsline {paragraph}{here is a paragraph about the fabrication of nanodiamond}{3}{figure.caption.15}
+\contentsline {paragraph}{here is a paragraph about the separation of the nanodiamonds}{3}{figure.caption.17}
+\contentsline {section}{\numberline {2.2}sample preparation}{3}{section.18}
+\contentsline {subsection}{\numberline {2.2.1}preparation of the substrate}{3}{subsection.19}
+\contentsline {paragraph}{IIa diamond as substrate}{3}{section*.20}
+\contentsline {paragraph}{1.}{4}{section*.21}
+\contentsline {paragraph}{2.}{4}{section*.22}
+\contentsline {paragraph}{3.}{4}{section*.23}
+\contentsline {paragraph}{4.}{4}{section*.24}
+\contentsline {paragraph}{}{4}{section*.25}
+\contentsline {paragraph}{Focused Ion Beam milling}{4}{section*.26}
+\contentsline {paragraph}{here is a sketch of how Ga-ion bombards the surface of substrate}{4}{section*.27}
+\contentsline {paragraph}{here insert image of markers, optical, sem and confocal}{5}{figure.caption.29}
+\contentsline {subsection}{\numberline {2.2.2}spin-coating of the sample}{6}{subsection.32}
+\contentsline {subsubsection}{theory of spin coating}{6}{section*.33}
+\contentsline {paragraph}{here we need a list of different program of spin coating that we have tried,with indexxxxx}{7}{section*.34}
+\contentsline {subsubsection}{Acid cleaning}{7}{section*.35}
+\contentsline {paragraph}{here insert a sketch of how we do acid cleaning}{7}{section*.36}
+\contentsline {paragraph}{here insert image of before and after cleaning substrate, optical image, confocal image }{7}{figure.caption.38}
+\contentsline {section}{\numberline {2.3}experiment apparatus}{8}{section.39}
+\contentsline {paragraph}{The initial Setup}{8}{section*.40}
+\contentsline {paragraph}{here inserts a picture of our flow cryostat, from out and in side.}{9}{section*.41}
+\contentsline {paragraph}{here insert a sketch of the cryo4 setup}{9}{section*.42}
+\contentsline {paragraph}{PL}{9}{section*.43}
+\contentsline {paragraph}{PLE}{9}{section*.44}
+\contentsline {paragraph}{time resolved PL spectra}{9}{section*.45}
+\contentsline {paragraph}{}{9}{section*.46}
+\contentsline {chapter}{\numberline {3}Experimental approach towards the improvement of optical properties of silicon vacancies in nanodiamonds via surface treatment}{11}{chapter.47}
+\contentsline {section}{\numberline {3.1}Oxidation}{11}{section.48}
+\contentsline {paragraph}{Effect of Oxidation}{11}{section*.49}
+\contentsline {subsection}{\numberline {3.1.1}first Oxidation}{11}{subsection.50}
+\contentsline {paragraph}{method}{11}{section*.51}
+\contentsline {paragraph}{setup}{11}{section*.52}
+\contentsline {paragraph}{pre-characterisation}{12}{section*.53}
+\contentsline {paragraph}{post-oxidation characterisation}{13}{section*.56}
+\contentsline {paragraph}{Analysis}{14}{section*.58}
+\contentsline {subsection}{\numberline {3.1.2}Second Oxidation}{14}{subsection.59}
+\contentsline {paragraph}{method}{14}{section*.60}
+\contentsline {paragraph}{Before Oxidation}{15}{section*.62}
+\contentsline {paragraph}{After Oxidation}{17}{section*.66}
+\contentsline {paragraph}{Analysis}{18}{section*.68}
+\contentsline {section}{\numberline {3.2}H termination}{18}{section.69}
+\contentsline {paragraph}{Effect of H termination}{18}{section*.70}
+\contentsline {paragraph}{method}{19}{section*.72}
+\contentsline {paragraph}{why no pre characterisation}{19}{section*.73}
+\contentsline {paragraph}{After H termination}{19}{section*.74}
+\contentsline {paragraph}{Analysis}{19}{section*.76}
+\contentsline {chapter}{\numberline {4}Conclusion and outlook}{21}{chapter.77}
+\contentsline {section}{\numberline {4.1}The road so far}{21}{section.78}
+\contentsline {paragraph}{Initial motivation}{21}{section*.79}
+\contentsline {paragraph}{Development of a method to estimate the spectral diffusion}{21}{section*.80}
+\contentsline {paragraph}{Surface treatments and their effects}{21}{section*.81}
+\contentsline {section}{\numberline {4.2} Probabilities in the near future}{21}{section.82}
+\contentsline {paragraph}{PLE}{21}{section*.83}
+\contentsline {paragraph}{life time measurement}{21}{section*.84}
+\contentsline {paragraph}{comparasion of different surface group}{21}{section*.85}
+\contentsline {paragraph}{better method for size selection}{21}{section*.86}
+\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{21}{section*.87}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{23}{appendix.88}
+\contentsline {chapter}{Bibliography}{25}{appendix*.89}
