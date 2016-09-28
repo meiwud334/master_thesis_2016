@@ -30,42 +30,40 @@
 \contentsline {paragraph}{here insert image of before and after cleaning substrate, optical image, confocal image }{7}{figure.caption.38}
 \contentsline {section}{\numberline {2.3}experiment apparatus}{8}{section.39}
 \contentsline {paragraph}{The initial Setup}{8}{section*.40}
-\contentsline {paragraph}{here inserts a picture of our flow cryostat, from out and in side.}{9}{section*.41}
-\contentsline {paragraph}{here insert a sketch of the cryo4 setup}{9}{section*.42}
-\contentsline {paragraph}{PL}{9}{section*.43}
-\contentsline {paragraph}{PLE}{9}{section*.44}
-\contentsline {paragraph}{time resolved PL spectra}{9}{section*.45}
-\contentsline {paragraph}{}{9}{section*.46}
-\contentsline {chapter}{\numberline {3}Experimental approach towards the improvement of optical properties of silicon vacancies in nanodiamonds via surface treatment}{11}{chapter.47}
-\contentsline {section}{\numberline {3.1}Oxidation}{11}{section.48}
-\contentsline {paragraph}{Effect of Oxidation}{11}{section*.49}
-\contentsline {subsection}{\numberline {3.1.1}first Oxidation}{11}{subsection.50}
-\contentsline {paragraph}{method}{11}{section*.51}
-\contentsline {paragraph}{setup}{11}{section*.52}
-\contentsline {paragraph}{pre-characterisation}{12}{section*.53}
-\contentsline {paragraph}{post-oxidation characterisation}{13}{section*.56}
-\contentsline {paragraph}{Analysis}{14}{section*.58}
-\contentsline {subsection}{\numberline {3.1.2}Second Oxidation}{14}{subsection.59}
-\contentsline {paragraph}{method}{14}{section*.60}
-\contentsline {paragraph}{Before Oxidation}{15}{section*.62}
-\contentsline {paragraph}{After Oxidation}{17}{section*.66}
-\contentsline {paragraph}{Analysis}{18}{section*.68}
-\contentsline {section}{\numberline {3.2}H termination}{18}{section.69}
-\contentsline {paragraph}{Effect of H termination}{18}{section*.70}
-\contentsline {paragraph}{method}{19}{section*.72}
-\contentsline {paragraph}{why no pre characterisation}{19}{section*.73}
-\contentsline {paragraph}{After H termination}{19}{section*.74}
-\contentsline {paragraph}{Analysis}{19}{section*.76}
-\contentsline {chapter}{\numberline {4}Conclusion and outlook}{21}{chapter.77}
-\contentsline {section}{\numberline {4.1}The road so far}{21}{section.78}
-\contentsline {paragraph}{Initial motivation}{21}{section*.79}
-\contentsline {paragraph}{Development of a method to estimate the spectral diffusion}{21}{section*.80}
-\contentsline {paragraph}{Surface treatments and their effects}{21}{section*.81}
-\contentsline {section}{\numberline {4.2} Probabilities in the near future}{21}{section.82}
-\contentsline {paragraph}{PLE}{21}{section*.83}
-\contentsline {paragraph}{life time measurement}{21}{section*.84}
-\contentsline {paragraph}{comparasion of different surface group}{21}{section*.85}
-\contentsline {paragraph}{better method for size selection}{21}{section*.86}
-\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{21}{section*.87}
-\contentsline {chapter}{\numberline {A}Appendix Title Here}{23}{appendix.88}
-\contentsline {chapter}{Bibliography}{25}{appendix*.89}
+\contentsline {paragraph}{PL}{9}{section*.42}
+\contentsline {paragraph}{PLE}{9}{section*.43}
+\contentsline {paragraph}{time resolved PL spectra}{9}{section*.44}
+\contentsline {paragraph}{}{9}{section*.45}
+\contentsline {chapter}{\numberline {3}Experimental approach towards the improvement of optical properties of silicon vacancies in nanodiamonds via surface treatment}{11}{chapter.46}
+\contentsline {section}{\numberline {3.1}Oxidation}{11}{section.47}
+\contentsline {paragraph}{Effect of Oxidation}{11}{section*.48}
+\contentsline {subsection}{\numberline {3.1.1}first Oxidation}{11}{subsection.49}
+\contentsline {paragraph}{method}{11}{section*.50}
+\contentsline {paragraph}{setup}{11}{section*.51}
+\contentsline {paragraph}{pre-characterisation}{12}{section*.52}
+\contentsline {paragraph}{post-oxidation characterisation}{13}{section*.55}
+\contentsline {paragraph}{Analysis}{14}{section*.57}
+\contentsline {subsection}{\numberline {3.1.2}Second Oxidation}{14}{subsection.58}
+\contentsline {paragraph}{method}{14}{section*.59}
+\contentsline {paragraph}{Before Oxidation}{15}{section*.61}
+\contentsline {paragraph}{After Oxidation}{17}{section*.65}
+\contentsline {paragraph}{Analysis}{18}{section*.67}
+\contentsline {section}{\numberline {3.2}H termination}{18}{section.68}
+\contentsline {paragraph}{Effect of H termination}{18}{section*.69}
+\contentsline {paragraph}{method}{19}{section*.71}
+\contentsline {paragraph}{why no pre characterisation}{19}{section*.72}
+\contentsline {paragraph}{After H termination}{19}{section*.73}
+\contentsline {paragraph}{Analysis}{19}{section*.75}
+\contentsline {chapter}{\numberline {4}Conclusion and outlook}{21}{chapter.76}
+\contentsline {section}{\numberline {4.1}The road so far}{21}{section.77}
+\contentsline {paragraph}{Initial motivation}{21}{section*.78}
+\contentsline {paragraph}{Development of a method to estimate the spectral diffusion}{21}{section*.79}
+\contentsline {paragraph}{Surface treatments and their effects}{21}{section*.80}
+\contentsline {section}{\numberline {4.2} Probabilities in the near future}{21}{section.81}
+\contentsline {paragraph}{PLE}{21}{section*.82}
+\contentsline {paragraph}{life time measurement}{21}{section*.83}
+\contentsline {paragraph}{comparasion of different surface group}{21}{section*.84}
+\contentsline {paragraph}{better method for size selection}{21}{section*.85}
+\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{21}{section*.86}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{23}{appendix.87}
+\contentsline {chapter}{Bibliography}{25}{appendix*.88}

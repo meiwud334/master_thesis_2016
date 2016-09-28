@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  28 SEP 2016 09:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  28 SEP 2016 22:15
 entering extended mode
 **./main.tex
 (main.tex
@@ -1458,7 +1458,11 @@ Package csquotes Info: ... found 'babel' package.
 
 LaTeX Warning: Label `fig:20150907sample214spincoated5' multiply defined.
 
-) (Chapters/Chapter2.5.aux) (Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
+) (Chapters/Chapter2.5.aux
+
+LaTeX Warning: Label `fig:20150907sample214spincoated5' multiply defined.
+
+) (Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
@@ -1478,6 +1482,7 @@ LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 87.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
@@ -1853,13 +1858,23 @@ Package pdftex.def Info: Figures/pic/image470.jpg used on input line 121.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7] [8 <./Figures/pic/image470.jpg>]
-Overfull \hbox (3.30208pt too wide) in paragraph at lines 167--168
+[7] <Figures/pic/microscope.png, id=224, 845.40843pt x 597.73312pt>
+File: Figures/pic/microscope.png Graphic file (type png)
+
+<use Figures/pic/microscope.png>
+Package pdftex.def Info: Figures/pic/microscope.png used on input line 147.
+(pdftex.def)             Requested size: 252.94385pt x 178.83792pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 <./Figures/pic/image470.jpg>]
+Overfull \hbox (3.30208pt too wide) in paragraph at lines 161--162
  []\T1/ppl/b/n/10.95 PLE[] \T1/ppl/m/n/10.95 res-o-nance ex-ci-ta-tion of op-ti
 -cal tran-si-tion. Rsé-so-lu-tion lim-ited by scan-
  []
 
-) [9]
+) [9 <./Figures/pic/microscope.png>]
 \openout2 = `Chapters/Chapter2.5.aux'.
 
  (Chapters/Chapter2.5.tex [10
@@ -1889,7 +1904,7 @@ da-tion, we tried to char-ac-terise the sam-
 
 1: section
 [11]
-<Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png, id=251, 744.7825pt
+<Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png, id=256, 744.7825pt
  x 624.3325pt>
 File: Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png Graphic file (
 type png)
@@ -1920,7 +1935,7 @@ Overfull \hbox (9.8561pt too wide) in paragraph at lines 49--50
 ro-duced time-resolved
  []
 
-<Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg, id=258, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg, id=263, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg>
@@ -1934,7 +1949,7 @@ Overfull \hbox (6.86154pt too wide) in paragraph at lines 68--70
  []
 
 [13 <./Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg, id=266, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg, id=271, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg>
@@ -1942,7 +1957,7 @@ Package pdftex.def Info: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg used on in
 put line 97.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
  [14 <./Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg, id=275, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg, id=280, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg>
@@ -1956,7 +1971,7 @@ Package pdftex.def Info: Figures/pic/20150907_sample214_spincoated_5.jpg used o
 n input line 125.
 (pdftex.def)             Requested size: 252.94385pt x 189.70828pt.
 
-<Figures/pic/dc.png, id=276, 663.98062pt x 651.18282pt>
+<Figures/pic/dc.png, id=281, 663.98062pt x 651.18282pt>
 File: Figures/pic/dc.png Graphic file (type png)
 
 <use Figures/pic/dc.png>
@@ -1967,7 +1982,7 @@ Package pdftex.def Info: Figures/pic/dc.png used on input line 137.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [15 <./Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_21_04_59_Moment.jpg, id=285, 1084.05pt x 1927.2pt>
+<Figures/pic/WP_20160921_21_04_59_Moment.jpg, id=289, 1084.05pt x 1927.2pt>
 File: Figures/pic/WP_20160921_21_04_59_Moment.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_04_59_Moment.jpg>
@@ -1979,7 +1994,7 @@ put line 151.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [16 <./Figures/pic/dc.png>]
-<Figures/pic/WP_20160921_21_05_04_Moment.jpg, id=292, 1084.05pt x 1927.2pt>
+<Figures/pic/WP_20160921_21_05_04_Moment.jpg, id=296, 1084.05pt x 1927.2pt>
 File: Figures/pic/WP_20160921_21_05_04_Moment.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_05_04_Moment.jpg>
@@ -1996,7 +2011,7 @@ Overfull \hbox (20.95319pt too wide) in paragraph at lines 177--179
 tion caused size/thickness
  []
 
-<Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg, id=299, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg, id=303, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg>
@@ -2008,7 +2023,7 @@ put line 191.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [18 <./Figures/pic/WP_20160921_21_05_04_Moment.jpg>]
-<Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg, id=308, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg, id=312, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg>
@@ -2069,47 +2084,52 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: C10E261AFAEF22FACC7D95E8DB4FD716;5077
-(rerunfilecheck)             After:  4217BB19BA81FEFE8CFA43A2416A7620;5077.
+(rerunfilecheck)             Before: 92E8A14EA4D7ACF433B379B0DD8EB860;5077
+(rerunfilecheck)             After:  34F6D76110BC849A8718891852F445A2;5077.
 
 LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32114 strings out of 493335
- 655479 string characters out of 3136674
+ 32122 strings out of 493335
+ 655660 string characters out of 3136674
  843379 words of memory out of 3000000
- 35154 multiletter control sequences out of 15000+200000
+ 35159 multiletter control sequences out of 15000+200000
  39167 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,20n,75p,10379b,1803s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{appendix*.79} has been referenced but does not ex
+pdfTeX warning (dest): name{appendix*.90} has been referenced but does not ex
 ist, replaced by a fixed one
 
-pdfTeX warning (dest): name{appendix.78} has been referenced but does not exist
+pdfTeX warning (dest): name{appendix.89} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{section.72} has been referenced but does not exist,
+pdfTeX warning (dest): name{section.83} has been referenced but does not exist,
  replaced by a fixed one
 
-pdfTeX warning (dest): name{section.68} has been referenced but does not exist,
+pdfTeX warning (dest): name{section.79} has been referenced but does not exist,
  replaced by a fixed one
 
-pdfTeX warning (dest): name{chapter.67} has been referenced but does not exist,
+pdfTeX warning (dest): name{chapter.78} has been referenced but does not exist,
  replaced by a fixed one
 
-pdfTeX warning (dest): name{section.61} has been referenced but does not exist,
+pdfTeX warning (dest): name{section.70} has been referenced but does not exist,
  replaced by a fixed one
 
-pdfTeX warning (dest): name{subsection.56} has been referenced but does not exi
+pdfTeX warning (dest): name{subsection.60} has been referenced but does not exi
 st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.51} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.49} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.48} has been referenced but does not exist,
+ replaced by a fixed one
 
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
@@ -2124,9 +2144,9 @@ ype1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
 /palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatin
 o/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8
 a.pfb>
-Output written on main.pdf (31 pages, 46397079 bytes).
+Output written on main.pdf (31 pages, 46449133 bytes).
 PDF statistics:
- 435 PDF objects out of 1000 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
- 288 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 440 PDF objects out of 1000 (max. 8388607)
+ 133 named destinations out of 1000 (max. 500000)
+ 293 words of extra memory for PDF output out of 10000 (max. 10000000)
 
