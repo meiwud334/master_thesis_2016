@@ -6,8 +6,8 @@
 \contentsline {section}{\numberline {1.1}Quantum info processing and Qubit candidates}{1}{section.4}
 \contentsline {section}{\numberline {1.2}Silicon vacancy as a Qubit candidate}{2}{section.5}
 \contentsline {section}{\numberline {1.3}Silicon vacancies in nanodiamonds}{3}{section.8}
-\contentsline {paragraph}{Band-bending near the surface of diamond}{3}{section*.10}
-\contentsline {section}{\numberline {1.4}Motivation of the thesis, unsolved problem}{3}{section.11}
+\contentsline {paragraph}{Band-bending near the surface of diamond}{4}{section*.10}
+\contentsline {section}{\numberline {1.4}Motivation of the thesis, unsolved problem}{4}{section.11}
 \contentsline {chapter}{\numberline {2}Sample preparation and Experiment Apparatus}{5}{chapter.13}
 \contentsline {section}{\numberline {2.1}Information regarding the nanodiamond sample}{5}{section.14}
 \contentsline {paragraph}{here is a paragraph about the fabrication of nanodiamond}{5}{figure.caption.16}

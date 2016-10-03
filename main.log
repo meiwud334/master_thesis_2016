@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  3 OCT 2016 02:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  3 OCT 2016 03:10
 entering extended mode
 **./main.tex
 (main.tex
@@ -1752,50 +1752,49 @@ Overfull \hbox (2.79778pt too wide) in paragraph at lines 51--52
 nd-ing op-ti-cal prop-
  []
 
-<Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg, id=145, 5364.04pt x 3019.28pt>
+[2]
+<Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg, id=153, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg used on in
-put line 65.
+put line 70.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
 
-<Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg, id=146, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg, id=154, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg used on in
-put line 73.
+put line 78.
+(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+
+<Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg, id=155, 5364.04pt x 3019.28pt>
+File: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg Graphic file (type jpg)
+
+<use Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>
+Package pdftex.def Info: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg used on in
+put line 90.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2 <./Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg, id=156, 5364.04pt x 3019.28pt>
-File: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg Graphic file (type jpg)
-
-<use Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg used on in
-put line 85.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
-
-<Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg, id=157, 5364.04pt x 3019.28pt>
+[3 <./Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg> <./Figures/pic/WP_20160921_2
+0_40_32_Pro_LI.jpg>]
+<Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg, id=162, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg used on in
-put line 100.
+put line 110.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
-) [3 <./Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg> <./Figures/pic/WP_20160921
-_20_40_48_Pro_LI.jpg> <./Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>]
+) [4 <./Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg> <./Figures/pic/WP_20160921
+_20_40_42_Pro_LI.jpg>]
 \openout2 = `Chapters/Chapter2.aux'.
 
- (Chapters/Chapter2.tex [4
 
-
-
-]
+(Chapters/Chapter2.tex
 Chapter 2.
 <Figures/pic/Unbenannt.png, id=170, 691.83469pt x 447.92343pt>
 File: Figures/pic/Unbenannt.png Graphic file (type png)
@@ -1814,7 +1813,11 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
 
 1: section
-[5 <./Figures/pic/Unbenannt.png> <./Figures/pic/Unbenannt1.png>]
+[5
+
+
+
+ <./Figures/pic/Unbenannt.png> <./Figures/pic/Unbenannt1.png>]
 Overfull \hbox (5.2734pt too wide) in paragraph at lines 46--47
 \T1/ppl/m/n/10.95 al-ready ruled out a cou-ple of ma-te-ri-als, for in-stance, 
 glass/quartz(distraction
@@ -2109,7 +2112,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX
 s/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/pala
 tino/uplri8a.pfb>
-Output written on main.pdf (31 pages, 46493993 bytes).
+Output written on main.pdf (31 pages, 46496861 bytes).
 PDF statistics:
  404 PDF objects out of 1000 (max. 8388607)
  119 named destinations out of 1000 (max. 500000)
