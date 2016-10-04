@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  3 OCT 2016 20:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  4 OCT 2016 10:35
 entering extended mode
 **./main.tex
 (main.tex
@@ -1454,11 +1454,8 @@ File: english.lbx 2016/09/17 v3.6 biblatex localization (PK/JW/AB)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
-(main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux
-
-LaTeX Warning: Label `fig:20150907sample214spincoated5' multiply defined.
-
-) (Chapters/Chapter2.5.aux
+(main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux)
+(Chapters/Chapter2.5.aux
 
 LaTeX Warning: Label `fig:20150907sample214spincoated5' multiply defined.
 
@@ -1759,7 +1756,7 @@ File: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg Graphic file (type jpg)
 <use Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg used on in
 put line 70.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+(pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
 
 <Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg, id=154, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg Graphic file (type jpg)
@@ -1767,7 +1764,7 @@ File: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg Graphic file (type jpg)
 <use Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg used on in
 put line 78.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+(pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
 
 <Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg, id=155, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg Graphic file (type jpg)
@@ -1775,7 +1772,7 @@ File: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg Graphic file (type jpg)
 <use Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg used on in
 put line 90.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+(pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1788,107 +1785,76 @@ File: Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg Graphic file (type jpg)
 <use Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg used on in
 put line 114.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4 <./Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>]) [5 <./Figures/pic/WP_20160
-921_20_40_42_Pro_LI.jpg>]
+(pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
+ [4 <./Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>]) [5 <./Figures/pic/WP_2016
+0921_20_40_42_Pro_LI.jpg>]
 \openout2 = `Chapters/Chapter2.aux'.
 
- (Chapters/Chapter2.tex [6
+
+(Chapters/Chapter2.tex [6
 
 
 
 ]
 Chapter 2.
-<Figures/pic/Unbenannt.png, id=179, 691.83469pt x 447.92343pt>
-File: Figures/pic/Unbenannt.png Graphic file (type png)
+<Figures/pic/diamondinfo.png, id=179, 845.40843pt x 597.73312pt>
+File: Figures/pic/diamondinfo.png Graphic file (type png)
 
-<use Figures/pic/Unbenannt.png>
-Package pdftex.def Info: Figures/pic/Unbenannt.png used on input line 15.
-(pdftex.def)             Requested size: 252.94385pt x 163.7675pt.
+<use Figures/pic/diamondinfo.png>
+Package pdftex.def Info: Figures/pic/diamondinfo.png used on input line 13.
+(pdftex.def)             Requested size: 361.34995pt x 255.47884pt.
 
-<Figures/pic/Unbenannt1.png, id=180, 803.25093pt x 346.29375pt>
-File: Figures/pic/Unbenannt1.png Graphic file (type png)
 
-<use Figures/pic/Unbenannt1.png>
-Package pdftex.def Info: Figures/pic/Unbenannt1.png used on input line 25.
-(pdftex.def)             Requested size: 252.94385pt x 109.04611pt.
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 20.
+
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
-
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 39.
 1: section
-[7 <./Figures/pic/Unbenannt.png> <./Figures/pic/Unbenannt1.png>]
-Overfull \hbox (5.2734pt too wide) in paragraph at lines 46--47
+[7 <./Figures/pic/diamondinfo.png>]
+Overfull \hbox (5.2734pt too wide) in paragraph at lines 54--55
 \T1/ppl/m/n/10.95 al-ready ruled out a cou-ple of ma-te-ri-als, for in-stance, 
 glass/quartz(distraction
  []
 
+[8] <Figures/pic/fib.png, id=200, 845.40843pt x 597.73312pt>
+File: Figures/pic/fib.png Graphic file (type png)
 
-<Figures/pic/20150907_sample214_spincoated_5.jpg, id=191, 770.88pt x 578.16pt>
-File: Figures/pic/20150907_sample214_spincoated_5.jpg Graphic file (type jpg)
-
-<use Figures/pic/20150907_sample214_spincoated_5.jpg>
-Package pdftex.def Info: Figures/pic/20150907_sample214_spincoated_5.jpg used o
-n input line 55.
-(pdftex.def)             Requested size: 252.94385pt x 189.70828pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[8] [9 <./Figures/pic/20150907_sample214_spincoated_5.jpg>]
-<Figures/pic/20150917-132834_sample214_49_q00.png, id=210, 361.35pt x 271.0125p
-t>
-File: Figures/pic/20150917-132834_sample214_49_q00.png Graphic file (type png)
- <use Figures/pic/20150917-132834_sample214_49_q00.png>
-Package pdftex.def Info: Figures/pic/20150917-132834_sample214_49_q00.png used 
-on input line 62.
-(pdftex.def)             Requested size: 252.94385pt x 189.70744pt.
-
-<Figures/pic/2015-09-16_12h06m53s_confocal_xy_image_from_raw.png, id=211, 225.8
-4375pt x 225.84375pt>
-File: Figures/pic/2015-09-16_12h06m53s_confocal_xy_image_from_raw.png Graphic f
-ile (type png)
-
-<use Figures/pic/2015-09-16_12h06m53s_confocal_xy_image_from_raw.png>
-Package pdftex.def Info: Figures/pic/2015-09-16_12h06m53s_confocal_xy_image_fro
-m_raw.png used on input line 69.
-(pdftex.def)             Requested size: 252.94385pt x 252.9605pt.
- [10 <./Figures/pic/20150917-132834_sample214_49_q00.png> <./Figures/pic/2015-0
-9-16_12h06m53s_confocal_xy_image_from_raw.png>]
-<Figures/pic/image470.jpg, id=219, 1204.5pt x 903.375pt>
+<use Figures/pic/fib.png>
+Package pdftex.def Info: Figures/pic/fib.png used on input line 63.
+(pdftex.def)             Requested size: 361.34995pt x 255.47884pt.
+ [9 <./Figures/pic/fib.png>]
+<Figures/pic/image470.jpg, id=211, 1204.5pt x 903.375pt>
 File: Figures/pic/image470.jpg Graphic file (type jpg)
 
 <use Figures/pic/image470.jpg>
-Package pdftex.def Info: Figures/pic/image470.jpg used on input line 121.
-(pdftex.def)             Requested size: 252.94385pt x 189.70056pt.
+Package pdftex.def Info: Figures/pic/image470.jpg used on input line 116.
+(pdftex.def)             Requested size: 361.34995pt x 271.01459pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11] <Figures/pic/initialsetup.png, id=228, 597.73312pt x 845.40843pt>
+[10] <Figures/pic/initialsetup.png, id=220, 597.73312pt x 845.40843pt>
 File: Figures/pic/initialsetup.png Graphic file (type png)
 
 <use Figures/pic/initialsetup.png>
-Package pdftex.def Info: Figures/pic/initialsetup.png used on input line 140.
-(pdftex.def)             Requested size: 252.94385pt x 357.75229pt.
+Package pdftex.def Info: Figures/pic/initialsetup.png used on input line 135.
+(pdftex.def)             Requested size: 361.34995pt x 511.08023pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/microscope.png, id=230, 845.40843pt x 597.73312pt>
+<Figures/pic/microscope.png, id=221, 845.40843pt x 597.73312pt>
 File: Figures/pic/microscope.png Graphic file (type png)
 
 <use Figures/pic/microscope.png>
-Package pdftex.def Info: Figures/pic/microscope.png used on input line 154.
-(pdftex.def)             Requested size: 252.94385pt x 178.83792pt.
+Package pdftex.def Info: Figures/pic/microscope.png used on input line 149.
+(pdftex.def)             Requested size: 361.34995pt x 255.47884pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12 <./Figures/pic/image470.jpg>] [13 <./Figures/pic/initialsetup.png>])
+[11 <./Figures/pic/image470.jpg>]) [12] [13 <./Figures/pic/initialsetup.png>]
 [14 <./Figures/pic/microscope.png>]
 \openout2 = `Chapters/Chapter2.5.aux'.
 
@@ -1918,16 +1884,12 @@ da-tion, we tried to char-ac-terise the sam-
 
 
 
-]
-<Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png, id=260, 744.7825pt
- x 624.3325pt>
-File: Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png Graphic file (
-type png)
+] <Figures/pic/RTPL.png, id=255, 845.40843pt x 597.73312pt>
+File: Figures/pic/RTPL.png Graphic file (type png)
 
-<use Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png>
-Package pdftex.def Info: Figures/pic/2015-09-07-ow-capture-20150907151210-744-1
-.png used on input line 30.
-(pdftex.def)             Requested size: 252.94385pt x 212.03207pt.
+<use Figures/pic/RTPL.png>
+Package pdftex.def Info: Figures/pic/RTPL.png used on input line 30.
+(pdftex.def)             Requested size: 361.34995pt x 255.47884pt.
 
 
 Package scrlayer-scrpage Warning: \headheight to low.
@@ -1938,112 +1900,115 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=27.2pt'.
 (scrlayer-scrpage)                I'll also decrease \topmargin on input line 4
-7.
+5.
 
 
 Overfull \vbox (8.34636pt too high) has occurred while \output is active []
 
 
-[16 <./Figures/pic/2015-09-07-ow-capture-20150907151210-744-1.png (PNG copy)>]
-Overfull \hbox (9.8561pt too wide) in paragraph at lines 49--50
+[16 <./Figures/pic/RTPL.png>]
+Overfull \hbox (9.8561pt too wide) in paragraph at lines 50--51
 []\T1/ppl/m/n/10.95 To ob-serve the dif-fu-sion with a spec-trom-e-ter, we in-t
 ro-duced time-resolved
  []
 
-<Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg, id=267, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg, id=263, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg used on in
-put line 62.
+put line 63.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
 
-Overfull \hbox (6.86154pt too wide) in paragraph at lines 68--70
+Overfull \hbox (6.86154pt too wide) in paragraph at lines 69--71
  []\T1/ppl/b/n/10.95 post-oxidation char-ac-ter-i-sa-tion[] \T1/ppl/m/n/10.95 1
 . Op-ti-cal mi-croscopy check The first thing
  []
 
 [17 <./Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg, id=274, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg, id=270, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg used on in
-put line 97.
+put line 98.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
  [18 <./Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg, id=281, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg, id=277, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg used on in
-put line 109.
+put line 110.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+
+<Figures/pic/20150907_sample214_spincoated_5.jpg, id=278, 770.88pt x 578.16pt>
 File: Figures/pic/20150907_sample214_spincoated_5.jpg Graphic file (type jpg)
 
 <use Figures/pic/20150907_sample214_spincoated_5.jpg>
 Package pdftex.def Info: Figures/pic/20150907_sample214_spincoated_5.jpg used o
-n input line 122.
+n input line 123.
 (pdftex.def)             Requested size: 252.94385pt x 189.70828pt.
 
-<Figures/pic/dc.png, id=282, 663.98062pt x 651.18282pt>
+<Figures/pic/dc.png, id=279, 663.98062pt x 651.18282pt>
 File: Figures/pic/dc.png Graphic file (type png)
 
 <use Figures/pic/dc.png>
-Package pdftex.def Info: Figures/pic/dc.png used on input line 134.
+Package pdftex.def Info: Figures/pic/dc.png used on input line 135.
 (pdftex.def)             Requested size: 252.94385pt x 248.06808pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19 <./Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_21_04_59_Moment.jpg, id=291, 1084.05pt x 1927.2pt>
+[19 <./Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg> <./Figures/pic/20150907_sam
+ple214_spincoated_5.jpg>]
+<Figures/pic/WP_20160921_21_04_59_Moment.jpg, id=288, 1084.05pt x 1927.2pt>
 File: Figures/pic/WP_20160921_21_04_59_Moment.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_04_59_Moment.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_21_04_59_Moment.jpg used on in
-put line 148.
+put line 149.
 (pdftex.def)             Requested size: 252.94385pt x 449.65733pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [20 <./Figures/pic/dc.png>]
-<Figures/pic/WP_20160921_21_05_04_Moment.jpg, id=298, 1084.05pt x 1927.2pt>
+<Figures/pic/WP_20160921_21_05_04_Moment.jpg, id=295, 1084.05pt x 1927.2pt>
 File: Figures/pic/WP_20160921_21_05_04_Moment.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_05_04_Moment.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_21_05_04_Moment.jpg used on in
-put line 165.
+put line 166.
 (pdftex.def)             Requested size: 252.94385pt x 449.65733pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [21 <./Figures/pic/WP_20160921_21_04_59_Moment.jpg>]
-Overfull \hbox (20.95319pt too wide) in paragraph at lines 174--176
+Overfull \hbox (20.95319pt too wide) in paragraph at lines 175--177
 \T1/ppl/m/n/10.95 cool-ing, GR1 get-ting closer to the sur-face due to ox-i-da-
 tion caused size/thickness
  []
 
-<Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg, id=305, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg, id=302, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg used on in
-put line 187.
+put line 188.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [22 <./Figures/pic/WP_20160921_21_05_04_Moment.jpg>]
-<Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg, id=313, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg, id=310, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg used on in
-put line 201.
+put line 202.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
 ) [23 <./Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg> <./Figures/pic/WP_2016092
 1_21_05_13_Pro_LI.jpg>]
@@ -2086,7 +2051,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 143C74146502B0238865D3AE7D7F733D;4576.
+(rerunfilecheck)             Checksum: ED732F2BECC37790F14D76E788FFCCCC;4437.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2096,13 +2061,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31885 strings out of 493335
- 651303 string characters out of 3136674
+ 31871 strings out of 493335
+ 650441 string characters out of 3136674
  843379 words of memory out of 3000000
- 34939 multiletter control sequences out of 15000+200000
+ 34931 multiletter control sequences out of 15000+200000
  36993 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,20n,77p,10379b,1805s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,20n,78p,10379b,1824s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Fil
@@ -2115,9 +2080,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX
 s/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/pala
 tino/uplri8a.pfb>
-Output written on main.pdf (33 pages, 46499775 bytes).
+Output written on main.pdf (33 pages, 46513540 bytes).
 PDF statistics:
- 413 PDF objects out of 1000 (max. 8388607)
- 121 named destinations out of 1000 (max. 500000)
- 274 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 409 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
+ 264 words of extra memory for PDF output out of 10000 (max. 10000000)
 
