@@ -58,20 +58,12 @@ Practically, as mention before, a qubit candidate ideally need to have long enou
 
 Several ideas of acquiring longer coherence time has been taken into consideration. While most of them can be classified into two main approaches: avoid orbital relaxation caused electron spin dephasing by accessing the orbital spin in Si$^{29}$ or eliminate the single phonon that has been involved in the orbital relaxation.
 
-
-
-
-
-
-
-\FloatBarrier
 \begin{figure}[h]
 \centering
 \includegraphics[width=1\linewidth]{Figures/pic/WP_20160921_20_40_25_Pro_LI}
 \caption{}
 \label{fig:wp20160921204025proli}
 \end{figure}
-\FloatBarrier
 
 \begin{figure}[h]
 \centering
@@ -79,35 +71,27 @@ Several ideas of acquiring longer coherence time has been taken into considerati
 \caption{}
 \label{fig:wp20160921204032proli}
 \end{figure}
-\FloatBarrier
 
 %----------------------------------------------------------------------------------------
 
 \section[Silicon vacancies in nanodiamonds]{Silicon vacancies in nanodiamonds}
-\FloatBarrier
 \begin{figure}[h]
 \centering
 \includegraphics[width=1\linewidth]{Figures/pic/WP_20160921_20_40_48_Pro_LI}
 \caption{}
 \label{fig:wp20160921204048proli}
 \end{figure}
-\FloatBarrier
 As mentioned, one vital problem to solve if we want to use SiV$^{-}$ as a qubit is that, the coherent time has been limited by the rapid orbital relaxation. And this is caused by the transition between the degeneracies of ground state which was driven by a single phonon. The elimination of such phonon is an direct approach towards the solution.
 
 Spontaneous emission is inhibited if the cavity has characteristic dimensions which are small compared to the radiation wavelength [Daniel Kleppner1981]. As in our case to eliminate the emission of phonon that couples into the splitting of ground state in SiV$^{-}$ 47 GHz, nanodiamond of the size that is smaller than the half wavelength of this transition phonon wavelength (around 125nm) is desired. 
 
 Currently 3 major techniques are employed in the field of nanodiamond fabrication: denotation, CVD, and HPHT, while the exotic atoms can be mixed in the beginning or implanted via ion implantation. While the denotation method produced highly defective diamonds and ion implantation introduces inner strain, for the SiV containing nanodiamonds, HPHT method and CVD method are the top choices.
 
-The principle of CVD method is to disintegrate the CVD fabricated diamond film, while the HPHT method initialize an phase transition of carbon at high temperature and high pressure. Previously, comparison between the PL spectra of silicon doped polycrystalline diamond films obtained by the CVD method and diamond single crystals grown at a pressure of 6 GPa from a nickel melt at 1500$^{o}C$ has been carried out, and demonstrates that the HPHT diamonds carries narrower SiV$^{-}$ ZPL lines than CVD fabricated ones[C. D. Clark 1995]. As in the department of nanodiamonds, the narrowest SiV$^{-}$ ZPL that has been measued by far, which has the width that is almost of the excitation state life time limit, is also from the HPHT method fabricated nanodiamond.
-
-
- 
-\paragraph{Band-bending near the surface of diamond}  
-
+The principle of CVD method is to disintegrate the CVD fabricated diamond film, while the HPHT method initialize an phase transition of carbon at high temperature and high pressure. Previously, comparison between the PL spectra of silicon doped polycrystalline diamond films obtained by the CVD method and diamond single crystals grown at a pressure of 6 GPa from a nickel melt at 1500$^{o}C$ has been carried out, and demonstrates that the HPHT diamonds carries narrower SiV$^{-}$ ZPL lines than CVD fabricated ones[C. D. Clark 1995]. As in the department of nanodiamonds, the narrowest SiV$^{-}$ ZPL that has been measued by far, which has a corrected width of 206MHz, that is almost of the excitation state life time limit, is also from the HPHT method fabricated nanodiamond.
 
 %--------------------------------------------------------------------------------------
 
-\section[Motivation of the thesis, unsolved problem]{Motivation of the thesis, unsolved problem}
+\section[Motivation of the thesis, unsolved problem]{Motivation of the thesis}
 \FloatBarrier
 \begin{figure}[h]
 	\centering
@@ -120,4 +104,25 @@ The motivation of looking into SiV$^{-}$ in nanodiamonds is to acquire longer co
 
 The mechanism behind the spectral diffusion is yet not clear, our first guess is to connect the enhancement of spectral diffusion in nanodiamonds with the surface condition, due to the high surface to volume ratio of nanodiamonds.
 
-Aerobatic oxidation can purify the nanodiamonds via the removal of Sp$^{2}$ phased carbon.
+Our target of this thesis is to improve the optical properties of nanodiamonds, more specifically, to suppress the spectral diffusion via methods of surface treatment, enabling further measurements including but not limited at orbital/spin T1 and coherent population trapping, and finally to test out the possibility of acquiring a longer coherent time via the elimination of the single phonon process.
+  
+In the synthesis procedure of HPHT nanodiamonds, due to the surface absorption of nitrogen on ingredients, NV can be introduced. N atoms act as a n-type dopant, an electron donor in the diamonds. Due to the different dopant density on the surface and in crystal, to match chemical potentials at the surface and in the bulk, charge builds up on the surface depleting the donor charges a depth into the bulk and bending the bands accordingly. 
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{Figures/pic/bandbending}
+\caption{A sketch describing the band-bending of n-doped diamond. Since the chemical potential of the surface and the doped bulk area need to match up with each other, a depletion layer is formed, the bands (CB: conducting band, VB:valence band) bends towards up near the surface.  }
+\label{fig:bandbending}
+\end{figure}
+
+The width of this depletion layer can be calculated with the equation
+
+$D = \sqrt{\frac{2\psi V(0)}{qN_{D}}}$, 
+
+where $\psi$ is the dielectric constant, V(0) is the band bending and $N_{D}$ is the concentration of dopant. As in our case, the concentration of Nitrogen is not clear but expected to be low, thus resulting in broader depletion layer. With a typical moderate dopant concentration of 10$^{-16}/cm^{3}$, the width of depletion layer is calculated to be 80nm[Diederich,1998]. As mentioned before, to inhibit the generation of 47 GHz phonons, the diameter of the diamonds need to be smaller than 125nm, and there is a high chance that SiV in nanodiamonds will lie in side or close to the band bending area, which may be the cause of spectral diffusions.
+
+It is expected to flatten the band bending by inhibit the surface charge accumulation. In this thesis, 2 methods are applied. 
+
+First is to remove the graphitic defect by aerobic oxidation. Aerobic oxidation is a good method for surface purification and initialization. Research on denotation diamonds shows that, with the temperature between 375$^{o}C$ to 450$^{o}C$,the removal of $Sp^{2}$[Osswald,2006]. After 2h of aerobic oxidation at 575$^{o}C$, the surface structure of HPHT NDs is very similar to bulk single crystals where hydroxyl and possibly ethers are the dominant functional groups[Wolcott 2014]. Aerobic oxidation with elevated temperature can cause the size reduction of nanodiamonds. It has been reported that the average height reduction rate of individual crystals was 10$\pm$1nm/h at 600$^{o}C$, 4$\pm$1nm/h at 550$^{o}C$ and less than 1nm/h at 500$^{o}C$ from aerobic oxidation. Since graphitic defects on the surface of diamond are possible electron trap candidate[ J. Ristein, Diamond Relat. Mater. 9, 1129 (2000). ], it is possible to lower the surface charge via aerobic oxidation.
+
+The second method is to achieve negative electron affinity via Hydrogen termination, due to the electrostatic effect of the dipole moment p of the heteropolar $C^{\text{-}} H^{+}$ bonds. As most of the reducing agents would rather form different types of hydroxyl groups on the surface than replace the surface groups with C-H bond, only the direct reaction with elemental hydrogen enables the formation of C-H bond as surface termination. Hydrogen plasma has been applied to bulk diamond and diamond thin film as a method to achieve full coverage of hydrogen termination as well as to nanodiamond powers[Yeap Langmuir 2009].
