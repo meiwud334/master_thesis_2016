@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  7 OCT 2016 01:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  7 OCT 2016 01:56
 entering extended mode
 **./main.tex
 (main.tex
@@ -1923,116 +1923,106 @@ LaTeX Warning: Command \textunderscore invalid in math mode on input line 35.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [18 <./Figures/pic/RTPL.png>]
-Overfull \hbox (9.8561pt too wide) in paragraph at lines 44--45
+Overfull \hbox (9.8561pt too wide) in paragraph at lines 41--42
 []\T1/ppl/m/n/10.95 To ob-serve the dif-fu-sion with a spec-trom-e-ter, we in-t
 ro-duced time-resolved
  []
 
 [19 <./Figures/pic/PLE.png>]
-<Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg, id=288, 5364.04pt x 3019.28pt>
-File: Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg Graphic file (type jpg)
-
-<use Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg used on in
-put line 57.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
-
-Overfull \hbox (6.86154pt too wide) in paragraph at lines 63--65
- []\T1/ppl/b/n/10.95 post-oxidation char-ac-ter-i-sa-tion[] \T1/ppl/m/n/10.95 1
-. Op-ti-cal mi-croscopy check The first thing
- []
-
-[20 <./Figures/pic/WP_20160921_20_41_03_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg, id=295, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg, id=288, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg used on in
-put line 92.
+put line 76.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
 
-<Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg, id=296, 5364.04pt x 3019.28pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20]
+<Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg, id=294, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg used on in
-put line 104.
+put line 88.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
- [21 <./Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg> <./Figures/pic/WP_20160921
-_20_42_21_Pro_LI.jpg>]
-<Figures/pic/20150907_sample214_spincoated_5.jpg, id=304, 770.88pt x 578.16pt>
+
+<Figures/pic/20150907_sample214_spincoated_5.jpg, id=295, 770.88pt x 578.16pt>
 File: Figures/pic/20150907_sample214_spincoated_5.jpg Graphic file (type jpg)
 
 <use Figures/pic/20150907_sample214_spincoated_5.jpg>
 Package pdftex.def Info: Figures/pic/20150907_sample214_spincoated_5.jpg used o
-n input line 117.
+n input line 101.
 (pdftex.def)             Requested size: 252.94385pt x 189.70828pt.
-
-<Figures/pic/dc.png, id=305, 663.98062pt x 651.18282pt>
-File: Figures/pic/dc.png Graphic file (type png)
-
-<use Figures/pic/dc.png>
-Package pdftex.def Info: Figures/pic/dc.png used on input line 129.
-(pdftex.def)             Requested size: 252.94385pt x 248.06808pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22 <./Figures/pic/20150907_sample214_spincoated_5.jpg>]
-<Figures/pic/WP_20160921_21_04_59_Moment.jpg, id=312, 1084.05pt x 1927.2pt>
+[21 <./Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg> <./Figures/pic/WP_20160921_
+20_42_21_Pro_LI.jpg>] <Figures/pic/dc.png, id=305, 663.98062pt x 651.18282pt>
+File: Figures/pic/dc.png Graphic file (type png)
+
+<use Figures/pic/dc.png>
+Package pdftex.def Info: Figures/pic/dc.png used on input line 113.
+(pdftex.def)             Requested size: 252.94385pt x 248.06808pt.
+ [22 <./Figures/pic/20150907_sample214_spincoated_5.jpg> <./Figures/pic/dc.png>
+]
+<Figures/pic/WP_20160921_21_04_59_Moment.jpg, id=313, 1084.05pt x 1927.2pt>
 File: Figures/pic/WP_20160921_21_04_59_Moment.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_04_59_Moment.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_21_04_59_Moment.jpg used on in
-put line 143.
+put line 127.
 (pdftex.def)             Requested size: 252.94385pt x 449.65733pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[23 <./Figures/pic/dc.png>]
-<Figures/pic/WP_20160921_21_05_04_Moment.jpg, id=319, 1084.05pt x 1927.2pt>
+<Figures/pic/WP_20160921_21_05_04_Moment.jpg, id=314, 1084.05pt x 1927.2pt>
 File: Figures/pic/WP_20160921_21_05_04_Moment.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_05_04_Moment.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_21_05_04_Moment.jpg used on in
-put line 160.
+put line 144.
 (pdftex.def)             Requested size: 252.94385pt x 449.65733pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24 <./Figures/pic/WP_20160921_21_04_59_Moment.jpg>]
-Overfull \hbox (20.95319pt too wide) in paragraph at lines 169--171
+[23 <./Figures/pic/WP_20160921_21_04_59_Moment.jpg>]
+Overfull \hbox (20.95319pt too wide) in paragraph at lines 153--155
 \T1/ppl/m/n/10.95 cool-ing, GR1 get-ting closer to the sur-face due to ox-i-da-
 tion caused size/thickness
  []
 
-<Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg, id=326, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg, id=321, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg used on in
-put line 182.
+put line 166.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25 <./Figures/pic/WP_20160921_21_05_04_Moment.jpg>]
-<Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg, id=335, 5364.04pt x 3019.28pt>
+[24 <./Figures/pic/WP_20160921_21_05_04_Moment.jpg>]
+<Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg, id=330, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg>
 Package pdftex.def Info: Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg used on in
-put line 196.
+put line 180.
 (pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
-) [26 <./Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg> <./Figures/pic/WP_2016092
+) [25 <./Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg> <./Figures/pic/WP_2016092
 1_21_05_13_Pro_LI.jpg>]
 \openout2 = `Chapters/Chapter3.aux'.
 
 
-(Chapters/Chapter3.tex
+(Chapters/Chapter3.tex [26
+
+
+
+]
 Chapter 4.
 
 Overfull \hbox (5.548pt too wide) in paragraph at lines 28--29
@@ -2042,11 +2032,7 @@ ous/gel sys-tem, chro-mato-graphic way
 
 )
 1: section
-[27
-
-
-
-]
+[27]
 \openout2 = `Appendices/AppendixA.aux'.
 
  (Appendices/AppendixA.tex [28
@@ -2067,9 +2053,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
 (Chapters/Chapter2.5.aux) (Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4861F6912B853593CED9C286AB6CB2CD;4309.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 4861F6912B853593CED9C286AB6CB2CD;4309
+(rerunfilecheck)             After:  BBCA59E65EABAD7EB43B4C77DC16414D;4309.
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -2079,30 +2071,48 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  31893 strings out of 493335
- 650886 string characters out of 3136674
+ 650711 string characters out of 3136674
  843379 words of memory out of 3000000
- 34956 multiletter control sequences out of 15000+200000
+ 34952 multiletter control sequences out of 15000+200000
  42126 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,20n,82p,10379b,1803s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
-s/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/pala
-tino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/upl
-ri8a.pfb>
-Output written on main.pdf (35 pages, 45663413 bytes).
+ 56i,20n,82p,10379b,1805s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{appendix.76} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.70} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.66} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.65} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.57} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.47} has been referenced but does not exi
+st, replaced by a fixed one
+
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
+w/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palati
+no/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
+8a.pfb>
+Output written on main.pdf (35 pages, 40355852 bytes).
 PDF statistics:
- 437 PDF objects out of 1000 (max. 8388607)
- 112 named destinations out of 1000 (max. 500000)
- 298 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 442 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
+ 293 words of extra memory for PDF output out of 10000 (max. 10000000)
 
