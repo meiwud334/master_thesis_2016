@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  7 OCT 2016 01:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  7 OCT 2016 10:25
 entering extended mode
 **./main.tex
 (main.tex
@@ -1454,10 +1454,11 @@ File: english.lbx 2016/09/17 v3.6 biblatex localization (PK/JW/AB)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
-(main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux)
-(Chapters/Chapter2.5.aux
+(main.aux (Chapters/Chapter0.5.aux) (Chapters/Chapter1.aux)
+(Chapters/Chapter2.aux) (Chapters/Chapter2.5.aux) (Chapters/Chapter2.75.aux
 
-LaTeX Warning: Label `fig:20150907sample214spincoated5' multiply defined.
+LaTeX Warning: Label `fig:2015-09-07-ow-capture-20150907151210-744-1' multiply 
+defined.
 
 ) (Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
 \openout1 = `main.aux'.
@@ -1733,24 +1734,41 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 
 ]
 1: section
-\openout2 = `Chapters/Chapter1.aux'.
+\openout2 = `Chapters/Chapter0.5.aux'.
 
-(Chapters/Chapter1.tex
+(Chapters/Chapter0.5.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 24.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 11.
+
+Overfull \hbox (5.548pt too wide) in paragraph at lines 20--21
+ []\T1/ppl/b/n/10.95 better method for size se-lec-tion[] \T1/ppl/m/n/10.95 por
+ous/gel sys-tem, chro-mato-graphic way
+ []
+
+)
 1: section
 [1
 
 
 ]
+\openout2 = `Chapters/Chapter1.aux'.
+
+ (Chapters/Chapter1.tex [2
+
+
+
+]
+Chapter 2.
+1: section
+[3]
 Overfull \hbox (2.79778pt too wide) in paragraph at lines 51--52
 []\T1/ppl/m/n/10.95 Experimentally it is ob-served that the SiV$[]$ has out-sta
 nd-ing op-ti-cal prop-
  []
 
-[2]
-<Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg, id=167, 5364.04pt x 3019.28pt>
+[4]
+<Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg, id=225, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg>
@@ -1758,7 +1776,7 @@ Package pdftex.def Info: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg used on in
 put line 63.
 (pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
 
-<Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg, id=168, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg, id=226, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg>
@@ -1766,7 +1784,7 @@ Package pdftex.def Info: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg used on in
 put line 70.
 (pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
 
-<Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg, id=169, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg, id=227, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>
@@ -1777,9 +1795,9 @@ put line 80.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <./Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg> <./Figures/pic/WP_20160921_2
+[5 <./Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg> <./Figures/pic/WP_20160921_2
 0_40_32_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg, id=176, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg, id=234, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>
@@ -1790,8 +1808,8 @@ put line 98.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>]
-<Figures/pic/bandbending.png, id=183, 845.40843pt x 597.73312pt>
+[6 <./Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>]
+<Figures/pic/bandbending.png, id=241, 845.40843pt x 597.73312pt>
 File: Figures/pic/bandbending.png Graphic file (type png)
 
 <use Figures/pic/bandbending.png>
@@ -1801,13 +1819,13 @@ Package pdftex.def Info: Figures/pic/bandbending.png used on input line 113.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>]) [6 <./Figures/pic/bandbend
+[7 <./Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>]) [8 <./Figures/pic/bandbend
 ing.png>]
 \openout2 = `Chapters/Chapter2.aux'.
 
  (Chapters/Chapter2.tex
-Chapter 2.
-<Figures/pic/diamondinfo.png, id=198, 845.40843pt x 597.73312pt>
+Chapter 3.
+<Figures/pic/diamondinfo.png, id=257, 845.40843pt x 597.73312pt>
 File: Figures/pic/diamondinfo.png Graphic file (type png)
 
 <use Figures/pic/diamondinfo.png>
@@ -1821,7 +1839,7 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 39.
 1: section
-[7
+[9
 
 
 
@@ -1831,14 +1849,14 @@ Overfull \hbox (5.2734pt too wide) in paragraph at lines 54--55
 glass/quartz(distraction
  []
 
-[8] <Figures/pic/fib.png, id=218, 845.40843pt x 597.73312pt>
+[10] <Figures/pic/fib.png, id=276, 845.40843pt x 597.73312pt>
 File: Figures/pic/fib.png Graphic file (type png)
 
 <use Figures/pic/fib.png>
 Package pdftex.def Info: Figures/pic/fib.png used on input line 61.
 (pdftex.def)             Requested size: 361.34995pt x 255.47884pt.
- [9 <./Figures/pic/fib.png>]
-<Figures/pic/AcidCleaning.png, id=226, 845.40843pt x 597.73312pt>
+ [11 <./Figures/pic/fib.png>]
+<Figures/pic/AcidCleaning.png, id=284, 845.40843pt x 597.73312pt>
 File: Figures/pic/AcidCleaning.png Graphic file (type png)
 
 <use Figures/pic/AcidCleaning.png>
@@ -1848,7 +1866,7 @@ Package pdftex.def Info: Figures/pic/AcidCleaning.png used on input line 101.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] <Figures/pic/initialsetup.png, id=231, 597.73312pt x 845.40843pt>
+[12] <Figures/pic/initialsetup.png, id=289, 597.73312pt x 845.40843pt>
 File: Figures/pic/initialsetup.png Graphic file (type png)
 
 <use Figures/pic/initialsetup.png>
@@ -1858,8 +1876,8 @@ Package pdftex.def Info: Figures/pic/initialsetup.png used on input line 131.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11 <./Figures/pic/AcidCleaning.png>]
-<Figures/pic/microscope.png, id=239, 845.40843pt x 597.73312pt>
+[13 <./Figures/pic/AcidCleaning.png>]
+<Figures/pic/microscope.png, id=298, 845.40843pt x 597.73312pt>
 File: Figures/pic/microscope.png Graphic file (type png)
 
 <use Figures/pic/microscope.png>
@@ -1869,17 +1887,17 @@ Package pdftex.def Info: Figures/pic/microscope.png used on input line 141.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12]) [13] [14 <./Figures/pic/initialsetup.png>] [15 <./Figures/pic/microscope.
+[14]) [15] [16 <./Figures/pic/initialsetup.png>] [17 <./Figures/pic/microscope.
 png>]
 \openout2 = `Chapters/Chapter2.5.aux'.
 
- (Chapters/Chapter2.5.tex [16
+ (Chapters/Chapter2.5.tex [18
 
 
 
 ]
-Chapter 3.
-<Figures/pic/RTPL.png, id=268, 845.40843pt x 597.73312pt>
+Chapter 4.
+<Figures/pic/RTPL.png, id=326, 845.40843pt x 597.73312pt>
 File: Figures/pic/RTPL.png Graphic file (type png)
 
 <use Figures/pic/RTPL.png>
@@ -1902,7 +1920,7 @@ ifug-ing has worked.
  []
 
 1: section
-[17] <Figures/pic/PLE.png, id=273, 597.73312pt x 845.40843pt>
+[19] <Figures/pic/PLE.png, id=332, 597.73312pt x 845.40843pt>
 File: Figures/pic/PLE.png Graphic file (type png)
 
 <use Figures/pic/PLE.png>
@@ -1922,108 +1940,96 @@ LaTeX Warning: Command \textunderscore invalid in math mode on input line 35.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18 <./Figures/pic/RTPL.png>]
+[20 <./Figures/pic/RTPL.png>]
 Overfull \hbox (9.8561pt too wide) in paragraph at lines 41--42
 []\T1/ppl/m/n/10.95 To ob-serve the dif-fu-sion with a spec-trom-e-ter, we in-t
 ro-duced time-resolved
  []
 
-[19 <./Figures/pic/PLE.png>]
-<Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg, id=288, 5364.04pt x 3019.28pt>
-File: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg Graphic file (type jpg)
+<Figures/pic/oxidation.png, id=339, 845.40843pt x 597.73312pt>
+File: Figures/pic/oxidation.png Graphic file (type png)
 
-<use Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg used on in
-put line 76.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[20]
-<Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg, id=294, 5364.04pt x 3019.28pt>
-File: Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg Graphic file (type jpg)
-
-<use Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_20_42_21_Pro_LI.jpg used on in
-put line 88.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
-
-<Figures/pic/20150907_sample214_spincoated_5.jpg, id=295, 770.88pt x 578.16pt>
-File: Figures/pic/20150907_sample214_spincoated_5.jpg Graphic file (type jpg)
-
-<use Figures/pic/20150907_sample214_spincoated_5.jpg>
-Package pdftex.def Info: Figures/pic/20150907_sample214_spincoated_5.jpg used o
-n input line 101.
-(pdftex.def)             Requested size: 252.94385pt x 189.70828pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[21 <./Figures/pic/WP_20160921_20_41_09_Pro_LI.jpg> <./Figures/pic/WP_20160921_
-20_42_21_Pro_LI.jpg>] <Figures/pic/dc.png, id=305, 663.98062pt x 651.18282pt>
-File: Figures/pic/dc.png Graphic file (type png)
-
-<use Figures/pic/dc.png>
-Package pdftex.def Info: Figures/pic/dc.png used on input line 113.
-(pdftex.def)             Requested size: 252.94385pt x 248.06808pt.
- [22 <./Figures/pic/20150907_sample214_spincoated_5.jpg> <./Figures/pic/dc.png>
-]
-<Figures/pic/WP_20160921_21_04_59_Moment.jpg, id=313, 1084.05pt x 1927.2pt>
-File: Figures/pic/WP_20160921_21_04_59_Moment.jpg Graphic file (type jpg)
-
-<use Figures/pic/WP_20160921_21_04_59_Moment.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_21_04_59_Moment.jpg used on in
-put line 127.
-(pdftex.def)             Requested size: 252.94385pt x 449.65733pt.
-
-<Figures/pic/WP_20160921_21_05_04_Moment.jpg, id=314, 1084.05pt x 1927.2pt>
-File: Figures/pic/WP_20160921_21_05_04_Moment.jpg Graphic file (type jpg)
-
-<use Figures/pic/WP_20160921_21_05_04_Moment.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_21_05_04_Moment.jpg used on in
-put line 144.
-(pdftex.def)             Requested size: 252.94385pt x 449.65733pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[23 <./Figures/pic/WP_20160921_21_04_59_Moment.jpg>]
-Overfull \hbox (20.95319pt too wide) in paragraph at lines 153--155
-\T1/ppl/m/n/10.95 cool-ing, GR1 get-ting closer to the sur-face due to ox-i-da-
-tion caused size/thickness
+<use Figures/pic/oxidation.png>
+Package pdftex.def Info: Figures/pic/oxidation.png used on input line 46.
+(pdftex.def)             Requested size: 252.94385pt x 178.83792pt.
+ [21 <./Figures/pic/PLE.png>]
+Overfull \hbox (2.7168pt too wide) in paragraph at lines 51--52
+[]\T1/ppl/m/n/10.95 After the ox-i-da-tion, both of the sam-ples showed very br
+ight back-ground.
  []
 
-<Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg, id=321, 5364.04pt x 3019.28pt>
-File: Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg Graphic file (type jpg)
 
-<use Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg used on in
-put line 166.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
+LaTeX Warning: Command \textunderscore invalid in math mode on input line 59.
 
+[22 <./Figures/pic/oxidation.png>]
+<Figures/pic/afteroxidation2.png, id=353, 845.40843pt x 597.73312pt>
+File: Figures/pic/afteroxidation2.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use Figures/pic/afteroxidation2.png>
+Package pdftex.def Info: Figures/pic/afteroxidation2.png used on input line 74.
 
-[24 <./Figures/pic/WP_20160921_21_05_04_Moment.jpg>]
-<Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg, id=330, 5364.04pt x 3019.28pt>
-File: Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg Graphic file (type jpg)
+(pdftex.def)             Requested size: 252.94385pt x 178.83792pt.
+ [23 <./Figures/pic/afteroxidation2.png>]
+<Figures/pic/Htermination.png, id=360, 845.40843pt x 597.73312pt>
+File: Figures/pic/Htermination.png Graphic file (type png)
 
-<use Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_21_05_13_Pro_LI.jpg used on in
-put line 180.
-(pdftex.def)             Requested size: 252.94385pt x 142.35767pt.
-) [25 <./Figures/pic/WP_20160921_21_05_16_Pro_LI.jpg> <./Figures/pic/WP_2016092
-1_21_05_13_Pro_LI.jpg>]
-\openout2 = `Chapters/Chapter3.aux'.
+<use Figures/pic/Htermination.png>
+Package pdftex.def Info: Figures/pic/Htermination.png used on input line 93.
+(pdftex.def)             Requested size: 252.94385pt x 178.83792pt.
 
 
-(Chapters/Chapter3.tex [26
+LaTeX Warning: Command \textunderscore invalid in math mode on input line 99.
+
+[24 <./Figures/pic/Htermination.png>]
+<Figures/pic/hmap.png, id=367, 845.40843pt x 597.73312pt>
+File: Figures/pic/hmap.png Graphic file (type png)
+
+<use Figures/pic/hmap.png>
+Package pdftex.def Info: Figures/pic/hmap.png used on input line 106.
+(pdftex.def)             Requested size: 252.94385pt x 178.83792pt.
+) [25 <./Figures/pic/hmap.png>]
+\openout2 = `Chapters/Chapter2.75.aux'.
+
+
+(Chapters/Chapter2.75.tex [26
 
 
 
 ]
-Chapter 4.
+Chapter 5.
+<Figures/pic/histall.png, id=379, 597.73312pt x 845.40843pt>
+File: Figures/pic/histall.png Graphic file (type png)
+
+<use Figures/pic/histall.png>
+Package pdftex.def Info: Figures/pic/histall.png used on input line 18.
+(pdftex.def)             Requested size: 361.34995pt x 511.08023pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<"Figures/pic/excitation polarisation".png, id=380, 867.24pt x 867.24pt>
+File: "Figures/pic/excitation polarisation".png Graphic file (type png)
+
+<use "Figures/pic/excitation polarisation".png>
+Package pdftex.def Info: "Figures/pic/excitation polarisation".png used on inpu
+t line 32.
+(pdftex.def)             Requested size: 252.94385pt x 252.93556pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+1: section
+[27] [28 <./Figures/pic/histall.png>] [29 <./Figures/pic/excitation polarisatio
+n.png>]
+\openout2 = `Chapters/Chapter3.aux'.
+
+ (Chapters/Chapter3.tex [30
+
+
+
+]
+Chapter 6.
 
 Overfull \hbox (5.548pt too wide) in paragraph at lines 28--29
  []\T1/ppl/b/n/10.95 better method for size se-lec-tion[] \T1/ppl/m/n/10.95 por
@@ -2032,10 +2038,10 @@ ous/gel sys-tem, chro-mato-graphic way
 
 )
 1: section
-[27]
+[31]
 \openout2 = `Appendices/AppendixA.aux'.
 
- (Appendices/AppendixA.tex [28
+ (Appendices/AppendixA.tex [32
 
 
 
@@ -2043,16 +2049,17 @@ ous/gel sys-tem, chro-mato-graphic way
 Appendix A.
 )
 1: section
-[29]
+[33]
 
-LaTeX Warning: Empty bibliography on input line 283.
+LaTeX Warning: Empty bibliography on input line 286.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
-(main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux)
-(Chapters/Chapter2.5.aux) (Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
+(main.aux (Chapters/Chapter0.5.aux) (Chapters/Chapter1.aux)
+(Chapters/Chapter2.aux) (Chapters/Chapter2.5.aux) (Chapters/Chapter2.75.aux)
+(Chapters/Chapter3.aux) (Appendices/AppendixA.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 290.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -2060,8 +2067,8 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 4861F6912B853593CED9C286AB6CB2CD;4309
-(rerunfilecheck)             After:  BBCA59E65EABAD7EB43B4C77DC16414D;4309.
+(rerunfilecheck)             Before: 6334E2C2F2FDD633B348B798BB032C08;5732
+(rerunfilecheck)             After:  8F333E7C8205B320093DA33E2B4C816A;5732.
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -2070,30 +2077,21 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31893 strings out of 493335
- 650711 string characters out of 3136674
- 843379 words of memory out of 3000000
- 34952 multiletter control sequences out of 15000+200000
+ 31916 strings out of 493335
+ 650495 string characters out of 3136674
+ 844379 words of memory out of 3000000
+ 34960 multiletter control sequences out of 15000+200000
  42126 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,20n,82p,10379b,1805s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{appendix.76} has been referenced but does not exi
+ 56i,20n,82p,10379b,1803s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{appendix.81} has been referenced but does not exi
 st, replaced by a fixed one
 
-pdfTeX warning (dest): name{section.70} has been referenced but does not exist,
+pdfTeX warning (dest): name{section.75} has been referenced but does not exist,
  replaced by a fixed one
 
-pdfTeX warning (dest): name{section.66} has been referenced but does not exist,
+pdfTeX warning (dest): name{chapter.70} has been referenced but does not exist,
  replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.65} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.57} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.47} has been referenced but does not exi
-st, replaced by a fixed one
 
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fi
@@ -2110,9 +2108,9 @@ type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
 w/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palati
 no/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on main.pdf (35 pages, 40355852 bytes).
+Output written on main.pdf (39 pages, 24902330 bytes).
 PDF statistics:
- 442 PDF objects out of 1000 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
- 293 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 499 PDF objects out of 1000 (max. 8388607)
+ 120 named destinations out of 1000 (max. 500000)
+ 355 words of extra memory for PDF output out of 10000 (max. 10000000)
 
