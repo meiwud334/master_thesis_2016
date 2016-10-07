@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  7 OCT 2016 13:33
 entering extended mode
 **./main.tex
@@ -2124,3 +2125,5 @@ PDF statistics:
  112 named destinations out of 1000 (max. 500000)
  336 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+=======
+>>>>>>> 601aad41b0514e21fc58fda41468d3245a579867
