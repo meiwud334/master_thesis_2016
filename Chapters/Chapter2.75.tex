@@ -8,13 +8,20 @@
 %-----------------------------------
 %	SECTION 2
 %-----------------------------------
-\section{Before surface treatment}
+\section{Compilation of data}
+To investigate the spectral diffusion behaviour, recorded time-resolved spectra for each of the POI before and after treatment. After the first oxidation, for better characterisation, time-resolved spectra are measured not only with one but multiple excitation polarisation. This leaves large amount of spectra files (almost 32,000 spectra!), besides visualizing the movement of lines into color maps, we need better tools to evaluate the spectral stability, a way to compile dozens, sometimes even hundreds of spectra into one single value that represents the spectral stability of a POI.
 
-Normalized cross-correlation evaluates the similarity between 2 patterns, the closer to 1, the higher the similarity. Here we compare the time-resolved PL spectra from every time tick with the first spectrum, the average value of this series of normalized cross-correlation reflects the general level of spectral stability of the measured point, additionally,the standard deviation of normalized cross-correlation indicates the speed of spectral changes.
+Normalized cross-correlation evaluates the similarity between 2 patterns, the closer to 1, the higher the similarity. Here we compare the time-resolved PL spectra from every time tick with the first spectrum, the average value of this series of normalized cross-correlation reflects the general level of spectral stability of the measured point.
 
-Normalized cross-correlation evaluates the similarity between 2 patterns, the closer to 1, the higher the similarity. Here we compare the time-resolved PL spectra from every time tick with the first spectrum, the average value of this series of normalized cross-correlation reflects the general level of spectral stability of the measured point, additionally,the standard deviation of normalized cross-correlation indicates the speed of spectral changes.
 
-As can be seen in Fig. 5.1, batch2 has better spectral stability than batch1. Larger diamond has better spectral stability fits the prediction that the spectral diffusion is related to the surface band bending. 
+\section{Nanodiamond size and spectral stability}
+
+The observation of nanodiamond with SEM [fig.] fits the expectation, that after the centrifuging size selection, batch1 contains smaller nanodiamonds than batch2.  
+When comparing the time-resolved spectra from sample1508 and sample1510, which were taken at 4K, with an excitation power of 120$\pm$10uW, it can be observed that the spectra from sample1510 shows more spectral diffusion. The calculation of mean normalized cross-correlation confirmed the observation. As plotted in the histogram \ref{fig:histogram-of-normalized-cross-correlation12}, the distribution of mean normalized cross-correlation nanodiamond from batch1 is much closer to 1 than from nanodiamond batch2.
+
+As discussed in Chapter 1, in nitrogen doped diamond, to match up the chemical potential inside the diamond and on the surface, a depletion layer was formed beneath the surface, where the valence band and conducting band are bended towards up. The width of the depletion layer differs by the concentration of the donor and is around 80nm in moderately doped diamond (N$_{D}$=10$^{-16}/cm^{3}$)[Diederich,1998].
+
+So in our case, there is higher chance for nanodiamonds from batch1, which are of smaller sizes, to obtain SiV$^{-}$s sitting inside the bended band than those ones of larger diameters, like the ones from batch2. For more information I looked up the position of SiV$^{-}$s in the paper [Rogers2013], where SiV$^{-}$s in bulk diamond are reported to have very good long term spectral stability (no spectral position variation in 90min), interestingly, the distance of SiV$^{-}$s from the surface is larger than 2um, which means they sat in the bulk diamond region instead of band bended region. 
 
 \paragraph{power dependency}
 \begin{figure}[h]
@@ -47,31 +54,26 @@ As can be seen in Fig. 5.1, batch2 has better spectral stability than batch1. La
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_2"}
-\caption{}
+\caption{Histogram comparing the normalized mean value of cross-correlation between untreated sample 1508 (nanodiamond batch2) at 4.7K and sample 1510(nanodiamond batch1) at 4.7K and 20K. The height of the bars are normalized by the integration over bins. The time resolved spectra of sample 1510 was recorded with 2 different excitation polarisation, they are separated with solid and dashed lines.}
 \label{fig:histogram-of-normalized-cross-correlation12}
 \end{figure}
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_H"}
-\caption{}
+\caption{Histogram comparing the normalized mean value of cross-correlation between untreated sample 1510 and hydrogen plasma treated sample 1512 (both spin coated with nanodiamond from the batch1).The height of the bars are normalized by the integration over bins.  }
 \label{fig:histogram-of-normalized-cross-correlation1h}
 \end{figure}
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_H_2"}
-\caption{}
+\caption{Histogram comparing the normalized mean value of cross-correlation between untreated sample 1508(nanodiamond batch2) and hydrogen plasma treated sample 1512(nanodiamond batch1).The height of the bars are normalized by the integration over bins.  }
 \label{fig:histogram-of-normalized-cross-correlation1h2}
 \end{figure}
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_t"}
-\caption{}
-\label{fig:histogram-of-normalized-cross-correlation1t}
-\end{figure}
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_2_o"}
-\caption{}
+\caption{Histogram comparing the normalized mean value of cross-correlation between untreated and oxidized sample 1509(nanodiamond batch1) at 4.7K. The height of the bars are normalized by the integration over bins. }
 \label{fig:histogram-of-normalized-cross-correlation2o}
 \end{figure}
 
