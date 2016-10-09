@@ -36,11 +36,11 @@
 \contentsline {chapter}{\numberline {4}Result and Discussion}{25}{chapter.52}
 \contentsline {section}{\numberline {4.1}Compilation of data}{25}{section.53}
 \contentsline {section}{\numberline {4.2}Nanodiamond size and spectral stability}{25}{section.54}
-\contentsline {paragraph}{power dependency}{26}{figure.caption.56}
-\contentsline {paragraph}{temprature dependence}{26}{section*.57}
-\contentsline {paragraph}{excitation polarisation}{26}{figure.caption.64}
-\contentsline {section}{\numberline {4.3}Oxidation}{26}{section.65}
-\contentsline {section}{\numberline {4.4}Hydrogen termination}{26}{section.66}
+\contentsline {section}{\numberline {4.3}Excitation power and spectral stability}{26}{section.55}
+\contentsline {section}{\numberline {4.4}Excitation power and spectral stability}{26}{section.57}
+\contentsline {paragraph}{excitation polarisation}{27}{figure.caption.64}
+\contentsline {section}{\numberline {4.5}Oxidation}{27}{section.65}
+\contentsline {section}{\numberline {4.6}Hydrogen termination}{27}{section.66}
 \contentsline {chapter}{\numberline {5}Conclusion and outlook}{31}{chapter.67}
 \contentsline {section}{\numberline {5.1}The road so far}{31}{section.68}
 \contentsline {paragraph}{Initial motivation}{31}{section*.69}

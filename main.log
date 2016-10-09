@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  8 OCT 2016 21:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  8 OCT 2016 23:51
 entering extended mode
 **./main.tex
 (main.tex
@@ -1753,7 +1753,7 @@ nd-ing op-ti-cal prop-
  []
 
 [2]
-<Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg, id=214, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg, id=224, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg>
@@ -1761,7 +1761,7 @@ Package pdftex.def Info: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg used on in
 put line 63.
 (pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
 
-<Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg, id=215, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg, id=225, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg>
@@ -1769,7 +1769,7 @@ Package pdftex.def Info: Figures/pic/WP_20160921_20_40_32_Pro_LI.jpg used on in
 put line 70.
 (pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
 
-<Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg, id=216, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg, id=226, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>
@@ -1782,7 +1782,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3 <./Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg> <./Figures/pic/WP_20160921_2
 0_40_32_Pro_LI.jpg>]
-<Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg, id=223, 5364.04pt x 3019.28pt>
+<Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg, id=233, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>
@@ -1794,7 +1794,7 @@ put line 98.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4 <./Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>]
-<Figures/pic/bandbending.png, id=230, 845.40843pt x 597.73312pt>
+<Figures/pic/bandbending.png, id=240, 845.40843pt x 597.73312pt>
 File: Figures/pic/bandbending.png Graphic file (type png)
 
 <use Figures/pic/bandbending.png>
@@ -1810,7 +1810,7 @@ ing.png>]
 
  (Chapters/Chapter2.tex
 Chapter 2.
-<Figures/pic/diamondinfo.png, id=246, 845.40843pt x 597.73312pt>
+<Figures/pic/diamondinfo.png, id=256, 845.40843pt x 597.73312pt>
 File: Figures/pic/diamondinfo.png Graphic file (type png)
 
 <use Figures/pic/diamondinfo.png>
@@ -1834,14 +1834,14 @@ Overfull \hbox (5.2734pt too wide) in paragraph at lines 54--55
 glass/quartz(distraction
  []
 
-[8] <Figures/pic/fib.png, id=265, 845.40843pt x 597.73312pt>
+[8] <Figures/pic/fib.png, id=275, 845.40843pt x 597.73312pt>
 File: Figures/pic/fib.png Graphic file (type png)
 
 <use Figures/pic/fib.png>
 Package pdftex.def Info: Figures/pic/fib.png used on input line 61.
 (pdftex.def)             Requested size: 361.34995pt x 255.47884pt.
  [9 <./Figures/pic/fib.png>]
-<Figures/pic/AcidCleaning.png, id=273, 845.40843pt x 597.73312pt>
+<Figures/pic/AcidCleaning.png, id=283, 845.40843pt x 597.73312pt>
 File: Figures/pic/AcidCleaning.png Graphic file (type png)
 
 <use Figures/pic/AcidCleaning.png>
@@ -1868,7 +1868,7 @@ Overfull \hbox (1.57213pt too wide) in paragraph at lines 127--128
 c-cum pump 4 parts,
  []
 
-<Figures/pic/initialsetup.png, id=278, 597.73312pt x 845.40843pt>
+<Figures/pic/initialsetup.png, id=288, 597.73312pt x 845.40843pt>
 File: Figures/pic/initialsetup.png Graphic file (type png)
 
 <use Figures/pic/initialsetup.png>
@@ -1879,7 +1879,7 @@ Package pdftex.def Info: Figures/pic/initialsetup.png used on input line 131.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [11 <./Figures/pic/AcidCleaning.png>]
-<Figures/pic/microscope.png, id=286, 845.40843pt x 597.73312pt>
+<Figures/pic/microscope.png, id=296, 845.40843pt x 597.73312pt>
 File: Figures/pic/microscope.png Graphic file (type png)
 
 <use Figures/pic/microscope.png>
@@ -1899,7 +1899,7 @@ png>]
 
 ]
 Chapter 3.
-<Figures/pic/RTPL.png, id=314, 845.40843pt x 597.73312pt>
+<Figures/pic/RTPL.png, id=324, 845.40843pt x 597.73312pt>
 File: Figures/pic/RTPL.png Graphic file (type png)
 
 <use Figures/pic/RTPL.png>
@@ -1922,7 +1922,7 @@ ifug-ing has worked.
  []
 
 1: section
-[17] <Figures/pic/PLE.png, id=320, 597.73312pt x 845.40843pt>
+[17] <Figures/pic/PLE.png, id=330, 597.73312pt x 845.40843pt>
 File: Figures/pic/PLE.png Graphic file (type png)
 
 <use Figures/pic/PLE.png>
@@ -1948,7 +1948,7 @@ Overfull \hbox (9.8561pt too wide) in paragraph at lines 41--42
 ro-duced time-resolved
  []
 
-<Figures/pic/oxidation.png, id=327, 845.40843pt x 597.73312pt>
+<Figures/pic/oxidation.png, id=337, 845.40843pt x 597.73312pt>
 File: Figures/pic/oxidation.png Graphic file (type png)
 
 <use Figures/pic/oxidation.png>
@@ -1964,7 +1964,7 @@ ight back-ground.
 LaTeX Warning: Command \textunderscore invalid in math mode on input line 59.
 
 [20 <./Figures/pic/oxidation.png>]
-<Figures/pic/afteroxidation2.png, id=341, 845.40843pt x 597.73312pt>
+<Figures/pic/afteroxidation2.png, id=351, 845.40843pt x 597.73312pt>
 File: Figures/pic/afteroxidation2.png Graphic file (type png)
 
 <use Figures/pic/afteroxidation2.png>
@@ -1972,7 +1972,7 @@ Package pdftex.def Info: Figures/pic/afteroxidation2.png used on input line 74.
 
 (pdftex.def)             Requested size: 252.94385pt x 178.83792pt.
  [21 <./Figures/pic/afteroxidation2.png>]
-<Figures/pic/Htermination.png, id=348, 845.40843pt x 597.73312pt>
+<Figures/pic/Htermination.png, id=358, 845.40843pt x 597.73312pt>
 File: Figures/pic/Htermination.png Graphic file (type png)
 
 <use Figures/pic/Htermination.png>
@@ -1983,7 +1983,7 @@ Package pdftex.def Info: Figures/pic/Htermination.png used on input line 93.
 LaTeX Warning: Command \textunderscore invalid in math mode on input line 99.
 
 [22 <./Figures/pic/Htermination.png>]
-<Figures/pic/hmap.png, id=355, 845.40843pt x 597.73312pt>
+<Figures/pic/hmap.png, id=365, 845.40843pt x 597.73312pt>
 File: Figures/pic/hmap.png Graphic file (type png)
 
 <use Figures/pic/hmap.png>
@@ -2013,77 +2013,79 @@ n power of 120$\OMS/cmsy/m/n/10.95 $\T1/ppl/m/n/10.95 10uW,
 
 1: section
 [25]
-<Figures/pic/powerdependencybeforeafteroxidation.png, id=373, 867.24pt x 867.24
+
+LaTeX Warning: Reference `powerdependencybeforeafteroxidation' on page 26 undef
+ined on input line 31.
+
+
+<Figures/pic/powerdependencybeforeafteroxidation.png, id=384, 867.24pt x 867.24
 pt>
 File: Figures/pic/powerdependencybeforeafteroxidation.png Graphic file (type pn
 g)
  <use Figures/pic/powerdependencybeforeafteroxidation.png>
 Package pdftex.def Info: Figures/pic/powerdependencybeforeafteroxidation.png us
-ed on input line 29.
+ed on input line 37.
 (pdftex.def)             Requested size: 252.94385pt x 252.93556pt.
-
-<"Figures/pic/excitation polarisation".png, id=374, 867.24pt x 867.24pt>
+ [26 <./Figures/pic/powerdependencybeforeafteroxidation.png>]
+<"Figures/pic/excitation polarisation".png, id=393, 867.24pt x 867.24pt>
 File: "Figures/pic/excitation polarisation".png Graphic file (type png)
 
 <use "Figures/pic/excitation polarisation".png>
 Package pdftex.def Info: "Figures/pic/excitation polarisation".png used on inpu
-t line 42.
+t line 50.
 (pdftex.def)             Requested size: 252.94385pt x 252.93556pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/pic/powerdependenceref11.png, id=375, 597.73312pt x 845.40843pt>
+<Figures/pic/powerdependenceref11.png, id=394, 597.73312pt x 845.40843pt>
 File: Figures/pic/powerdependenceref11.png Graphic file (type png)
 
 <use Figures/pic/powerdependenceref11.png>
 Package pdftex.def Info: Figures/pic/powerdependenceref11.png used on input lin
-e 50.
+e 58.
 (pdftex.def)             Requested size: 361.34995pt x 511.08023pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_1_2".png, id=376, 867.2
+<"Figures/pic/Histogram of normalized cross-correlation_1_2".png, id=395, 867.2
 4pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_1_2".png Graphic f
 ile (type png)
 
 <use "Figures/pic/Histogram of normalized cross-correlation_1_2".png>
 Package pdftex.def Info: "Figures/pic/Histogram of normalized cross-correlation
-_1_2".png used on input line 56.
+_1_2".png used on input line 64.
 (pdftex.def)             Requested size: 252.94385pt x 252.93556pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_1_H".png, id=377, 867.2
+<"Figures/pic/Histogram of normalized cross-correlation_1_H".png, id=396, 867.2
 4pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_1_H".png Graphic f
 ile (type png)
 
 <use "Figures/pic/Histogram of normalized cross-correlation_1_H".png>
 Package pdftex.def Info: "Figures/pic/Histogram of normalized cross-correlation
-_1_H".png used on input line 62.
+_1_H".png used on input line 70.
 (pdftex.def)             Requested size: 252.94385pt x 252.93556pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_1_H_2".png, id=378, 867
+<"Figures/pic/Histogram of normalized cross-correlation_1_H_2".png, id=397, 867
 .24pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_1_H_2".png Graphic
  file (type png)
 
 <use "Figures/pic/Histogram of normalized cross-correlation_1_H_2".png>
 Package pdftex.def Info: "Figures/pic/Histogram of normalized cross-correlation
-_1_H_2".png used on input line 68.
+_1_H_2".png used on input line 76.
 (pdftex.def)             Requested size: 252.94385pt x 252.93556pt.
 
-Underfull \hbox (badness 6708) in paragraph at lines 69--69
+Underfull \hbox (badness 6708) in paragraph at lines 77--77
  \T1/ppl/m/n/10 value of cross-correlation be-tween un-treated sam-ple 
  []
 
@@ -2091,28 +2093,28 @@ Underfull \hbox (badness 6708) in paragraph at lines 69--69
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_2_o".png, id=379, 867.2
+<"Figures/pic/Histogram of normalized cross-correlation_2_o".png, id=398, 867.2
 4pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_2_o".png Graphic f
 ile (type png)
 
 <use "Figures/pic/Histogram of normalized cross-correlation_2_o".png>
 Package pdftex.def Info: "Figures/pic/Histogram of normalized cross-correlation
-_2_o".png used on input line 75.
+_2_o".png used on input line 83.
 (pdftex.def)             Requested size: 252.94385pt x 252.93556pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [26 <./Figures/pic/powerdependencybeforeafteroxidation.png>] [27 <./Figures/p
-ic/excitation polarisation.png>] [28 <./Figures/pic/powerdependenceref11.png>]
-[29 <./Figures/pic/Histogram of normalized cross-correlation_1_2.png> <./Figure
-s/pic/Histogram of normalized cross-correlation_1_H.png>] [30 <./Figures/pic/Hi
-stogram of normalized cross-correlation_1_H_2.png> <./Figures/pic/Histogram of 
-normalized cross-correlation_2_o.png>]
+) [27 <./Figures/pic/excitation polarisation.png>] [28 <./Figures/pic/powerdepe
+ndenceref11.png>] [29 <./Figures/pic/Histogram of normalized cross-correlation_
+1_2.png> <./Figures/pic/Histogram of normalized cross-correlation_1_H.png>]
+[30 <./Figures/pic/Histogram of normalized cross-correlation_1_H_2.png> <./Figu
+res/pic/Histogram of normalized cross-correlation_2_o.png>]
 \openout2 = `Chapters/Chapter3.aux'.
 
- (Chapters/Chapter3.tex
+
+(Chapters/Chapter3.tex
 Chapter 5.
 
 Overfull \hbox (5.548pt too wide) in paragraph at lines 28--29
@@ -2149,16 +2151,20 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 288.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E100FCA7886F4F067D7A9FDBCEF9D888;5437.
+(rerunfilecheck)             Checksum: 2D47A7D9400BAF2B42B68C5F8F85C2D5;5963.
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31935 strings out of 493335
- 652172 string characters out of 3136674
+ 31938 strings out of 493335
+ 652231 string characters out of 3136674
  844708 words of memory out of 3000000
- 34980 multiletter control sequences out of 15000+200000
+ 34983 multiletter control sequences out of 15000+200000
  43679 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,20n,78p,10379b,1803s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2177,9 +2183,9 @@ s/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/pala
 tino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/upl
 ri8a.pfb>
-Output written on main.pdf (41 pages, 25418237 bytes).
+Output written on main.pdf (41 pages, 25422478 bytes).
 PDF statistics:
- 511 PDF objects out of 1000 (max. 8388607)
+ 521 PDF objects out of 1000 (max. 8388607)
  120 named destinations out of 1000 (max. 500000)
- 364 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 380 words of extra memory for PDF output out of 10000 (max. 10000000)
 
