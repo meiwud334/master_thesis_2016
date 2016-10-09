@@ -37,19 +37,19 @@
 \contentsline {section}{\numberline {4.1}Compilation of data}{25}{section.53}
 \contentsline {section}{\numberline {4.2}Nanodiamond size and spectral stability}{25}{section.54}
 \contentsline {section}{\numberline {4.3}Excitation power and spectral stability}{26}{section.55}
-\contentsline {section}{\numberline {4.4}Excitation power and spectral stability}{26}{section.57}
-\contentsline {paragraph}{excitation polarisation}{27}{figure.caption.64}
-\contentsline {section}{\numberline {4.5}Oxidation}{27}{section.65}
-\contentsline {section}{\numberline {4.6}Hydrogen termination}{27}{section.66}
-\contentsline {chapter}{\numberline {5}Conclusion and outlook}{31}{chapter.67}
-\contentsline {section}{\numberline {5.1}The road so far}{31}{section.68}
-\contentsline {paragraph}{Initial motivation}{31}{section*.69}
-\contentsline {paragraph}{Development of a method to estimate the spectral diffusion}{31}{section*.70}
-\contentsline {paragraph}{Surface treatments and their effects}{31}{section*.71}
-\contentsline {section}{\numberline {5.2} Probabilities in the near future}{31}{section.72}
-\contentsline {paragraph}{PLE}{31}{section*.73}
-\contentsline {paragraph}{life time measurement}{31}{section*.74}
-\contentsline {paragraph}{comparasion of different surface group}{31}{section*.75}
-\contentsline {paragraph}{better method for size selection}{31}{section*.76}
-\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{31}{section*.77}
-\contentsline {chapter}{\numberline {A}Appendix Title Here}{33}{appendix.78}
+\contentsline {section}{\numberline {4.4}Temperature and spectral stability}{27}{section.57}
+\contentsline {paragraph}{excitation polarisation}{27}{figure.caption.59}
+\contentsline {section}{\numberline {4.5}Oxidation}{28}{section.66}
+\contentsline {section}{\numberline {4.6}Hydrogen termination}{28}{section.67}
+\contentsline {chapter}{\numberline {5}Conclusion and outlook}{33}{chapter.68}
+\contentsline {section}{\numberline {5.1}The road so far}{33}{section.69}
+\contentsline {paragraph}{Initial motivation}{33}{section*.70}
+\contentsline {paragraph}{Development of a method to estimate the spectral diffusion}{33}{section*.71}
+\contentsline {paragraph}{Surface treatments and their effects}{33}{section*.72}
+\contentsline {section}{\numberline {5.2} Probabilities in the near future}{33}{section.73}
+\contentsline {paragraph}{PLE}{33}{section*.74}
+\contentsline {paragraph}{life time measurement}{33}{section*.75}
+\contentsline {paragraph}{comparasion of different surface group}{33}{section*.76}
+\contentsline {paragraph}{better method for size selection}{33}{section*.77}
+\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{33}{section*.78}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{35}{appendix.79}
