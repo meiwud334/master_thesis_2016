@@ -16,5 +16,1560 @@
   {}
 \endgroup
 
-\sortlist[entry]{nyt/global/}\endsortlist
+\sortlist[entry]{nyt/global/}
+  \entry{bassett_ultrafast_2014}{article}{}
+    \name{author}{7}{}{%
+      {{hash=BLC}{%
+         family={Bassett},
+         familyi={B\bibinitperiod},
+         given={L.\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HFJ}{%
+         family={Heremans},
+         familyi={H\bibinitperiod},
+         given={F.\bibnamedelima J.},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CDJ}{%
+         family={Christle},
+         familyi={C\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=YCG}{%
+         family={Yale},
+         familyi={Y\bibinitperiod},
+         given={C.\bibnamedelima G.},
+         giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Burkard},
+         familyi={B\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BBB}{%
+         family={Buckley},
+         familyi={B\bibinitperiod},
+         given={B.\bibnamedelima B.},
+         giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=ADD}{%
+         family={Awschalom},
+         familyi={A\bibinitperiod},
+         given={D.\bibnamedelima D.},
+         giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{BLC+1}
+    \strng{fullhash}{BLCHFJCDJYCGBGBBBADD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1126/science.1255541
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{6202}
+    \field{pages}{1333\bibrangedash 1337}
+    \field{title}{Ultrafast optical control of orbital and spin dynamics in a
+  solid-state defect}
+    \verb{url}
+    \verb http://www.sciencemag.org/cgi/doi/10.1126/science.1255541
+    \endverb
+    \field{volume}{345}
+    \field{journaltitle}{Science}
+    \field{month}{09}
+    \field{year}{2014}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{buckley_spin-light_2010}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BBB}{%
+         family={Buckley},
+         familyi={B\bibinitperiod},
+         given={B.\bibnamedelima B.},
+         giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=FGD}{%
+         family={Fuchs},
+         familyi={F\bibinitperiod},
+         given={G.\bibnamedelima D.},
+         giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BLC}{%
+         family={Bassett},
+         familyi={B\bibinitperiod},
+         given={L.\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ADD}{%
+         family={Awschalom},
+         familyi={A\bibinitperiod},
+         given={D.\bibnamedelima D.},
+         giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{BBB+1}
+    \strng{fullhash}{BBBFGDBLCADD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1126/science.1196436
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{6008}
+    \field{pages}{1212\bibrangedash 1215}
+    \field{title}{Spin-{Light} {Coherence} for {Single}-{Spin} {Measurement}
+  and {Control} in {Diamond}}
+    \verb{url}
+    \verb http://www.sciencemag.org/cgi/doi/10.1126/science.1196436
+    \endverb
+    \field{volume}{330}
+    \field{journaltitle}{Science}
+    \field{month}{11}
+    \field{year}{2010}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{childress_atom-like_2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CL}{%
+         family={Childress},
+         familyi={C\bibinitperiod},
+         given={Lilian},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Walsworth},
+         familyi={W\bibinitperiod},
+         given={Ronald},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lukin},
+         familyi={L\bibinitperiod},
+         given={Mikhail},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CLWRLM1}
+    \strng{fullhash}{CLWRLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2014}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Impurities in a crystal lattice are the key ingredient in recent efforts to
+  control and apply the coherence and entanglement of spins in condensed-matter
+  systems.%
+    }
+    \verb{doi}
+    \verb 10.1063/PT.3.2549
+    \endverb
+    \field{issn}{0031-9228, 1945-0699}
+    \field{number}{10}
+    \field{pages}{38\bibrangedash 43}
+    \field{shorttitle}{Atom-like crystal defects}
+    \field{title}{Atom-like crystal defects: {From} quantum computers to
+  biological sensors}
+    \verb{url}
+    \verb http://scitation.aip.org/content/aip/magazine/physicstoday/article/67
+    \verb /10/10.1063/PT.3.2549
+    \endverb
+    \field{volume}{67}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\
+    \verb Profiles\\rmc4qiwo.default\\zotero\\storage\\5TZJP8QI\\Childress 等.
+    \verb  - 2014 - Atom-like crystal defects From quantum computers .pdf:appli
+    \verb cation/pdf;Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zo
+    \verb tero\\Profiles\\rmc4qiwo.default\\zotero\\storage\\PZB2TGZX\\PT.3.htm
+    \verb l:text/html
+    \endverb
+    \field{journaltitle}{Physics Today}
+    \field{month}{10}
+    \field{year}{2014}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{clark_silicon_1995}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CCD}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={C.\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kanda},
+         familyi={K\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KI}{%
+         family={Kiflawi},
+         familyi={K\bibinitperiod},
+         given={I.},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Sittas},
+         familyi={S\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CCD+1}
+    \strng{fullhash}{CCDKHKISG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Synthetic diamonds have been grown from metal melts containing silicon, at
+  high pressures and high temperatures. The absorption and photoluminescence
+  spectra have been investigated in the temperature range 1.8–77 K. A 12-line
+  fine structure is observed close to 1.682 eV, and this can be divided into
+  three similar groups each containing four components. The relative strengths
+  of the optical absorption for the three groups of lines are found to be the
+  same as the ratio of the abundancies of the natural isotopes of silicon,
+  Si28, Si29, and Si30, thus showing that the 1.682-eV center is related to
+  silicon impurity. The changes in the relative intensities of the four
+  component lines associated with Si28 indicate that the center has two
+  ground-state energy levels with a separation of 0.20 meV. The occupancies of
+  the two excited-state levels of separation 1.07 meV tend to reach thermal
+  equilibrium after optical excitation and before luminescence takes place. The
+  relative transition probabilities for the transitions have been determined.
+  The degeneracies of the ground-state levels are the same, and the
+  degeneracies of the excited-state levels are also equal to one another. The
+  behavior of the 1.682-eV defect after electron irradiation and subsequent
+  heat treatment is described.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevB.51.16681
+    \endverb
+    \field{number}{23}
+    \field{pages}{16681\bibrangedash 16688}
+    \field{title}{Silicon defects in diamond}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevB.51.16681
+    \endverb
+    \field{volume}{51}
+    \verb{file}
+    \verb APS Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\P
+    \verb rofiles\\rmc4qiwo.default\\zotero\\storage\\4A9N7UC2\\PhysRevB.51.htm
+    \verb l:text/html
+    \endverb
+    \field{journaltitle}{Physical Review B}
+    \field{month}{06}
+    \field{year}{1995}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{davydov_production_2014}{article}{}
+    \name{author}{7}{}{%
+      {{hash=DVA}{%
+         family={Davydov},
+         familyi={D\bibinitperiod},
+         given={V.\bibnamedelima A.},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RAV}{%
+         family={Rakhmanina},
+         familyi={R\bibinitperiod},
+         given={A.\bibnamedelima V.},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=LSG}{%
+         family={Lyapin},
+         familyi={L\bibinitperiod},
+         given={S.\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=IID}{%
+         family={Ilichev},
+         familyi={I\bibinitperiod},
+         given={I.\bibnamedelima D.},
+         giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BKN}{%
+         family={Boldyrev},
+         familyi={B\bibinitperiod},
+         given={K.\bibnamedelima N.},
+         giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=SAA}{%
+         family={Shiryaev},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AVN}{%
+         family={Agafonov},
+         familyi={A\bibinitperiod},
+         given={V.\bibnamedelima N.},
+         giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{DVA+1}
+    \strng{fullhash}{DVARAVLSGIIDBKNSAAAVN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.1134/S002136401410004X
+    \endverb
+    \field{issn}{0021-3640, 1090-6487}
+    \field{number}{10}
+    \field{pages}{585\bibrangedash 589}
+    \field{title}{Production of nano- and microdiamonds with {Si}-{V} and
+  {N}-{V} luminescent centers at high pressures in systems based on mixtures of
+  hydrocarbon and fluorocarbon compounds}
+    \verb{url}
+    \verb http://link.springer.com/10.1134/S002136401410004X
+    \endverb
+    \field{volume}{99}
+    \field{journaltitle}{JETP Letters}
+    \field{month}{07}
+    \field{year}{2014}
+    \field{urlday}{01}
+    \field{urlmonth}{06}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{diederich_electron_1998}{article}{}
+    \name{author}{4}{}{%
+      {{hash=DL}{%
+         family={Diederich},
+         familyi={D\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KOM}{%
+         family={Küttel},
+         familyi={K\bibinitperiod},
+         given={O.\bibnamedelima M.},
+         giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=AP}{%
+         family={Aebi},
+         familyi={A\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Schlapbach},
+         familyi={S\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \keyw{Diamond, Hydrogen, Low-energy electron diffraction, Low-index single
+  crystal surfaces, Photoelectron spectroscopy, Surface structure}
+    \strng{namehash}{DL+1}
+    \strng{fullhash}{DLKOMAPSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    We investigate band bending, electron affinity and work function of
+  differently terminated, doped and oriented diamond surfaces by X-ray and
+  ultraviolet photoelectron spectroscopy (XPS and UPS). The diamond surfaces
+  were polished by a hydrogen plasma treatment and present a mean roughness
+  below 10 Å. The hydrogen-terminated diamond surfaces have negative electron
+  affinity (NEA), whereas the hydrogen-free surfaces present positive electron
+  affinity (PEA). The NEA peak is only observed for the boron-doped diamond
+  (100)-(2×1):H surface, whereas it is not visible for the nitrogen-doped
+  diamond (100)-(2×1):H surface due to strong upward band bending. For the
+  boron-doped diamond (111)-(1×1):H surface, the NEA peak is also absent due
+  to the conservation of the parallel wavevector component (k‖) in
+  photoemission. Electron emission from energy levels below the conduction band
+  minimum (CBM) up to the vacuum level Evac allowed the electron affinity to be
+  measured quantitatively for PEA as well as for NEA. The emission from
+  populated surface states forms a shoulder or a peak at lower kinetic
+  energies, depending on the NEA behavior and additionally shows a dispersion
+  behavior. The low boron-doped diamond (100)-(2×1):H surface presents a
+  high-intensity NEA peak with a FWHM of 250 meV. Its cut-off is situated at a
+  kinetic energy of 4.9 eV, whereas the upper limit of the vacuum level is
+  situated at 3.9 eV, resulting in a NEA of at least −1.0 eV and a maximum
+  work function of 3.9 eV. The high-boron-doped diamond (100) surface behaves
+  similarly, showing that the NEA peak is present due to the downward band
+  bending independent of the boron concentration. The nitrogen-doped
+  (100)-(2×1):H surface shows a low NEA of −0.2 eV but no NEA peak due to
+  the strong upward band bending. The (111)-(1×1):H surface does not show a
+  NEA peak due to the k‖ conservation in photoemission; Evac is situated at
+  4.2 eV or below, resulting in a NEA of at least −0.9 eV and a maximum work
+  function of 4.2 eV. The high-intensity NEA peak of boron-doped diamond seems
+  to be due to the downward band bending together with the reduced work
+  function because of hydrogen termination. Upon hydrogen desorption at higher
+  annealing temperatures, the work function increases, and NEA disappears. For
+  the nitrogen-doped diamond (100) surface, the work function behaves
+  similarly, but the observation of a NEA peak is absent because of the surface
+  barrier formed by the high upward band bending.%
+    }
+    \verb{doi}
+    \verb 10.1016/S0039-6028(98)00718-3
+    \endverb
+    \field{issn}{0039-6028}
+    \field{number}{1}
+    \field{pages}{219\bibrangedash 239}
+    \field{title}{Electron affinity and work function of differently oriented
+  and doped diamond surfaces determined by photoelectron spectroscopy}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S0039602898007183
+    \endverb
+    \field{volume}{418}
+    \verb{file}
+    \verb ScienceDirect Full Text PDF:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zo
+    \verb tero\\Zotero\\Profiles\\rmc4qiwo.default\\zotero\\storage\\PX68AB8V\\
+    \verb Diederich 等. - 1998 - Electron affinity and work function of differ
+    \verb ently.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\Ou.Wang\
+    \verb \AppData\\Roaming\\Zotero\\Zotero\\Profiles\\rmc4qiwo.default\\zotero
+    \verb \\storage\\INZ79JHP\\S0039602898007183.html:text/html
+    \endverb
+    \field{journaltitle}{Surface Science}
+    \field{month}{11}
+    \field{year}{1998}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{dietrich_isotopically_2014}{article}{}
+    \name{author}{7}{}{%
+      {{hash=DA}{%
+         family={Dietrich},
+         familyi={D\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JKD}{%
+         family={Jahnke},
+         familyi={J\bibinitperiod},
+         given={Kay\bibnamedelima D},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BJM}{%
+         family={Binder},
+         familyi={B\bibinitperiod},
+         given={Jan\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Teraji},
+         familyi={T\bibinitperiod},
+         given={Tokuyuki},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=IJ}{%
+         family={Isoya},
+         familyi={I\bibinitperiod},
+         given={Junichi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RLJ}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={Lachlan\bibnamedelima J},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jelezko},
+         familyi={J\bibinitperiod},
+         given={Fedor},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DA+1}
+    \strng{fullhash}{DAJKDBJMTTIJRLJJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.1088/1367-2630/16/11/113019
+    \endverb
+    \field{issn}{1367-2630}
+    \field{number}{11}
+    \field{pages}{113019}
+    \field{title}{Isotopically varying spectral features of silicon-vacancy in
+  diamond}
+    \verb{url}
+    \verb http://stacks.iop.org/1367-2630/16/i=11/a=113019?key=crossref.82aa49b
+    \verb 97773b65bb6774d744bd5a404
+    \endverb
+    \field{volume}{16}
+    \field{journaltitle}{New Journal of Physics}
+    \field{month}{11}
+    \field{year}{2014}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{divincenzo_physical_2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DDP}{%
+         family={DiVincenzo},
+         familyi={D\bibinitperiod},
+         given={David\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=I}{%
+         family={IBM},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \keyw{Condensed Matter - Mesoscale and Nanoscale Physics, Quantum Physics}
+    \strng{namehash}{DDPI1}
+    \strng{fullhash}{DDPI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    After a brief introduction to the principles and promise of quantum
+  information processing, the requirements for the physical implementation of
+  quantum computation are discussed. These five requirements, plus two relating
+  to the communication of quantum information, are extensively explored and
+  related to the many schemes in atomic physics, quantum optics, nuclear and
+  electron magnetic resonance spectroscopy, superconducting electronics, and
+  quantum-dot physics, for achieving quantum computing.%
+    }
+    \verb{doi}
+    \verb 10.1002/1521-3978(200009)48:9/11<771::AID-PROP771>3.0.CO;2-E
+    \endverb
+    \field{issn}{00158208, 15213978}
+    \field{note}{arXiv: quant-ph/0002077}
+    \field{number}{9-11}
+    \field{pages}{771\bibrangedash 783}
+    \field{title}{The {Physical} {Implementation} of {Quantum} {Computation}}
+    \verb{url}
+    \verb http://arxiv.org/abs/quant-ph/0002077
+    \endverb
+    \field{volume}{48}
+    \verb{file}
+    \verb arXiv.org Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zot
+    \verb ero\\Profiles\\rmc4qiwo.default\\zotero\\storage\\H88H5HTG\\0002077.h
+    \verb tml:text/html;arXiv\:quant-ph/0002077 PDF:C\:\\Users\\Ou.Wang\\AppDat
+    \verb a\\Roaming\\Zotero\\Zotero\\Profiles\\rmc4qiwo.default\\zotero\\stora
+    \verb ge\\DN2NB9AN\\DiVincenzo 和 IBM - 2000 - The Physical Implementation
+    \verb  of Quantum Computation.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Fortschritte der Physik}
+    \field{annotation}{%
+    Comment: Prepared for Fortschritte der Physik special issue, Experimental
+  Proposals for Quantum Computation. Version 2: many small corrections. Version
+  3: more small corrections \& references added%
+    }
+    \field{month}{09}
+    \field{year}{2000}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{gali_textitab_2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GA}{%
+         family={Gali},
+         familyi={G\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MJR}{%
+         family={Maze},
+         familyi={M\bibinitperiod},
+         given={Jeronimo\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GAMJR1}
+    \strng{fullhash}{GAMJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2013}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    The split silicon-vacancy (SiV) defect in diamond is an electrically and
+  optically active color center. Recently, it has been shown that this color
+  center is bright and can be detected at the single defect level. In addition,
+  the SiV defect shows a nonzero electronic spin ground state that potentially
+  makes this defect an alternative candidate for quantum optics and metrology
+  applications beside the well-known nitrogen-vacancy color center in diamond.
+  However, the electronic structure of the defect, the nature of optical
+  excitations and other related properties are not well understood. Here we
+  present advanced ab initio study on SiV defect in diamond. We determine the
+  formation energies, charge transition levels, and the nature of excitations
+  of the defect. Our study unravels the origin of the dark or shelving state
+  for the negatively charged SiV defect associated with the 1.68-eV
+  photoluminescence center.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevB.88.235205
+    \endverb
+    \field{number}{23}
+    \field{pages}{235205}
+    \field{shorttitle}{{\textbackslash}textit\{{Ab} initio\} study of the split
+  silicon-vacancy defect in diamond}
+    \field{title}{{\textbackslash}textit\{{Ab} initio\} study of the split
+  silicon-vacancy defect in diamond: {Electronic} structure and related
+  properties}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevB.88.235205
+    \endverb
+    \field{volume}{88}
+    \verb{file}
+    \verb APS Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\P
+    \verb rofiles\\rmc4qiwo.default\\zotero\\storage\\FCR4VBPD\\PhysRevB.88.htm
+    \verb l:text/html
+    \endverb
+    \field{journaltitle}{Physical Review B}
+    \field{month}{12}
+    \field{year}{2013}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{goss_twelve-line_1996}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GJP}{%
+         family={Goss},
+         familyi={G\bibinitperiod},
+         given={J.\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=JR}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BSJ}{%
+         family={Breuer},
+         familyi={B\bibinitperiod},
+         given={S.\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BPR}{%
+         family={Briddon},
+         familyi={B\bibinitperiod},
+         given={P.\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=bS}{%
+         family={Öberg},
+         familyi={b\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJP+1}
+    \strng{fullhash}{GJPJRBSJBPRbS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Ab initio cluster methods are used to investigate vacancy-impurity
+  complexes in diamond. We assign the 1.682 eV, twelve-line optical band to a
+  vacancy-Si complex which has a very unusual, possibly unique structure with a
+  Si atom at the center of a split vacancy. The method also successfully
+  accounts for the 1.945, 2.156, and 2.985 eV optical transitions in trigonal
+  vacancy-N defects and estimates of radiative lifetimes are given.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.77.3041
+    \endverb
+    \field{number}{14}
+    \field{pages}{3041\bibrangedash 3044}
+    \field{title}{The {Twelve}-{Line} 1.682 {eV} {Luminescence} {Center} in
+  {Diamond} and the {Vacancy}-{Silicon} {Complex}}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.77.3041
+    \endverb
+    \field{volume}{77}
+    \verb{file}
+    \verb APS Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\P
+    \verb rofiles\\rmc4qiwo.default\\zotero\\storage\\J6E8PGHW\\PhysRevLett.77.
+    \verb html:text/html
+    \endverb
+    \field{journaltitle}{Physical Review Letters}
+    \field{month}{09}
+    \field{year}{1996}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{kleppner_inhibited_1981}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KD}{%
+         family={Kleppner},
+         familyi={K\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KD1}
+    \strng{fullhash}{KD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    The radiative properties of an atom in a cavity differ fundamentally from
+  the atom's radiative properties in free space. Spontaneous emission is
+  inhibited if the cavity has characteristic dimensions which are small
+  compared to the radiation wavelength, and enhanced if the cavity is resonant.
+  The cavity causes slight shifts in the energies of the atom, analogous to
+  radiative shifts. Experiments are proposed for observing these effects.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.47.233
+    \endverb
+    \field{number}{4}
+    \field{pages}{233\bibrangedash 236}
+    \field{title}{Inhibited {Spontaneous} {Emission}}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.47.233
+    \endverb
+    \field{volume}{47}
+    \verb{file}
+    \verb APS Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\P
+    \verb rofiles\\rmc4qiwo.default\\zotero\\storage\\7TUS3V7B\\PhysRevLett.47.
+    \verb html:text/html
+    \endverb
+    \field{journaltitle}{Physical Review Letters}
+    \field{month}{07}
+    \field{year}{1981}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{orbach_spin-lattice_1961}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OR}{%
+         family={Orbach},
+         familyi={O\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{OR1}
+    \strng{fullhash}{OR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \verb{doi}
+    \verb 10.1098/rspa.1961.0211
+    \endverb
+    \field{issn}{1364-5021, 1471-2946}
+    \field{number}{1319}
+    \field{pages}{458\bibrangedash 484}
+    \field{title}{Spin-{Lattice} {Relaxation} in {Rare}-{Earth} {Salts}}
+    \verb{url}
+    \verb http://rspa.royalsocietypublishing.org/cgi/doi/10.1098/rspa.1961.0211
+    \endverb
+    \field{volume}{264}
+    \field{journaltitle}{Proceedings of the Royal Society A: Mathematical,
+  Physical and Engineering Sciences}
+    \field{month}{12}
+    \field{year}{1961}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{osswald_control_2006}{article}{}
+    \name{author}{5}{}{%
+      {{hash=OS}{%
+         family={Osswald},
+         familyi={O\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=YG}{%
+         family={Yushin},
+         familyi={Y\bibinitperiod},
+         given={Gleb},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MV}{%
+         family={Mochalin},
+         familyi={M\bibinitperiod},
+         given={Vadym},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KSO}{%
+         family={Kucheyev},
+         familyi={K\bibinitperiod},
+         given={Sergei\bibnamedelima O.},
+         giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=GY}{%
+         family={Gogotsi},
+         familyi={G\bibinitperiod},
+         given={Yury},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OS+1}
+    \strng{fullhash}{OSYGMVKSOGY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{abstract}{%
+    The presence of large amounts of nondiamond carbon in
+  detonation-synthesized nanodiamond (ND) severely limits applications of this
+  exciting nanomaterial. We report on a simple and environmentally friendly
+  route involving oxidation in air to selectively remove sp2-bonded carbon from
+  ND. Thermogravimetric analysis and in situ Raman spectroscopy shows that sp2
+  and sp3 carbon species oxidize with different rates at 375−450 °C and
+  reveals a narrow temperature range of 400−430 °C in which the oxidation of
+  sp2-bonded carbon occurs with no or minimal loss of diamond. X-ray absorption
+  near-edge structure spectroscopy detects an increase of up to 2 orders of
+  magnitude in the sp3/sp2 ratio after oxidation. The content of up to 96\% of
+  sp3-bonded carbon in the oxidized samples is comparable to that found in
+  microcrystalline diamond and is unprecedented for ND powders. Transmission
+  electron microscopy and Fourier transform infrared spectroscopy studies show
+  high purity 5-nm ND particles covered by oxygen-containing surface functional
+  groups. The surface functionalization can be controlled by subsequent
+  treatments (e.g., hydrogenization). In contrast to current purification
+  techniques, the air oxidation process does not require the use of toxic or
+  aggressive chemicals, catalysts, or inhibitors and opens avenues for numerous
+  new applications of nanodiamond.%
+    }
+    \verb{doi}
+    \verb 10.1021/ja063303n
+    \endverb
+    \field{issn}{0002-7863}
+    \field{number}{35}
+    \field{pages}{11635\bibrangedash 11642}
+    \field{title}{Control of sp2/sp3 {Carbon} {Ratio} and {Surface} {Chemistry}
+  of {Nanodiamond} {Powders} by {Selective} {Oxidation} in {Air}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1021/ja063303n
+    \endverb
+    \field{volume}{128}
+    \verb{file}
+    \verb ACS Full Text Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\
+    \verb \Zotero\\Profiles\\rmc4qiwo.default\\zotero\\storage\\WD6DBFXC\\ja063
+    \verb 303n.html:text/html
+    \endverb
+    \field{journaltitle}{Journal of the American Chemical Society}
+    \field{month}{09}
+    \field{year}{2006}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{ristein_electronic_2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RJ}{%
+         family={Ristein},
+         familyi={R\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Diamond, Field emission, Passivation, Semiconductor}
+    \strng{namehash}{RJ1}
+    \strng{fullhash}{RJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    For the potential electronic applications of diamond as a wide band gap
+  semiconductor, the properties of its surfaces are of fundamental importance.
+  These properties in general depend on the kind of passivation of the surface
+  dangling bonds, either by chemisorbed adsorbates or by the formation of
+  mutual chemical bonds as a consequence of surface reconstruction. The
+  principal crystallographic surfaces, (100), (111) and (110), are essentially
+  understood in their adsorbate free form in terms of surface states and
+  reconstructions. The corresponding results are briefly summarized in Section
+  2. The consequences of adsorbate passivation are then discussed for the case
+  of hydrogen as the most important radical for surface termination with
+  emphasis on different aspects. Hydrogen passivation leads to a negative
+  electron affinity due to a dipole layer which is induced by the heteropolar
+  carbon–hydrogen bonds of the surface atoms. This aspect is discussed
+  quantitatively in Section 3. Hydrogenation also reduces the amount of sp2
+  bonded carbon at the surface, which turns out to be the crucial parameter
+  determining the position of the surface Fermi level and thus the surface band
+  bending in diamond. This aspect is covered in Section 4. Finally, the
+  combination of the electron affinity reduction by hydrogen and the supply of
+  electrons at the Fermi level by sp2 bonded carbon phases has important
+  consequences for the low threshold electron emission into vacuum. This is
+  dealt with in the framework of an inhomogeneous emission model in Section 5.
+  The model can be expected to be applicable for all system containing sp2
+  bonded or graphitic phases together with an sp3 bonded diamond matrix,
+  especially for CVD diamond, and it should have important implications also
+  for field emission from diamond films.%
+    }
+    \verb{doi}
+    \verb 10.1016/S0925-9635(99)00316-7
+    \endverb
+    \field{issn}{0925-9635}
+    \field{number}{3–6}
+    \field{pages}{1129\bibrangedash 1137}
+    \field{title}{Electronic properties of diamond surfaces — blessing or
+  curse for devices?}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S0925963599003167
+    \endverb
+    \field{volume}{9}
+    \verb{file}
+    \verb ScienceDirect Full Text PDF:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zo
+    \verb tero\\Zotero\\Profiles\\rmc4qiwo.default\\zotero\\storage\\S34MEHGN\\
+    \verb Ristein - 2000 - Electronic properties of diamond surfaces — blessi
+    \verb .pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\Ou.Wang\\AppD
+    \verb ata\\Roaming\\Zotero\\Zotero\\Profiles\\rmc4qiwo.default\\zotero\\sto
+    \verb rage\\XS2GJ3EI\\S0925963599003167.html:text/html
+    \endverb
+    \field{journaltitle}{Diamond and Related Materials}
+    \field{month}{04}
+    \field{year}{2000}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{rogers_all-optical_2014}{article}{}
+    \name{author}{11}{}{%
+      {{hash=RLJ}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={Lachlan\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JKD}{%
+         family={Jahnke},
+         familyi={J\bibinitperiod},
+         given={Kay\bibnamedelima D.},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MMH}{%
+         family={Metsch},
+         familyi={M\bibinitperiod},
+         given={Mathias\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sipahigil},
+         familyi={S\bibinitperiod},
+         given={Alp},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJM}{%
+         family={Binder},
+         familyi={B\bibinitperiod},
+         given={Jan\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Teraji},
+         familyi={T\bibinitperiod},
+         given={Tokuyuki},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sumiya},
+         familyi={S\bibinitperiod},
+         given={Hitoshi},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=IJ}{%
+         family={Isoya},
+         familyi={I\bibinitperiod},
+         given={Junichi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LMD}{%
+         family={Lukin},
+         familyi={L\bibinitperiod},
+         given={Mikhail\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Hemmer},
+         familyi={H\bibinitperiod},
+         given={Philip},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jelezko},
+         familyi={J\bibinitperiod},
+         given={Fedor},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{Condensed Matter - Materials Science, Physics - Optics, Quantum
+  Physics}
+    \strng{namehash}{RLJ+1}
+    \strng{fullhash}{RLJJKDMMHSABJMTTSHIJLMDHPJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{extrayear}{1}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    The silicon-vacancy (\${\textbackslash}mathrm\{SiV\}{\textasciicircum}-\$)
+  color center in diamond has attracted attention due to its unique optical
+  properties. It exhibits spectral stability and indistinguishability that
+  facilitate efficient generation of photons capable of demonstrating quantum
+  interference. Here we show high fidelity optical initialization and readout
+  of electronic spin in a single
+  \${\textbackslash}mathrm\{SiV\}{\textasciicircum}-\$ center with a spin
+  relaxation time of \$T\_1=2.4{\textbackslash}pm0.2\$ ms. Coherent population
+  trapping (CPT) is used to demonstrate coherent preparation of dark
+  superposition states with a spin coherence time of
+  \$T\_2{\textasciicircum}{\textbackslash}star=35{\textbackslash}pm3\$ ns. This
+  is fundamentally limited by orbital relaxation, and an understanding of this
+  process opens the way to extend coherences by engineering interactions with
+  phonons. These results establish the
+  \${\textbackslash}mathrm\{SiV\}{\textasciicircum}-\$ center as a solid-state
+  spin-photon interface.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.113.197601
+    \endverb
+    \field{issn}{0031-9007, 1079-7114}
+    \field{note}{arXiv: 1410.1355}
+    \field{number}{19}
+    \field{title}{All-optical initialization, readout, and coherent preparation
+  of single silicon-vacancy spins in diamond}
+    \verb{url}
+    \verb http://arxiv.org/abs/1410.1355
+    \endverb
+    \field{volume}{113}
+    \field{journaltitle}{Physical Review Letters}
+    \field{annotation}{%
+    Comment: 9 pages, 8 figures%
+    }
+    \field{month}{11}
+    \field{year}{2014}
+    \field{urlday}{25}
+    \field{urlmonth}{11}
+    \field{urlyear}{2014}
+  \endentry
+
+  \entry{rogers_electronic_2014}{article}{}
+    \name{author}{11}{}{%
+      {{hash=RLJ}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={Lachlan\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JKD}{%
+         family={Jahnke},
+         familyi={J\bibinitperiod},
+         given={Kay\bibnamedelima D.},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=DMW}{%
+         family={Doherty},
+         familyi={D\bibinitperiod},
+         given={Marcus\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dietrich},
+         familyi={D\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MLP}{%
+         family={McGuinness},
+         familyi={M\bibinitperiod},
+         given={Liam\bibnamedelima P.},
+         giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Müller},
+         familyi={M\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Teraji},
+         familyi={T\bibinitperiod},
+         given={Tokuyuki},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sumiya},
+         familyi={S\bibinitperiod},
+         given={Hitoshi},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=IJ}{%
+         family={Isoya},
+         familyi={I\bibinitperiod},
+         given={Junichi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MNB}{%
+         family={Manson},
+         familyi={M\bibinitperiod},
+         given={Neil\bibnamedelima B.},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jelezko},
+         familyi={J\bibinitperiod},
+         given={Fedor},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RLJ+1}
+    \strng{fullhash}{RLJJKDDMWDAMLPMCTTSHIJMNBJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{extrayear}{2}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    The negatively charged silicon-vacancy (SiV−) center in diamond is a
+  promising single-photon source for quantum communications and information
+  processing. However, the center's implementation in such quantum technologies
+  is hindered by contention surrounding its fundamental properties. Here we
+  present optical polarization measurements of single centers in bulk diamond
+  that resolve this state of contention and establish that the center has a
+  ⟨111⟩ aligned split-vacancy structure with D3d symmetry. Furthermore, we
+  identify an additional electronic level and evidence for the presence of
+  dynamic Jahn-Teller effects in the center's 738-nm optical resonance.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevB.89.235101
+    \endverb
+    \field{number}{23}
+    \field{pages}{235101}
+    \field{title}{Electronic structure of the negatively charged
+  silicon-vacancy center in diamond}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevB.89.235101
+    \endverb
+    \field{volume}{89}
+    \verb{file}
+    \verb APS Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\P
+    \verb rofiles\\rmc4qiwo.default\\zotero\\storage\\A93J5R2Z\\PhysRevB.89.htm
+    \verb l:text/html;rogers_et_al_2014_electronic_structure_of_the_negatively_
+    \verb charged_silicon-vacancy_center_in_diamond.pdf:C\:\\Users\\Ou.Wang\\Ap
+    \verb pData\\Roaming\\Zotero\\Zotero\\Profiles\\rmc4qiwo.default\\zotero\\s
+    \verb torage\\4T8RQB3I\\rogers_et_al_2014_electronic_structure_of_the_negat
+    \verb ively_charged_silicon-vacancy_center_in_diamond.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Physical Review B}
+    \field{month}{06}
+    \field{year}{2014}
+    \field{urlday}{03}
+    \field{urlmonth}{06}
+    \field{urlyear}{2014}
+  \endentry
+
+  \entry{santori_coherent_2006-1}{article}{}
+    \name{author}{14}{}{%
+      {{hash=SC}{%
+         family={Santori},
+         familyi={S\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=FD}{%
+         family={Fattal},
+         familyi={F\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SSM}{%
+         family={Spillane},
+         familyi={S\bibinitperiod},
+         given={Sean\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fiorentino},
+         familyi={F\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BRG}{%
+         family={Beausoleil},
+         familyi={B\bibinitperiod},
+         given={Raymond\bibnamedelima G.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=GAD}{%
+         family={Greentree},
+         familyi={G\bibinitperiod},
+         given={Andrew\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=OP}{%
+         family={Olivero},
+         familyi={O\bibinitperiod},
+         given={Paolo},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Draganski},
+         familyi={D\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RJR}{%
+         family={Rabeau},
+         familyi={R\bibinitperiod},
+         given={James\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Reichart},
+         familyi={R\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GBC}{%
+         family={Gibson},
+         familyi={G\bibinitperiod},
+         given={Brant\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Rubanov},
+         familyi={R\bibinitperiod},
+         given={Sergey},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JDN}{%
+         family={Jamieson},
+         familyi={J\bibinitperiod},
+         given={David\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Prawer},
+         familyi={P\bibinitperiod},
+         given={Steven},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{SC+1}
+    \strng{fullhash}{SCFDSSMFMBRGGADOPDMRJRRPGBCRSJDNPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1364/OE.14.007986
+    \endverb
+    \field{issn}{1094-4087}
+    \field{number}{17}
+    \field{pages}{7986}
+    \field{title}{Coherent population trapping in diamond {N}-{V} centers at
+  zero magnetic field}
+    \verb{url}
+    \verb https://www.osapublishing.org/oe/abstract.cfm?uri=oe-14-17-7986
+    \endverb
+    \field{volume}{14}
+    \field{journaltitle}{Optics Express}
+    \field{year}{2006}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{scott_spin-lattice_1962}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SPL}{%
+         family={Scott},
+         familyi={S\bibinitperiod},
+         given={P.\bibnamedelima L.},
+         giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SPL1}
+    \strng{fullhash}{SPL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1103/PhysRev.127.32
+    \endverb
+    \field{number}{1}
+    \field{pages}{32\bibrangedash 51}
+    \field{title}{Spin-{Lattice} {Relaxation} in {Some} {Rare}-{Earth} {Salts}
+  at {Helium} {Temperatures}; {Observation} of the {Phonon} {Bottleneck}}
+    \field{volume}{127}
+    \verb{file}
+    \verb Phys. Rev. 127, 32 (1962) - Spin-Lattice Relaxation in Some Rare-Eart
+    \verb h Salts at Helium Temperatures\; Observation of the Phonon Bottleneck
+    \verb :C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\Profiles\\rmc
+    \verb 4qiwo.default\\zotero\\storage\\A8WKXRZJ\\PhysRev.127.html:text/html
+    \endverb
+    \field{journaltitle}{Physical Review}
+    \field{year}{1962}
+  \endentry
+
+  \entry{t._gaebel_size-reduction_2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TGC}{%
+         family={T.\bibnamedelima Gaebel},
+         familyi={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={C.Bradac},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TGC1}
+    \strng{fullhash}{TGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    Here we report the size reduction and effects on nitrogen-vacancy centres
+  in nanodiamonds by air oxidation using a combined atomic force and confocal
+  microscope. The average height reduction of individual crystals, as measured
+  by atomic force microscopy, was 10 ± 1 nm/h at 600 °C, 4 ± 1 nm/h at 550
+  °C, and less than 1 nm/h at 500 °C from air oxidation at atmospheric
+  pressure. The oxidation process modified the surface including removal of
+  non-diamond carbon and organic material which also led to a decrease in
+  background fluorescence. During the course of the nanodiamond size reduction,
+  we observed the annihilation of nitrogen-vacancy centres which provided
+  important insight into the behaviour of colour centres in small crystals. In
+  these unirradiated samples, the smallest nanodiamond still hosting a stable
+  nitrogen-vacancy centre observed was 8 nm.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.diamond.2011.09.002
+    \endverb
+    \field{pages}{28\bibrangedash 32}
+    \field{title}{Size-reduction of nanodiamonds via air oxidation}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S0925963511003116
+    \endverb
+    \field{volume}{21}
+    \field{journaltitle}{Diamond and Related Materials}
+    \field{month}{01}
+    \field{year}{2012}
+  \endentry
+
+  \entry{wolcott_surface_2014}{article}{}
+    \name{author}{9}{}{%
+      {{hash=WA}{%
+         family={Wolcott},
+         familyi={W\bibinitperiod},
+         given={Abraham},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Schiros},
+         familyi={S\bibinitperiod},
+         given={Theanne},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=TME}{%
+         family={Trusheim},
+         familyi={T\bibinitperiod},
+         given={Matthew\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=CEH}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Edward\bibnamedelima H.},
+         giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=ND}{%
+         family={Nordlund},
+         familyi={N\bibinitperiod},
+         given={Dennis},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DRE}{%
+         family={Diaz},
+         familyi={D\bibinitperiod},
+         given={Rosa\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=GO}{%
+         family={Gaathon},
+         familyi={G\bibinitperiod},
+         given={Ophir},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=ED}{%
+         family={Englund},
+         familyi={E\bibinitperiod},
+         given={Dirk},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=OJS}{%
+         family={Owen},
+         familyi={O\bibinitperiod},
+         given={Jonathan\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WA+1}
+    \strng{fullhash}{WASTTMECEHNDDREGOEDOJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    We investigate the aerobic oxidation of high-pressure, high-temperature
+  nanodiamonds (5?50 nm dimensions) using a combination of carbon and oxygen
+  K-edge X-ray absorption, wavelength-dependent X-ray photoelectron, and
+  vibrational spectroscopies. Oxidation at 575 °C for 2 h eliminates graphitic
+  carbon contamination ({\textgreater}98\%) and produces nanocrystals with
+  hydroxyl functionalized surfaces as well as a minor component
+  ({\textless}5\%) of carboxylic anhydrides. The low graphitic carbon content
+  and the high crystallinity of HPHT are evident from Raman spectra acquired
+  using visible wavelength excitation (?excit = 633 nm) as well as carbon
+  K-edge X-ray absorption spectra where the signature of a core?hole exciton is
+  observed. Both spectroscopic features are similar to those of chemical vapor
+  deposited (CVD) diamond but differ significantly from the spectra of
+  detonation nanodiamond. The importance of these findings to the
+  functionalization of nanodiamond surfaces for biological labeling
+  applications is discussed.%
+    }
+    \verb{doi}
+    \verb 10.1021/jp506992c
+    \endverb
+    \field{issn}{1932-7447}
+    \field{number}{46}
+    \field{pages}{26695\bibrangedash 26702}
+    \field{title}{Surface {Structure} of {Aerobically} {Oxidized} {Diamond}
+  {Nanocrystals}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1021/jp506992c
+    \endverb
+    \field{volume}{118}
+    \field{journaltitle}{The Journal of Physical Chemistry C}
+    \field{month}{11}
+    \field{year}{2014}
+    \field{urlday}{03}
+    \field{urlmonth}{12}
+    \field{urlyear}{2014}
+  \endentry
+
+  \entry{yeap_detonation_2009}{article}{}
+    \name{author}{3}{}{%
+      {{hash=YWS}{%
+         family={Yeap},
+         familyi={Y\bibinitperiod},
+         given={Weng\bibnamedelima Siang},
+         giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Shiming},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LKP}{%
+         family={Loh},
+         familyi={L\bibinitperiod},
+         given={Kian\bibnamedelima Ping},
+         giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YWSCSLKP1}
+    \strng{fullhash}{YWSCSLKP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2009}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \verb{doi}
+    \verb 10.1021/la8029787
+    \endverb
+    \field{issn}{0743-7463}
+    \field{number}{1}
+    \field{pages}{185\bibrangedash 191}
+    \field{shorttitle}{Detonation {Nanodiamond}}
+    \field{title}{Detonation {Nanodiamond}: {An} {Organic} {Platform} for the
+  {Suzuki} {Coupling} of {Organic} {Molecules}}
+    \verb{url}
+    \verb http://pubs.acs.org/doi/abs/10.1021/la8029787
+    \endverb
+    \field{volume}{25}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\
+    \verb Profiles\\rmc4qiwo.default\\zotero\\storage\\ASBA4ZVX\\Yeap 等. - 20
+    \verb 09 - Detonation Nanodiamond An Organic Platform for th.pdf:applicatio
+    \verb n/pdf;Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\
+    \verb \Profiles\\rmc4qiwo.default\\zotero\\storage\\B3TANJM5\\la8029787.htm
+    \verb l:text/html
+    \endverb
+    \field{journaltitle}{Langmuir}
+    \field{month}{01}
+    \field{year}{2009}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+\endsortlist
 \endinput

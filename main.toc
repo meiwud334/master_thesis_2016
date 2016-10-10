@@ -5,8 +5,8 @@
 \contentsline {chapter}{\numberline {1}Motivation and Background}{1}{chapter.4}
 \contentsline {section}{\numberline {1.1}Quantum information processing and Qubit candidates}{1}{section.5}
 \contentsline {section}{\numberline {1.2}Silicon vacancy as a Qubit candidate}{2}{section.6}
-\contentsline {section}{\numberline {1.3}Silicon vacancies in nanodiamonds}{3}{section.9}
-\contentsline {section}{\numberline {1.4}Motivation of the thesis}{4}{section.11}
+\contentsline {section}{\numberline {1.3}Silicon vacancies in nanodiamonds}{4}{section.9}
+\contentsline {section}{\numberline {1.4}Motivation of the thesis}{5}{section.11}
 \contentsline {chapter}{\numberline {2}Sample preparation and Experiment Apparatus}{7}{chapter.14}
 \contentsline {section}{\numberline {2.1}Sample information}{7}{section.15}
 \contentsline {section}{\numberline {2.2}sample preparation}{8}{section.18}
@@ -40,16 +40,18 @@
 \contentsline {section}{\numberline {4.4}Temperature and spectral stability}{27}{section.57}
 \contentsline {section}{\numberline {4.5}Excitation polarisation and spectral stability}{27}{section.58}
 \contentsline {section}{\numberline {4.6}Aerobic Oxidation and Spectral stability}{28}{section.68}
-\contentsline {section}{\numberline {4.7}Hydrogen termination}{28}{section.69}
-\contentsline {chapter}{\numberline {5}Conclusion and outlook}{35}{chapter.70}
-\contentsline {section}{\numberline {5.1}The road so far}{35}{section.71}
-\contentsline {paragraph}{Initial motivation}{35}{section*.72}
-\contentsline {paragraph}{Development of a method to estimate the spectral diffusion}{35}{section*.73}
-\contentsline {paragraph}{Surface treatments and their effects}{35}{section*.74}
-\contentsline {section}{\numberline {5.2} Probabilities in the near future}{35}{section.75}
-\contentsline {paragraph}{PLE}{35}{section*.76}
-\contentsline {paragraph}{life time measurement}{35}{section*.77}
-\contentsline {paragraph}{comparasion of different surface group}{35}{section*.78}
-\contentsline {paragraph}{better method for size selection}{35}{section*.79}
-\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{35}{section*.80}
-\contentsline {chapter}{\numberline {A}Appendix Title Here}{37}{appendix.81}
+\contentsline {paragraph}{}{28}{section*.69}
+\contentsline {section}{\numberline {4.7}Hydrogen termination}{28}{section.72}
+\contentsline {chapter}{\numberline {5}Conclusion and outlook}{37}{chapter.73}
+\contentsline {section}{\numberline {5.1}The road so far}{37}{section.74}
+\contentsline {paragraph}{Initial motivation}{37}{section*.75}
+\contentsline {paragraph}{Development of a method to estimate the spectral diffusion}{37}{section*.76}
+\contentsline {paragraph}{Surface treatments and their effects}{37}{section*.77}
+\contentsline {section}{\numberline {5.2} Probabilities in the near future}{37}{section.78}
+\contentsline {paragraph}{PLE}{37}{section*.79}
+\contentsline {paragraph}{life time measurement}{37}{section*.80}
+\contentsline {paragraph}{comparasion of different surface group}{37}{section*.81}
+\contentsline {paragraph}{better method for size selection}{37}{section*.82}
+\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{37}{section*.83}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{39}{appendix.84}
+\contentsline {chapter}{Bibliography}{41}{appendix*.85}
