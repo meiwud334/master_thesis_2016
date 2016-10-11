@@ -1132,6 +1132,76 @@
     \field{urlyear}{2016}
   \endentry
 
+  \entry{jelezko_single_2006}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JF}{%
+         family={Jelezko},
+         familyi={J\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wrachtrup},
+         familyi={W\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{03.67.Pp, 71.55.−r, 76.30.Mi, 76.70.−r}
+    \strng{namehash}{JFWJ1}
+    \strng{fullhash}{JFWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2006}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    The nitrogen vacancy and some nickel related defects in diamond can be
+  observed as single quantum systems in diamond by their fluorescence. The
+  fabrication of single colour centres occurs via generation of vacancies or
+  via controlled nitrogen implantation in the case of the nitrogen vacancy (NV)
+  centre. The NV centre shows an electron paramagnetic ground and optically
+  excited state. As a result electron and nuclear magnetic resonance can be
+  carried out on single defects. Due to the localized nature of the electron
+  spin wavefunction hyperfine coupling to nuclei more than one lattice constant
+  away from the defect as dominated by dipolar interaction. As a consequence
+  the coupling to close nuclei leads to a splitting in the spectrum which
+  allows for optically detected electron nuclear double resonance. The
+  contribution discusses the physics of the NV and other defect centre from the
+  perspective of single defect centre spectroscopy. (© 2006 WILEY-VCH Verlag
+  GmbH \& Co. KGaA, Weinheim)%
+    }
+    \verb{doi}
+    \verb 10.1002/pssa.200671403
+    \endverb
+    \field{issn}{1862-6319}
+    \field{number}{13}
+    \field{pages}{3207\bibrangedash 3225}
+    \field{shorttitle}{Single defect centres in diamond}
+    \field{title}{Single defect centres in diamond: {A} review}
+    \verb{url}
+    \verb http://onlinelibrary.wiley.com/doi/10.1002/pssa.200671403/abstract
+    \endverb
+    \field{volume}{203}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\
+    \verb Profiles\\rmc4qiwo.default\\zotero\\storage\\XKDSRMRZ\\Jelezko 和 Wr
+    \verb achtrup - 2006 - Single defect centres in diamond A review.pdf:applic
+    \verb ation/pdf;Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zot
+    \verb ero\\Profiles\\rmc4qiwo.default\\zotero\\storage\\WGUHUGAW\\abstract.
+    \verb html:text/html
+    \endverb
+    \field{journaltitle}{physica status solidi (a)}
+    \field{month}{10}
+    \field{year}{2006}
+    \field{urlday}{11}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
   \entry{kleppner_inhibited_1981}{article}{}
     \name{author}{1}{}{%
       {{hash=KD}{%

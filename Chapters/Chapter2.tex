@@ -111,6 +111,8 @@ All the 3 methods other than method III produced samples with SiV$^{-}$ containi
 %-----------------------------------
 \section[experiment apparatus]{Experiment Apparatus}
 
+Departing from the initial setup, a few alternations have been done during the project, which would be discussed in detail in the following up contents.
+
 \subsubsection{The initial Setup} 
 
 The setup can be coarsely separated into laser source, confocal microscope(with APD and spectrometer as detector), flow cryostat and vaccum pump, these four parts are all sketched in Fig. 2.4.
@@ -122,31 +124,30 @@ The setup can be coarsely separated into laser source, confocal microscope(with 
 \label{fig:initialsetup}
 \end{figure}
 
-While the absorption spectrum shows the highest off resonance absorption around 530nm \citep{iakoubovskii_luminescence_2000,albrecht_coupling_2013,rogers_electronic_2014}, the ZPL of silicon vacancy lies around 737nm. We chose to use green laser of wavelength 532nm as the laser source for photoluminesence spectrum and Titan Sapphire laser with the ability of scanning around 737nm as the laser source of photoluminescence excitation. These two methods will be more detailed written about in the following paragraphs.The lasers are coupled into the same photonic crystal fibre, which guides the beam towards the optical table.
+While the absorption spectrum shows the highest off resonance absorption around 530nm \citep{iakoubovskii_luminescence_2000,albrecht_coupling_2013,rogers_electronic_2014}, the ZPL of silicon vacancy lies around 737nm. We chose to use green laser of wavelength 532nm as the laser source for photoluminesence spectra and Titan Sapphire laser with the ability of scanning around 737nm as the laser source for photoluminescence excitation. The lasers are coupled into the same photonic crystal fibre, and so are exactly overlapped.
 
-The second part is the confocal microscope, which is a very useful tool for imaging of samples that emits fluorescence, such as SiVs. Compared with fluorescence microscope, as sketched in Fig. 2.5, the confocal microscope uses a pair of convex lens and a pinhole that conjugates to the lens to achieve the increase of resolution and signal to noise ration.
+The second part is the confocal microscope, which is useful for imaging samples that emit fluorescence, such as SiVs. Compared with fluorescence microscope, as sketched in \ref{fig:initialsetup}, the confocal microscope uses a pair of convex lens and a pinhole that increases the resolution along the optical axis and the signal to noise ratio.
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1\linewidth]{Figures/pic/microscope}
-	\caption{A)In a typical fluorescence microscope, the back ground fluorescence will also be collected. b)In the confocal microscope, with the help of a lens conjugating pin hole, a large fraction of the fluorescence from non-focus plane will not get through by the pinhole.}
+	\caption{A: In a typical fluorescence microscope, the back ground fluorescence will also be collected. B: In the confocal microscope, with the help of a lens conjugating pin hole, a large fraction of the fluorescence from non-focus plane will not get through by the pinhole.}
 	\label{fig:microscope}
 \end{figure}
-In the setup, there are two possibilities of signal detection, controlled by a flipping mirror, we can choose to count the photons with a pair of APD, or record the spectrum with a spectrometer.
-As the resolution of fine splitting of SiV ZPL needs to be measured in low temperature, the motorized sample stage is placed in a flow cryostat, the objective lens is also inside the cryostat. As the name mentioned, the decrease of temperature in this cryostat is achieved by the flow of cold, boiling liquid Helium, a transfer line connects the Helium dewar and the inlet of the helium cooling circulation inside the cryostat. The sample sits right on the cold finger, with proper method of mounting and substrate, the temperature can be brought to as low as 3.5K(need to check).
+In the setup, there are two possibilities of signal detection, controlled by a flipping mirror. We can choose to count the photons with a pair of avalanche photon diodes (APD), or record the spectrum with a spectrometer.
+As the fine splitting of SiV ZPL needs to be measured at low temperature, the motorized sample stage is placed in a cryostat, with the objective lens that is also inside the cryostat. The decrease of temperature in this cryostat is achieved by the flow of liquid Helium. The sample sits on the cold finger, cooled by the helium, the temperature can be reduced to as low as 5K.
 
-To reach cryogenic temperature, it is vital to cut off the heat exchange between the sample and the world out side the cryostat, since air and stainless steel(the material of the cryostat wall) can both conduct heat, a UHV condition need to be meet. In our setup, it is realized by the pumping system of a back pump and a turbo pump. The back pump pre-pumps the pressure until it meets the working condition for turbo pump.
+To reach cryogenic temperature, it is vital to cut off the heat exchange between the sample and the world out side the cryostat. Since air and stainless steel(the material of the cryostat wall) can both conduct heat, a UHV condition need to be meet. In our setup, it is realized by the pumping system of a back pump and a turbo pump. 
 
 \subsubsection{Methods for characterisation} 
-With the mentioned setup, we are able to characterise the sample with following basic methods.
+With this aparatus, we are able to characterise the sample with following basic methods.
 
 
 \paragraph{Photoluminescence} 
-Photoluminescence detects the emission after the absorption of photons. In our case, we use the 532nm laser to excite the sample, which would bring the SiV$^{-}$ to the second excited state, while the electronic transition between 2 energy levels of the same parity is not allowed, it is possible to conduct the transition between such kind of 2 energy level via the creation and annihilation of phonons, thus it will be the 4 transitions between the first excited state and the ground state that we are expect to record in the spectrum .
+Photoluminescence detects the emission after the absorption of photons. A 532nm laser excites the 4 transitions between the first excited state and the ground state that we are expect to record in the spectrum .
 
-The resolving power of a grating in a spectrometer depends on the width of the grating, the centre length to be resolved and the geometry of the use condition. In our setup, a resolution of 16GHz can be achieved, which is capable of observing the 4 line structure in SiV$^{-}$ ZPL, but not enough to resolve a peak with the width of the lifetime limit. 
+The resolving power of a grating in a spectrometer depends on the width of the grating, the length of the spectrometer and the geometry of the use condition. In our setup, a resolution of 16GHz can be achieved \cite{dietrich_isotopically_2014,rogers_all-optical_2014}, which is capable of observing the 4 line structure in SiV$^{-}$ ZPL, between which the splittings are 46.7GHz and 258GHz \citep{rogers_all-optical_2014}. But the resolution is not enough for a peak with the width of the lifetime limit, which is around 100MHz. 
 
-\paragraph{PLE} When PL excites the sample with a laser of single wavelength to obtain the information about multiple emissions, PLE, on the contrary, excites the sample with various wavelength and monitors the photon emission from the side band to characterise a single transition. The resolution of PLE depends on the resolution of laser, with the Matisse Titan-Sapphire laser(linewidth of 50kHz), it allows us to resolve single electronic transmission in SiV$^{-}$ with life time limited line width, as well as to obtain better signal to noise ratio. 
+\paragraph{PLE} While PL excites off-resonantly the sample with a laser of single wavelength to obtain information about multiple emissions, PLE excites the sample with various wavelength and monitors the photon emission into the side band to characterise a single transition. The resolution of PLE depends on the resolution of laser. A Matisse Titan-Sapphire laser (linewidth of 50kHz), was used here allowing us to resolve single electronic transition in SiV$^{-}$ with life time limited line width, as well as to obtain better signal to noise ratio. 
 
-\paragraph{time resolved PL spectra} It is very inconvenient monitoring the spectral diffusion in the scale of nm with PLE. To help characterise the spectral diffusing behaviour of SiV$^{-}$, we improvised the time-resolved PL spectra. By stacking the sequentially taken spectra in the order of time, we can visualize and estimate the spectral diffusion in a more coarse but convenient way. 
+\paragraph{time resolved PL spectra} It is difficult to monitor wide ranging spectral diffusion in the scale of nm with PLE. To help characterise the spectral diffusing behaviour of SiV$^{-}$, we utilised a technique of time-resolved PL spectra. By stacking the sequentially taken spectra in the order of time, we can visualize and estimate the spectral diffusion in a more coarse but convenient way. 
  
-Departing from the initial setup, a few alternations have been done during the project, which would be discussed in detail in the following up contents.
