@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  11 OCT 2016 23:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  11 OCT 2016 23:28
 entering extended mode
 **./main.tex
 (main.tex
@@ -1455,8 +1455,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
 (main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux)
-(Chapters/Chapter2.5.aux) (Chapters/Chapter2.75.aux) (Chapters/Chapter3.aux)
-(Appendices/AppendixA.aux))
+(Chapters/Chapter2.5.aux) (Chapters/Chapter2.75.aux) (Chapters/Chapter3.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
@@ -1757,14 +1756,14 @@ Overfull \hbox (5.16829pt too wide) in paragraph at lines 53--54
 nance ex-ci-ta-tion. As shown
  []
 
-[2] <Figures/pic/SiV.png, id=279, 845.40843pt x 597.73312pt>
+[2] <Figures/pic/SiV.png, id=304, 845.40843pt x 597.73312pt>
 File: Figures/pic/SiV.png Graphic file (type png)
 
 <use Figures/pic/SiV.png>
 Package pdftex.def Info: Figures/pic/SiV.png used on input line 63.
 (pdftex.def)             Requested size: 361.34995pt x 255.47884pt.
 
-<Figures/pic/coherent.png, id=285, 845.40843pt x 597.73312pt>
+<Figures/pic/coherent.png, id=310, 845.40843pt x 597.73312pt>
 File: Figures/pic/coherent.png Graphic file (type png)
 
 <use Figures/pic/coherent.png>
@@ -1778,7 +1777,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/PLEUwe.png, id=288, 845.40843pt x 597.73312pt>
+<Figures/pic/PLEUwe.png, id=313, 845.40843pt x 597.73312pt>
 File: Figures/pic/PLEUwe.png Graphic file (type png)
 
 <use Figures/pic/PLEUwe.png>
@@ -1819,7 +1818,7 @@ Overfull \hbox (8.96268pt too wide) in paragraph at lines 47--48
 10.95 ) and a ra-man shift at 1332$\OML/cmm/m/it/10.95 cm[]$
  []
 
-<Figures/pic/fib.png, id=342, 845.40843pt x 597.73312pt>
+<Figures/pic/fib.png, id=367, 845.40843pt x 597.73312pt>
 File: Figures/pic/fib.png Graphic file (type png)
 
 <use Figures/pic/fib.png>
@@ -1829,7 +1828,7 @@ Package pdftex.def Info: Figures/pic/fib.png used on input line 54.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] <Figures/pic/AcidCleaning.png, id=356, 845.40843pt x 597.73312pt>
+[8] <Figures/pic/AcidCleaning.png, id=381, 845.40843pt x 597.73312pt>
 File: Figures/pic/AcidCleaning.png Graphic file (type png)
 
 <use Figures/pic/AcidCleaning.png>
@@ -1850,7 +1849,7 @@ Overfull \hbox (17.19772pt too wide) in paragraph at lines 118--119
 fo-cal mi-cro-scope(with
  []
 
-<Figures/pic/initialsetup.png, id=368, 587.19376pt x 590.205pt>
+<Figures/pic/initialsetup.png, id=393, 587.19376pt x 590.205pt>
 File: Figures/pic/initialsetup.png Graphic file (type png)
 
 <use Figures/pic/initialsetup.png>
@@ -1860,7 +1859,7 @@ Package pdftex.def Info: Figures/pic/initialsetup.png used on input line 122.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/microscope.png, id=373, 845.40843pt x 597.73312pt>
+<Figures/pic/microscope.png, id=398, 845.40843pt x 597.73312pt>
 File: Figures/pic/microscope.png Graphic file (type png)
 
 <use Figures/pic/microscope.png>
@@ -1885,7 +1884,7 @@ he sam-ple with a laser of sin-gle wave-
 
 ]
 Chapter 3.
-<Figures/pic/RTPL.png, id=409, 845.40843pt x 597.73312pt>
+<Figures/pic/RTPL.png, id=434, 845.40843pt x 597.73312pt>
 File: Figures/pic/RTPL.png Graphic file (type png)
 
 <use Figures/pic/RTPL.png>
@@ -1896,7 +1895,7 @@ Package pdftex.def Info: Figures/pic/RTPL.png used on input line 20.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 1: section
-[15] <Figures/pic/PLE.png, id=418, 596.2275pt x 575.14874pt>
+[15] <Figures/pic/PLE.png, id=443, 596.2275pt x 575.14874pt>
 File: Figures/pic/PLE.png Graphic file (type png)
 
 <use Figures/pic/PLE.png>
@@ -1916,7 +1915,7 @@ formed time-resolved
  []
 
 [16 <./Figures/pic/RTPL.png>]
-<Figures/pic/oxidation.png, id=428, 845.40843pt x 597.73312pt>
+<Figures/pic/oxidation.png, id=453, 845.40843pt x 597.73312pt>
 File: Figures/pic/oxidation.png Graphic file (type png)
 
 <use Figures/pic/oxidation.png>
@@ -1943,7 +1942,7 @@ c-tra were recorded.
 LaTeX Warning: Command \textunderscore invalid in math mode on input line 58.
 
 [18 <./Figures/pic/oxidation.png>]
-<Figures/pic/afteroxidation2.png, id=446, 845.40843pt x 597.73312pt>
+<Figures/pic/afteroxidation2.png, id=471, 845.40843pt x 597.73312pt>
 File: Figures/pic/afteroxidation2.png Graphic file (type png)
 
 <use Figures/pic/afteroxidation2.png>
@@ -1972,7 +1971,7 @@ wer of 120$\OMS/cmsy/m/n/10.95 $\T1/ppl/m/n/10.95 10uW,
  []
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_1_2".png, id=461, 867.2
+<"Figures/pic/Histogram of normalized cross-correlation_1_2".png, id=486, 867.2
 4pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_1_2".png Graphic f
 ile (type png)
@@ -1985,7 +1984,7 @@ _1_2".png used on input line 24.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/powerdependenceref11.png, id=463, 597.73312pt x 845.40843pt>
+<Figures/pic/powerdependenceref11.png, id=488, 597.73312pt x 845.40843pt>
 File: Figures/pic/powerdependenceref11.png Graphic file (type png)
 
 <use Figures/pic/powerdependenceref11.png>
@@ -1997,7 +1996,7 @@ e 37.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<Figures/pic/powerdependencybeforeafteroxidation.png, id=465, 867.24pt x 867.24
+<Figures/pic/powerdependencybeforeafteroxidation.png, id=490, 867.24pt x 867.24
 pt>
 File: Figures/pic/powerdependencybeforeafteroxidation.png Graphic file (type pn
 g)
@@ -2014,7 +2013,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-] <"Figures/pic/excitation polarisation".png, id=473, 867.24pt x 867.24pt>
+] <"Figures/pic/excitation polarisation".png, id=498, 867.24pt x 867.24pt>
 File: "Figures/pic/excitation polarisation".png Graphic file (type png)
 
 <use "Figures/pic/excitation polarisation".png>
@@ -2026,18 +2025,18 @@ t line 58.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [22 <./Figures/pic/Histogram of normalized cross-correlation_1_2.png>]
-<Figures/pic/polarisationexcitation.png, id=484, 597.73312pt x 845.40843pt>
+<Figures/pic/polarisationexcitation.png, id=509, 597.73312pt x 603.75563pt>
 File: Figures/pic/polarisationexcitation.png Graphic file (type png)
 
 <use Figures/pic/polarisationexcitation.png>
 Package pdftex.def Info: Figures/pic/polarisationexcitation.png used on input l
 ine 72.
-(pdftex.def)             Requested size: 361.34995pt x 511.08023pt.
+(pdftex.def)             Requested size: 361.34995pt x 364.9923pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/polarisationref03.png, id=485, 597.73312pt x 845.40843pt>
+<Figures/pic/polarisationref03.png, id=510, 597.73312pt x 845.40843pt>
 File: Figures/pic/polarisationref03.png Graphic file (type png)
 
 <use Figures/pic/polarisationref03.png>
@@ -2048,13 +2047,13 @@ Package pdftex.def Info: Figures/pic/polarisationref03.png used on input line 7
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/polarisationref03_2.png, id=488, 597.73312pt x 845.40843pt>
+<Figures/pic/polarisationref03_2.png, id=513, 597.73312pt x 575.90157pt>
 File: Figures/pic/polarisationref03_2.png Graphic file (type png)
 
 <use Figures/pic/polarisationref03_2.png>
 Package pdftex.def Info: Figures/pic/polarisationref03_2.png used on input line
  85.
-(pdftex.def)             Requested size: 361.34995pt x 511.08023pt.
+(pdftex.def)             Requested size: 361.34995pt x 348.1535pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2065,7 +2064,7 @@ Overfull \hbox (4.1349pt too wide) in paragraph at lines 100--101
 no-ticed, mean cross-correlation
  []
 
-<Figures/pic/prepostoxidationspectra.png, id=495, 597.73312pt x 845.40843pt>
+<Figures/pic/prepostoxidationspectra.png, id=520, 597.73312pt x 845.40843pt>
 File: Figures/pic/prepostoxidationspectra.png Graphic file (type png)
 
 <use Figures/pic/prepostoxidationspectra.png>
@@ -2077,7 +2076,7 @@ line 104.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<Figures/pic/prepostoxidationtimeresolvespectra.png, id=496, 597.73312pt x 845.
+<Figures/pic/prepostoxidationtimeresolvespectra.png, id=521, 597.73312pt x 845.
 40843pt>
 File: Figures/pic/prepostoxidationtimeresolvespectra.png Graphic file (type png
 )
@@ -2090,7 +2089,7 @@ d on input line 111.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_2_o".png, id=499, 867.2
+<"Figures/pic/Histogram of normalized cross-correlation_2_o".png, id=524, 867.2
 4pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_2_o".png Graphic f
 ile (type png)
@@ -2107,7 +2106,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: Reference `Chaper2.5' on page 23 undefined on input line 125.
 
 [23]
-<"Figures/pic/Histogram of normalized cross-correlation_1_H".png, id=522, 867.2
+<"Figures/pic/Histogram of normalized cross-correlation_1_H".png, id=547, 867.2
 4pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_1_H".png Graphic f
 ile (type png)
@@ -2121,7 +2120,7 @@ _1_H".png used on input line 131.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_1_H_2".png, id=523, 867
+<"Figures/pic/Histogram of normalized cross-correlation_1_H_2".png, id=548, 867
 .24pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_1_H_2".png Graphic
  file (type png)
@@ -2140,7 +2139,7 @@ mal-ized
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<Figures/pic/hydrogenterminationtimeresolve.png, id=524, 597.73312pt x 845.4084
+<Figures/pic/hydrogenterminationtimeresolve.png, id=549, 597.73312pt x 845.4084
 3pt>
 File: Figures/pic/hydrogenterminationtimeresolve.png Graphic file (type png)
  <use Figures/pic/hydrogenterminationtimeresolve.png>
@@ -2152,7 +2151,7 @@ Package pdftex.def Info: Figures/pic/hydrogenterminationtimeresolve.png used on
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<Figures/pic/hydrogenterminationpolarisation.png, id=525, 597.73312pt x 845.408
+<Figures/pic/hydrogenterminationpolarisation.png, id=550, 597.73312pt x 845.408
 43pt>
 File: Figures/pic/hydrogenterminationpolarisation.png Graphic file (type png)
  <use Figures/pic/hydrogenterminationpolarisation.png>
@@ -2163,7 +2162,7 @@ n input line 153.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/nbandbend.png, id=528, 845.40843pt x 597.73312pt>
+<Figures/pic/nbandbend.png, id=553, 845.40843pt x 597.73312pt>
 File: Figures/pic/nbandbend.png Graphic file (type png)
 
 <use Figures/pic/nbandbend.png>
@@ -2198,20 +2197,6 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 1: section
 [39]) [40]
-\openout2 = `Appendices/AppendixA.aux'.
-
- (Appendices/AppendixA.tex
-Appendix A.
-)
-1: section
-[41
-
-
-
-] [42
-
-
-]
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 284.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -2229,7 +2214,10 @@ Overfull \hbox (16.99962pt too wide) in paragraph at lines 284--284
  []
 
 1: section
-[43]
+[41
+
+
+]
 Overfull \hbox (26.08174pt too wide) in paragraph at lines 284--284
 \T1/ppl/m/n/10.95 prop-er-ties. In: \T1/ppl/m/it/10.95 Phys-i-cal Re-view B \T
 1/ppl/m/n/10.95 88.23, p. 235205. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][
@@ -2262,7 +2250,7 @@ Overfull \hbox (10.57106pt too wide) in paragraph at lines 284--284
 pl/m/n/10.95 (vis-ited on 10/10/2016). 
  []
 
-[44]
+[42]
 Overfull \hbox (6.86693pt too wide) in paragraph at lines 284--284
 \T1/pcr/m/n/10.95 rspa . 1961 . 0211$[][]\T1/ppl/m/n/10.95 . \T1/ppl/m/sc/10.95
  url\T1/ppl/m/n/10.95 : [][]$\T1/pcr/m/n/10.95 http : / / rspa . royalsocietypu
@@ -2293,29 +2281,22 @@ Overfull \hbox (14.33519pt too wide) in paragraph at lines 284--284
 p-plied Physics Let-ters \T1/ppl/m/n/10.95 100.7, p. 071902.
  []
 
-[45]
+[43]
 Overfull \hbox (4.00107pt too wide) in paragraph at lines 284--284
 [][]$\T1/pcr/m/n/10.95 http : / / dx . doi . org / 10 . 1021 / jp506992c$[][] \
 T1/ppl/m/n/10.95 (vis-ited on 12/03/2014). 
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 288.
-[46]
+[44]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 288.
  (main.aux (Chapters/Chapter1.aux) (Chapters/Chapter2.aux)
-(Chapters/Chapter2.5.aux) (Chapters/Chapter2.75.aux) (Chapters/Chapter3.aux)
-(Appendices/AppendixA.aux))
+(Chapters/Chapter2.5.aux) (Chapters/Chapter2.75.aux) (Chapters/Chapter3.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D38F795D7DC1ED4977B9C54ADAA8620E;7901.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 9CCEF7CE3377816ECA515330117DCBCB;6945
-(rerunfilecheck)             After:  B88B2D1C4DB79BE8DDD1E4C8BB94933E;7964.
 
 LaTeX Warning: There were undefined references.
 
@@ -2324,9 +2305,9 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32402 strings out of 493335
- 662718 string characters out of 3136674
- 910146 words of memory out of 3000000
+ 32391 strings out of 493335
+ 662463 string characters out of 3136674
+ 907795 words of memory out of 3000000
  35392 multiletter control sequences out of 15000+200000
  45853 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2346,9 +2327,9 @@ type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
 /palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatin
 o/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a
 .pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (54 pages, 7037875 bytes).
+Output written on main.pdf (52 pages, 7034163 bytes).
 PDF statistics:
- 846 PDF objects out of 1000 (max. 8388607)
- 169 named destinations out of 1000 (max. 500000)
- 435 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 857 PDF objects out of 1000 (max. 8388607)
+ 166 named destinations out of 1000 (max. 500000)
+ 475 words of extra memory for PDF output out of 10000 (max. 10000000)
 

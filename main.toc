@@ -2,6 +2,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \contentsline {chapter}{Declaration of Authorship}{iii}{section*.1}
+\contentsline {chapter}{Abstract}{v}{section*.2}
 \contentsline {chapter}{\numberline {1}Motivation and Background}{1}{chapter.4}
 \contentsline {section}{\numberline {1.1}Quantum information processing and Qubit candidates}{1}{section.5}
 \contentsline {section}{\numberline {1.2}Silicon vacancy as a Qubit candidate}{2}{section.6}
@@ -51,5 +52,4 @@
 \contentsline {subsubsection}{Surface treatments}{40}{section*.77}
 \contentsline {subsubsection}{Better method for size selection}{40}{section*.78}
 \contentsline {subsubsection}{Relation between surface geometry and spectral behaviour}{40}{section*.79}
-\contentsline {chapter}{\numberline {A}Appendix Title Here}{41}{appendix.80}
-\contentsline {chapter}{Bibliography}{43}{appendix*.81}
+\contentsline {chapter}{Bibliography}{41}{chapter*.80}
