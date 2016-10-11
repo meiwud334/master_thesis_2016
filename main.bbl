@@ -854,6 +854,37 @@
     \field{urlyear}{2016}
   \endentry
 
+  \entry{naoki_komatsu_chromatographic_2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NKLZ}{%
+         family={Naoki\bibnamedelima Komatsu},
+         familyi={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+         given={Li\bibnamedelima Zhao},
+         giveni={L\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NKLZ1}
+    \strng{fullhash}{NKLZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Making even tiny diamonds valuable: Nanodiamonds (NDs) were covalently
+  functionalized with hyperbranched polyglycerol (PG) by ring-opening
+  polymerization to improve their suitability for biomedical applications (see
+  scheme). The PG-grafted NDs were highly soluble not only in pure water
+  ({\textgreater}20 mg mL−1), but also in a buffer
+  ({\textgreater}16 mg mL−1), and were separated according to size by
+  size-exclusion chromatography%
+    }
+    \field{title}{Chromatographic {Separation} of {Highly} {Soluble} {Diamond}
+  {Nanoparticles} {Prepared} by {Polyglycerol} {Grafting}}
+    \field{month}{01}
+    \field{year}{2011}
+  \endentry
+
   \entry{neu_low_2013}{article}{}
     \name{author}{9}{}{%
       {{hash=NE}{%

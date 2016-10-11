@@ -43,8 +43,8 @@
 \contentsline {paragraph}{}{28}{section*.69}
 \contentsline {section}{\numberline {4.7}Hydrogen termination and Spectral stability}{28}{section.72}
 \contentsline {chapter}{\numberline {5}Conclusion and outlook}{41}{chapter.75}
-\contentsline {section}{\numberline {5.1}The road so far}{41}{section.76}
-\contentsline {section}{\numberline {5.2} Probabilities in the near future}{41}{section.77}
+\contentsline {section}{\numberline {5.1}Conclusion}{41}{section.76}
+\contentsline {section}{\numberline {5.2} Outlook}{41}{section.77}
 \contentsline {paragraph}{PL and PLE}{41}{section*.78}
 \contentsline {paragraph}{life time measurement}{42}{section*.79}
 \contentsline {paragraph}{Surface treatments}{42}{section*.80}
