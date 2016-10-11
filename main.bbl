@@ -787,6 +787,160 @@
     \field{urlyear}{2016}
   \endentry
 
+  \entry{maier_electron_2001}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Maier},
+         familyi={M\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Ristein},
+         familyi={R\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Ley},
+         familyi={L\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFRJLL1}
+    \strng{fullhash}{MFRJLL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    The electron affinity (EA) χ of single crystal diamond (100) is determined
+  as a function of hydrogen and oxygen coverage by a combination of work
+  function and photoemission experiments. For the fully hydrogenated
+  (100)-(2×1):H surface an EA of −1.3 eV and for the oxidized surface
+  C(100)-(1×1):O χ=+1.7 eV are obtained. These are the lowest and the highest
+  electron affinities, respectively, ever reported for any diamond surface. The
+  variation in χ with O and H coverage is well described by a simple dipole
+  model provided that the depolarization is properly taken into account for
+  high adsorbate densities. This analysis favors the bridge position
+  (etherlike) for oxygen on C(100). By mixing H and O adsorbates on a
+  microscopic scale the EA of C(100) can be adjusted at will over 3 eV between
+  the extreme values without jeopardizing the chemical passivation of the
+  diamond surface afforded by H or O termination.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevB.64.165411
+    \endverb
+    \field{number}{16}
+    \field{pages}{165411}
+    \field{title}{Electron affinity of plasma-hydrogenated and chemically
+  oxidized diamond (100) surfaces}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevB.64.165411
+    \endverb
+    \field{volume}{64}
+    \verb{file}
+    \verb APS Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\P
+    \verb rofiles\\rmc4qiwo.default\\zotero\\storage\\FISFQ48D\\PhysRevB.64.htm
+    \verb l:text/html
+    \endverb
+    \field{journaltitle}{Physical Review B}
+    \field{month}{10}
+    \field{year}{2001}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{neu_low_2013}{article}{}
+    \name{author}{9}{}{%
+      {{hash=NE}{%
+         family={Neu},
+         familyi={N\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Guldner},
+         familyi={G\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Arend},
+         familyi={A\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Ghodbane},
+         familyi={G\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sternschulte},
+         familyi={S\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SND}{%
+         family={Steinmüller-Nethl},
+         familyi={S\bibinitperiod-N\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Krueger},
+         familyi={K\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Becher},
+         familyi={B\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{NE+1}
+    \strng{fullhash}{NEGFACLYGSSHSNDKABC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \verb{doi}
+    \verb 10.1063/1.4807398
+    \endverb
+    \field{issn}{00218979}
+    \field{number}{20}
+    \field{pages}{203507}
+    \field{title}{Low temperature investigations and surface treatments of
+  colloidal narrowband fluorescent nanodiamonds}
+    \verb{url}
+    \verb http://scitation.aip.org/content/aip/journal/jap/113/20/10.1063/1.480
+    \verb 7398
+    \endverb
+    \field{volume}{113}
+    \field{journaltitle}{Journal of Applied Physics}
+    \field{year}{2013}
+    \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
   \entry{orbach_spin-lattice_1961}{article}{}
     \name{author}{1}{}{%
       {{hash=OR}{%
@@ -982,6 +1136,124 @@
     \field{urlday}{10}
     \field{urlmonth}{10}
     \field{urlyear}{2016}
+  \endentry
+
+  \entry{rogers_multiple_2013}{article}{}
+    \name{author}{11}{}{%
+      {{hash=RLJ}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={Lachlan\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JKD}{%
+         family={Jahnke},
+         familyi={J\bibinitperiod},
+         given={Kay\bibnamedelima D.},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Teraji},
+         familyi={T\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marseglia},
+         familyi={M\bibinitperiod},
+         given={Luca},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Müller},
+         familyi={M\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=NB}{%
+         family={Naydenov},
+         familyi={N\bibinitperiod},
+         given={Boris},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Schauffert},
+         familyi={S\bibinitperiod},
+         given={Hardy},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Kranz},
+         familyi={K\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=IJ}{%
+         family={Isoya},
+         familyi={I\bibinitperiod},
+         given={Junichi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MLP}{%
+         family={McGuinness},
+         familyi={M\bibinitperiod},
+         given={Liam\bibnamedelima P.},
+         giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jelezko},
+         familyi={J\bibinitperiod},
+         given={Fedor},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{Condensed Matter - Materials Science, Physics - Optics, Quantum
+  Physics}
+    \strng{namehash}{RLJ+1}
+    \strng{fullhash}{RLJJKDTTMLMCNBSHKCIJMLPJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Emitters of indistinguishable single photons are crucial for the growing
+  field of quantum technologies. To realize scalability and increase the
+  complexity of quantum optics technologies, multiple independent yet identical
+  single photon emitters are also required. However typical solid-state single
+  photon sources are inherently dissimilar, necessitating the use of electrical
+  feedback or optical cavities to improve spectral overlap between distinct
+  emitters. Here, we demonstrate bright silicon-vacancy (SiV-) centres in
+  low-strain bulk diamond which intrinsically show spectral overlap of up to
+  91\% and near transform-limited excitation linewidths. Our results have
+  impact upon the application of single photon sources for quantum optics and
+  cryptography, and the production of next generation fluorophores for
+  bio-imaging.%
+    }
+    \field{title}{Multiple intrinsically identical single photon emitters in
+  the solid state}
+    \verb{url}
+    \verb http://arxiv.org/abs/1310.3804
+    \endverb
+    \verb{file}
+    \verb arXiv.org Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zot
+    \verb ero\\Profiles\\rmc4qiwo.default\\zotero\\storage\\V6GRM4F9\\1310.html
+    \verb :text/html;rogers_et_al_2013_multiple_intrinsically_identical_single_
+    \verb photon_emitters_in_the_solid-state.pdf:C\:\\Users\\Ou.Wang\\AppData\\
+    \verb Roaming\\Zotero\\Zotero\\Profiles\\rmc4qiwo.default\\zotero\\storage\
+    \verb \IWRNVR2I\\rogers_et_al_2013_multiple_intrinsically_identical_single_
+    \verb photon_emitters_in_the_solid-state.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{arXiv:1310.3804 [cond-mat, physics:physics,
+  physics:quant-ph]}
+    \field{annotation}{%
+    Comment: 6 pages, 4 figures%
+    }
+    \field{month}{10}
+    \field{year}{2013}
+    \field{urlday}{06}
+    \field{urlmonth}{06}
+    \field{urlyear}{2014}
   \endentry
 
   \entry{rogers_all-optical_2014}{article}{}
@@ -1368,6 +1640,109 @@
     \endverb
     \field{journaltitle}{Physical Review}
     \field{year}{1962}
+  \endentry
+
+  \entry{stacey_depletion_2012}{article}{}
+    \name{author}{10}{}{%
+      {{hash=SA}{%
+         family={Stacey},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KTJ}{%
+         family={Karle},
+         familyi={K\bibinitperiod},
+         given={T.\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MLP}{%
+         family={McGuinness},
+         familyi={M\bibinitperiod},
+         given={L.\bibnamedelima P.},
+         giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=GBC}{%
+         family={Gibson},
+         familyi={G\bibinitperiod},
+         given={B.\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=GK}{%
+         family={Ganesan},
+         familyi={G\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=TS}{%
+         family={Tomljenovic‐Hanic},
+         familyi={T\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GAD}{%
+         family={Greentree},
+         familyi={G\bibinitperiod},
+         given={A.\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hoffman},
+         familyi={H\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BRG}{%
+         family={Beausoleil},
+         familyi={B\bibinitperiod},
+         given={R.\bibnamedelima G.},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Prawer},
+         familyi={P\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA+1}
+    \strng{fullhash}{SAKTJMLPGBCGKTSGADHABRGPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    We show reduction in the emission from nitrogen‐vacancy (NV) centers in
+  single crystaldiamond due to exposure to hydrogen plasmas ranging from 700
+  °C to 1000 °C. Significant fluorescence reduction was observed beneath the
+  exposed surface to 80 μm depth after ∼10 min and did not recover after
+  post‐annealing in vacuum for 7 h at 1100 °C. We attribute the fluorescence
+  reduction to the formation of nitrogen‐vacancy‐hydrogen centers by the
+  plasma‐induced diffusion of hydrogen. These results have important
+  implications for the formation of NV centers for quantum applications, whilst
+  also providing experimental evidence of long range hydrogen diffusion through
+  intrinsic high‐purity diamond.%
+    }
+    \verb{doi}
+    \verb 10.1063/1.3684612
+    \endverb
+    \field{issn}{0003-6951, 1077-3118}
+    \field{number}{7}
+    \field{pages}{071902}
+    \field{title}{Depletion of nitrogen‐vacancy color centers in diamond via
+  hydrogen passivation}
+    \verb{url}
+    \verb http://scitation.aip.org/content/aip/journal/apl/100/7/10.1063/1.3684
+    \verb 612
+    \endverb
+    \field{volume}{100}
+    \field{journaltitle}{Applied Physics Letters}
+    \field{month}{02}
+    \field{year}{2012}
+    \field{urlday}{04}
+    \field{urlmonth}{12}
+    \field{urlyear}{2014}
   \endentry
 
   \entry{t._gaebel_size-reduction_2012}{article}{}
