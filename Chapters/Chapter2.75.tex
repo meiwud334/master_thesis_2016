@@ -9,32 +9,38 @@
 %	SECTION 2
 %-----------------------------------
 \section{Compilation of data}
-To investigate the spectral diffusion behaviour, recorded time-resolved spectra for each of the POI before and after treatment. After the first oxidation, for better characterisation, time-resolved spectra are measured not only with one but multiple excitation polarisation. This leaves large amount of spectra files (almost 32,000 spectra!), besides visualizing the movement of lines into color maps, we need better tools to evaluate the spectral stability, a way to compile dozens, sometimes even hundreds of spectra into one single value that represents the spectral stability of a POI.
+To investigate the spectral diffusion behaviour, time-resolved spectra were recorded for each of the POI before and after treatment as described in Chapter 3. After the first oxidation, for better characterisation, time-resolved spectra were measured not only with one but multiple excitation polarisation. This leaves large amount of data (almost 32,000 spectra!). Besides visualizing the movement of lines into color maps, we need better tools to evaluate the spectral stability, a way to compile dozens, sometimes even hundreds of spectra into one single value that represents the spectral stability of a POI.
 
-Normalized cross-correlation evaluates the similarity between 2 patterns, the closer to 1, the higher the similarity. Here we compare the time-resolved PL spectra from every time tick with the first spectrum, the average value of this series of normalized cross-correlation reflects the general level of spectral stability of the measured point.
+Normalized cross-correlation evaluates the similarity between 2 patterns, the closer to 1, the higher the similarity. Here we compare the time-resolved PL spectra from every time tick with the first spectrum, and the average value of this series of normalized cross-correlation reflects the general level of spectral stability of the measured point.
 
 
 \section{Nanodiamond size and spectral stability}
 
-The observation of nanodiamond with SEM [fig.] fits the expectation, that after the centrifuging size selection, batch1 contains smaller nanodiamonds than batch2.  
-When comparing the time-resolved spectra from sample1508 and sample1510, which were taken at 4K, with an excitation power of 120$\pm$10uW, it can be observed that the spectra from sample1510 shows more spectral diffusion. The calculation of mean normalized cross-correlation confirmed the observation. As plotted in the histogram \ref{fig:histogram-of-normalized-cross-correlation12}, the distribution of mean normalized cross-correlation nanodiamond from batch1 is much closer to 1 than from nanodiamond batch2.
+The observation of nanodiamond with SEM fits the expectation, that after the centrifuging size selection, batch1 contains smaller nanodiamonds than batch2.  
+When comparing the time-resolved spectra from sample1508 and sample1510, which were taken at 4K, with an excitation power of 120$\pm$10uW, it can be observed that the spectra from sample1510 shows more spectral diffusion. The calculation of mean normalized cross-correlation confirmed the observation. As plotted in the histogram \ref{fig:histogram-of-normalized-cross-correlation12}, the distribution of mean normalized cross-correlation for nanodiamonds from batch1 is much closer to 1 than for nanodiamonds from batch2.
 
-As discussed in Chapter 1, in nitrogen doped diamond, to match up the chemical potential inside the diamond and on the surface, a depletion layer was formed beneath the surface, where the valence band and conducting band are bended towards up. The width of the depletion layer differs by the concentration of the donor and is around 80nm in moderately doped diamond (N$_{D}$=10$^{-16}/cm^{3}$) \cite{diederich_electron_1998}
-
-Since the donor level of nitrogen is rather deep (1.7eV) below the minimum of conduction band, it is very hard to thermally ionize the donors at low temperature, but with the excitation of 532nm(2.33eV) green laser, it is possible to excite the electrons from the donor level to the conduction band. 
-
-So in our case, there is higher chance for nanodiamonds from batch1, which are of smaller sizes, to obtain SiV$^{-}$s sitting inside the bended band than those ones of larger diameters, like the ones from batch2. For more information I looked up the position of SiV$^{-}$s in the paper \cite{rogers_multiple_2013}, where SiV$^{-}$s in bulk diamond are reported to have very good long term spectral stability (no spectral position variation in 90min), interestingly, the distance of SiV$^{-}$s from the surface is larger than 2um, which means they sat in the bulk diamond region instead of band bended region. 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_2"}
+	\caption{Histogram comparing the normalized mean value of cross-correlation between untreated sample 1508 (nanodiamond batch2) at 4.7K and sample 1510(nanodiamond batch1) at 4.7K and 20K. The height of the bars are normalized by the integration over bins. The time resolved spectra of sample 1510 was recorded with 2 different excitation polarisation, they are separated with solid and dashed lines.}
+	\label{fig:histogram-of-normalized-cross-correlation12}
+\end{figure}
+ 
 
 
 \section{Excitation power and spectral stability}
 
-Sample 1508 was excited with decreasing excitation power. The left column of \ref{fig:powerdependenceref11} shows the changes of time-resolved spectra of POI ref11, the most obviously diffusing line is the one between 738nm and 739nm, whose spectral position changed almost 1nm in 300s. As the excitation power decreases, the diffusion become less intense.
+Sample 1508 was excited with decreasing excitation power. The left column of figure \ref{fig:powerdependenceref11} shows the changes of time-resolved spectra of POI ref11. The most obviously diffusing line is the one between 738nm and 739nm, whose spectral position changed almost 1nm in 300s. As the excitation power decreases, the diffusion become less intense.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\linewidth]{Figures/pic/powerdependenceref11}
+	\caption{Left column: time resoved PL spectra of point ref11, sample1508 before the first aerobic oxdiation with different excitation power (A:250uW, B:122uW, C:60uW, D:30uW). Right column:time resoved PL spectra of point ref11, sample1508 after the first aerobic oxdiation with different excitation power (A:250uW, B:120uW, C:60uW, D:25uW). The spectra were ploted in the order of real time, the stretched pixel is the blank for refocus.}
+	\label{fig:powerdependenceref11}
+\end{figure}
 
 The result of cross correlation is can be seen in \ref{fig:powerdependencybeforeafteroxidation}, where each dot represents a POI in the sample. As shown in the figure, the general level of spectral diffusion decreases as the excitation power decreases. 
 
-A possible reason for this behaviour is the optical transition between the Nitrogen donor level and the conduction band has been involved in the excitation of SiV$^{-}$. The nitrogen donor level lies 1.7eV below the minimum of diamond conduction band \cite{diederich_electron_1998}, the spontaneous emission between the valence band and the donor level is capable of excite the SiV$^{-}$ from ground state to the first excited state.
-
- 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.7\linewidth]{Figures/pic/powerdependencybeforeafteroxidation}
@@ -43,8 +49,7 @@ A possible reason for this behaviour is the optical transition between the Nitro
 \end{figure}
 
 \section{Temperature and spectral stability}
-Comparing the mean normalized cross-correlation of sample 1510 from 4.7K and 20K in \ref{fig:histogram-of-normalized-cross-correlation12}, no significant difference between the two temperatures has been found,which fits the expectation. Since the assumption is that, the donors are ionized with the help of laser, the band bending should stay the same as long as the excitation power is not changed, so shall the spectral diffusion.
-I consider this result not solid enough as only 3 points were measured for the 4.7K measurement. But it would be interesting to collect more data to justify the prediction.
+Comparing the mean normalized cross-correlation of sample 1510 from 4.7K and 20K in figure \ref{fig:histogram-of-normalized-cross-correlation12}, no significant difference between the two temperatures has been found, which fits the expectation. Since the assumption is that the donors are ionized with the help of laser, the band bending should stay the same as long as the excitation power is not changed, and therefore so should the spectral diffusion. The result maybe not solid enough as only 3 points were measured for the 4.7K measurement. 
 
 \section{Excitation polarisation and spectral stability}
 
@@ -55,9 +60,9 @@ I consider this result not solid enough as only 3 points were measured for the 4
 \label{fig:excitation-polarisation of untreated nanodiamond batch 2}
 \end{figure}
 
-The polarisation of photoluminescence has been measured in \cite{rogers_all-optical_2014}, where the excitation polarisation patterns suggested that the SiV$^{-}$ is aligned along the <111> axis of diamond crystal. A set of dots of none-polarisation dependency(excite from the z axis of the SiV$^{-}$), or symmetric patterns that are rotationally separate from each other by an angle of 60$^{o}$ with population contrast of 60$\%$ are expected to be observed when excite the SiV$^{-}$ along crystal axis <111>. The polarisation pattern generated from other orientations can be considered as shadowing the <111> axis from respective angle.
+The polarisation of photoluminescence has been measured in \cite{rogers_all-optical_2014}, where the excitation polarisation patterns suggested that the SiV$^{-}$ is aligned along the <111> axis of diamond crystal. The transition have either XY or Z polarisations in the SiV coordinate frame, and so all viewing directions other than along <111> are expected to result in a polarisation dependence for the excitation laser.
 
-In the measurement of excitation polarisation on sample 1510, time-resolved PL spectra are taken with different excitation polarisations. We do noticed some POIs behaved differently when excited with different beam polarisation\ref{fig:polarisationref03}. But no clear polarisation pattern has been acquired. Further cross-correlation calculation \ref{fig:excitation-polarisation of untreated nanodiamond batch 2} showed polarisation dependency like pattern in poi ref12, while the other two pois have no clear pattern.
+In the measurement of excitation polarisation on sample 1510, time-resolved PL spectra are taken with different excitation polarisations. We do noticed some POIs behaved differently when excited with different beam polarisation as shown in figure \ref{fig:polarisationref03}. But no clear polarisation pattern has been acquired. Further cross-correlation calculation was shown in figure \ref{fig:excitation-polarisation of untreated nanodiamond batch 2} showed polarisation dependency like pattern in poi ref12, while the other two pois have no clear pattern.
 
 Further excitation polarisation-resolved spectra were taken on the same sample. In some of the spectra, polarisation-related periodic pattern can be seen on some of the lines, while the sum up pattern give no polarisation dependency.
 
@@ -83,59 +88,37 @@ Further excitation polarisation-resolved spectra were taken on the same sample. 
 \end{figure}
 
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=1\linewidth]{Figures/pic/powerdependenceref11}
-\caption{Left column: time resoved PL spectra of point ref11, sample1508 before the first aerobic oxdiation with different excitation power (A:250uW, B:122uW, C:60uW, D:30uW). Right column:time resoved PL spectra of point ref11, sample1508 after the first aerobic oxdiation with different excitation power (A:250uW, B:120uW, C:60uW, D:25uW). The spectra were ploted in the order of real time, the stretched pixel is the blank for refocus.}
-\label{fig:powerdependenceref11}
-\end{figure}
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_2"}
-\caption{Histogram comparing the normalized mean value of cross-correlation between untreated sample 1508 (nanodiamond batch2) at 4.7K and sample 1510(nanodiamond batch1) at 4.7K and 20K. The height of the bars are normalized by the integration over bins. The time resolved spectra of sample 1510 was recorded with 2 different excitation polarisation, they are separated with solid and dashed lines.}
-\label{fig:histogram-of-normalized-cross-correlation12}
-\end{figure}
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_H"}
-\caption{Histogram comparing the normalized mean value of cross-correlation between untreated sample 1510 and hydrogen plasma treated sample 1512 (both spin coated with nanodiamond from the batch1).The height of the bars are normalized by the integration over bins.  }
-\label{fig:histogram-of-normalized-cross-correlation1h}
-\end{figure}
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_H_2"}
-\caption{Histogram comparing the normalized mean value of cross-correlation between untreated sample 1508(nanodiamond batch2) and hydrogen plasma treated sample 1512(nanodiamond batch1).The height of the bars are normalized by the integration over bins.  }
-\label{fig:histogram-of-normalized-cross-correlation1h2}
-\end{figure}
 
-\begin{figure}[h]
-\centering
-\includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_2_o"}
-\caption{Histogram comparing the normalized mean value of cross-correlation between untreated and oxidized sample 1509(nanodiamond batch1) at 4.7K. The height of the bars are normalized by the integration over bins. }
-\label{fig:histogram-of-normalized-cross-correlation2o}
-\end{figure}
+
+
 
 
 \section{Aerobic Oxidation and Spectral stability}
 
-\paragraph{}The initial target for aerobic oxidation is to selectively remove graphitic defects(the first oxidation) and to generate bulk diamond-like surfaces(the second oxidation). The second oxidation, which was operated on sample 1510, didn't turn out as we wishes, offering no useful data on SiV$^{-}$. The first oxidation on sample1508 and 1509 introduced dark spots that are visible in optical microscopy images, and very bright spots containing no SiV$^{-}$ signal in confocal measurements. These are suspected to be exotic, as the furnace has been used for other materials. Yet it was managed to re-find some of the pois from sample1508.
+\paragraph{}The initial target for aerobic oxidation is to selectively remove graphitic defects (the first oxidation) and to generate bulk diamond-like surfaces (the second oxidation). The second oxidation, which was operated on sample 1510, didn't turn out as we expected, offering no useful data on SiV$^{-}$. The first oxidation on sample1508 and 1509 introduced dark spots that are visible in optical microscopy images, and very bright spots containing no SiV$^{-}$ signal in confocal measurements. These are suspected to be exotic, as the furnace has been used for other materials. Yet it was possible to re-find some of the pois from sample1508.
 
-The aerobic oxidation has greatly enhanced the photoluminescence of the sample in general, including SiV$^{-}$ and background. The left column of \ref{fig:prepostoxidationspectra} shows the comparison of spectrometer recorded intensity between before and after oxidation, as can be seen in ref3 and other points, the magnification of the enhancement is not uniform. The broadening of peak is also observed. The number of peaks that are distinguishable has decreased after the oxidation. While the spectra before oxidation consists of multiple thinner peaks, the spectra after oxidation contains broader peaks joining with each other. It is suspected that the spectrometer was not well aligned, which results in the broadening of peak  and the disappearance of fine structure. Despite the broadening, an visible enhancement \ref{fig:prepostoxidationtimeresolvespectra} in the spectral diffusion was also noticed, mean cross-correlation comparison can be found in \ref{fig:histogram-of-normalized-cross-correlation2o}. The power dependency of spectral diffusion (mean cross-correlation) is plotted in \ref{fig:powerdependencybeforeafteroxidation}, with similar trend as before oxidation: the spectral diffusion increases as excitation power increases. The drop of 30uW is due to an extreme point which obtained very noisy background, that is related to the suspected exotic luminescence from the oxidation process. 
+The aerobic oxidation has greatly enhanced the photoluminescence of the sample in general, including SiV$^{-}$ and background. The left column of figure \ref{fig:prepostoxidationspectra} shows the comparison of spectrometer recorded intensity between before and after oxidation, as can be seen in ref3 and other points, the magnification of the enhancement is not uniform. The broadening of peak is also observed. The number of peaks that are distinguishable has decreased after the oxidation. While the spectra before oxidation consists of multiple thinner peaks, the spectra after oxidation contains broader peaks joining with each other. It is suspected that the spectrometer was not well aligned, which results in the broadening of peak  and the disappearance of fine structure. Despite the broadening, an visible enhancement , as shown in figure \ref{fig:prepostoxidationtimeresolvespectra} in the spectral diffusion was also noticed, mean cross-correlation comparison can be found in figure \ref{fig:histogram-of-normalized-cross-correlation2o}. The power dependency of spectral diffusion (mean cross-correlation) is plotted in figure \ref{fig:powerdependencybeforeafteroxidation}, with similar trend as before oxidation: the spectral diffusion increases as excitation power increases. The drop of 30uW is due to an extreme point which obtained very noisy background, that is related to the suspected exotic luminescence from the oxidation process. 
 
 \begin{figure}[h]
-\centering
-\includegraphics[width=1\linewidth]{Figures/pic/prepostoxidationspectra}
-\caption{Comparison between the PL Spectra of 3 of the pois from sample1508. Left column: real value. Right column: normalized spectra. The spectra were recorded with 120uW of excitation power with 532nm green laser and 1s of exposure time. A,D: ref4, B,E: ref3, C,F: ref5.}
-\label{fig:prepostoxidationspectra}
+	\centering
+	\includegraphics[width=1\linewidth]{Figures/pic/prepostoxidationspectra}
+	\caption{Comparison between the PL Spectra of 3 of the pois from sample1508. Left column: real value. Right column: normalized spectra. The spectra were recorded with 120uW of excitation power with 532nm green laser and 1s of exposure time. A,D: ref4, B,E: ref3, C,F: ref5.}
+	\label{fig:prepostoxidationspectra}
 \end{figure}
 
 \begin{figure}[h]
-\centering
-\includegraphics[width=1\linewidth]{Figures/pic/prepostoxidationtimeresolvespectra}
-\caption{The time-resolved spectra of pois from \ref{fig:prepostoxidationspectra}. The spectra were also recorded with 120uW of excitation power with 532nm green laser and 1s of exposure time. Left column: before oxidation, right column: after oxidation. A,D: ref4, B,E: ref3, C,F: ref5.The spectra were ploted in the order of real time, the stretched pixel is the blank for refocus.}
-\label{fig:prepostoxidationtimeresolvespectra}
+	\centering
+	\includegraphics[width=1\linewidth]{Figures/pic/prepostoxidationtimeresolvespectra}
+	\caption{The time-resolved spectra of pois from \ref{fig:prepostoxidationspectra}. The spectra were also recorded with 120uW of excitation power with 532nm green laser and 1s of exposure time. Left column: before oxidation, right column: after oxidation. A,D: ref4, B,E: ref3, C,F: ref5.The spectra were ploted in the order of real time, the stretched pixel is the blank for refocus.}
+	\label{fig:prepostoxidationtimeresolvespectra}
 \end{figure}
 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_2_o"}
+	\caption{Histogram comparing the normalized mean value of cross-correlation between untreated and oxidized sample 1509(nanodiamond batch1) at 4.7K. The height of the bars are normalized by the integration over bins. }
+	\label{fig:histogram-of-normalized-cross-correlation2o}
+\end{figure}
 
 \section{Hydrogen termination and Spectral stability}
 
@@ -143,7 +126,19 @@ Hydrogen terminated diamond surface posses negative electron affinity \citep{mai
 
 The time resolved pattern has been plotted out in \ref{fig:hydrogenterminationtimeresolve}, a visibly improvement in the spectral stability is shown. The comparison of mean cross-correlation of untreated nanodiamonds batch1 and hydrogenated ones can be found in \ref{fig:histogram-of-normalized-cross-correlation1h}, which agrees with the observation. As reference the comparison between nanodiamonds batch2 and hydrogen terminated batch1 was also plotted \ref{fig:histogram-of-normalized-cross-correlation1h2}. The hydrogenated nanodiamonds also responds the changes in excitation polarisation better. Clear polarisation dependency pattern can be seen in \ref{fig:hydrogenterminationpolarisation}. It has been noticed in the polarisation pattern of untreated nanodiamonds, that despite the general pattern reflects no polarisation dependency, some of the lines can still be seen changing periodically with the excitation polarisation. If we look closely at figure B and E in \ref{fig:hydrogenterminationpolarisation}, between 735nm and 737nm, there is a broader and less bright band whose not only intensity but also width changes with excitation polarisation. This pattern has also been seen in the pre-treatment sample.
 
- 
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_H"}
+\caption{Histogram comparing the normalized mean value of cross-correlation between untreated sample 1510 and hydrogen plasma treated sample 1512 (both spin coated with nanodiamond from the batch1).The height of the bars are normalized by the integration over bins.  }
+\label{fig:histogram-of-normalized-cross-correlation1h}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{"Figures/pic/Histogram of normalized cross-correlation_1_H_2"}
+\caption{Histogram comparing the normalized mean value of cross-correlation between untreated sample 1508(nanodiamond batch2) and hydrogen plasma treated sample 1512(nanodiamond batch1).The height of the bars are normalized by the integration over bins.  }
+\label{fig:histogram-of-normalized-cross-correlation1h2}
+\end{figure}
 
 \begin{figure}[h]
 \centering
@@ -160,9 +155,11 @@ A,D: ref20, B,E: ref19, C,F: ref18}
 \label{fig:hydrogenterminationpolarisation}
 \end{figure}
 
+
+
 \section{Discussion}
 
-The size effect of colour centre in nanodiamonds is often related the the surface band bending phenomena. The larger the diamond, the less effect from the band bending have on the whole diamond.
+The size effect of colour centre in nanodiamonds is often related the the surface band bending phenomena. There is higher chance for nanodiamonds from batch1, which are of smaller sizes, to obtain SiV$^{-}$s sitting inside the bended band than those ones of larger diameters, like the ones from batch2. In the paper \citep{rogers_multiple_2013}, SiV$^{-}$s in bulk diamond were reported to have very good long term spectral stability (no spectral position variation in 90min). Interestingly, the distance of SiV$^{-}$s from the surface was larger than 2um, which indicates SiV$^{-}$s sitting in the bulk diamond region instead of band bended region. 
 
 As the samples are nitrogen doped, it is expected to have a upward band-bending, with a fermi level between the conduction band and the donor level. When the surface chemical potential is low enough, it is possible to have the donor level, even valence band maximum of the bulk region crossing the fermi level near the surface, which results in the accumulation of holes. 
 
@@ -181,8 +178,8 @@ While the polarisation of spontaneous emission is not relevant to the excitation
 
 As excitation power increases, more electrons are excited into the conduction band, which leads to further increase of spontaneous emission, which can be related to the power dependency of spectral diffusion in \ref{fig:powerdependencybeforeafteroxidation} and  \ref{fig:powerdependenceref11} that the spectral diffusion reduces as the power decreases.
 
-It is assumed that the surface treatment alters the surface chemical potential and affects the depth of  the hole accumulating region. In \citep{stacey_depletion_2012} it is mentioned that the hydrogenation induced larger upward band bending in diamonds, while in \citep{diederich_electron_1998} the hydrogenated n-doped diamond had smaller upward band bending than the 'clean' one. This is because, the low surface potential in \citep{stacey_depletion_2012} is caused by adsorbent (water layer), while \citep{diederich_electron_1998} discussed adsorbent-free surfaces. Our sample is measure in UHV at cryogenic temperature, there shall be no water layer or other surface adsorbent involves, so we assume a reduced band bending is formed under the surface after hydrogenation, and this fits the measurement result.
+It is assumed that the surface treatment alters the surface chemical potential and affects the depth of  the hole accumulating region. In \citep{stacey_depletion_2012} it is mentioned that the hydrogenation induced larger upward band bending in diamonds, while in \citep{diederich_electron_1998} the hydrogenated n-doped diamond had smaller upward band bending than the 'clean' one. This is because, the low surface potential in \citep{stacey_depletion_2012} is caused by adsorbent (water layer), while \citep{diederich_electron_1998} discussed adsorbent-free surfaces. Our sample is measure in UHV at cryogenic temperature, there shall be no water layer or other surface adsorbent involves, so we assume a reduced band bending is formed under the surface after hydrogenation, and this fits the measurement result. From the result it seems the aerobic oxidation has decreased the surface potential, which increases the band bending. The surface contaminations also affects the surface charge distribution, thus it is hard to tell if the observations are related to the surface contamination or not. More experiments need to be carried out for better understanding of the mechanism behind these phenomena. 
 
-From the result it seems the aerobic oxidation has decreased the surface potential, which increases the 
+
 
 

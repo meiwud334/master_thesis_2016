@@ -36,20 +36,20 @@
 \contentsline {chapter}{\numberline {4}Result and Discussion}{21}{chapter.47}
 \contentsline {section}{\numberline {4.1}Compilation of data}{21}{section.48}
 \contentsline {section}{\numberline {4.2}Nanodiamond size and spectral stability}{21}{section.49}
-\contentsline {section}{\numberline {4.3}Excitation power and spectral stability}{22}{section.50}
-\contentsline {section}{\numberline {4.4}Temperature and spectral stability}{23}{section.52}
-\contentsline {section}{\numberline {4.5}Excitation polarisation and spectral stability}{23}{section.53}
-\contentsline {section}{\numberline {4.6}Aerobic Oxidation and Spectral stability}{24}{section.63}
-\contentsline {paragraph}{}{24}{section*.64}
-\contentsline {section}{\numberline {4.7}Hydrogen termination and Spectral stability}{24}{section.67}
-\contentsline {section}{\numberline {4.8}Discussion}{25}{section.70}
+\contentsline {section}{\numberline {4.3}Excitation power and spectral stability}{21}{section.51}
+\contentsline {section}{\numberline {4.4}Temperature and spectral stability}{22}{section.54}
+\contentsline {section}{\numberline {4.5}Excitation polarisation and spectral stability}{22}{section.55}
+\contentsline {section}{\numberline {4.6}Aerobic Oxidation and Spectral stability}{23}{section.60}
+\contentsline {paragraph}{}{23}{section*.61}
+\contentsline {section}{\numberline {4.7}Hydrogen termination and Spectral stability}{23}{section.65}
+\contentsline {section}{\numberline {4.8}Discussion}{24}{section.70}
 \contentsline {chapter}{\numberline {5}Conclusion and outlook}{39}{chapter.72}
 \contentsline {section}{\numberline {5.1}Conclusion}{39}{section.73}
 \contentsline {section}{\numberline {5.2} Outlook}{39}{section.74}
-\contentsline {paragraph}{PL and PLE}{39}{section*.75}
-\contentsline {paragraph}{life time measurement}{40}{section*.76}
-\contentsline {paragraph}{Surface treatments}{40}{section*.77}
-\contentsline {paragraph}{better method for size selection}{40}{section*.78}
-\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{40}{section*.79}
+\contentsline {subsubsection}{PL and PLE}{39}{section*.75}
+\contentsline {subsubsection}{Life time measurement}{40}{section*.76}
+\contentsline {subsubsection}{Surface treatments}{40}{section*.77}
+\contentsline {subsubsection}{Better method for size selection}{40}{section*.78}
+\contentsline {subsubsection}{Relation between surface geometry and spectral behaviour}{40}{section*.79}
 \contentsline {chapter}{\numberline {A}Appendix Title Here}{41}{appendix.80}
 \contentsline {chapter}{Bibliography}{43}{appendix*.81}
