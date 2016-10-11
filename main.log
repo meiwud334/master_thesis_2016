@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  11 OCT 2016 20:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.20)  11 OCT 2016 20:56
 entering extended mode
 **./main.tex
 (main.tex
@@ -1757,16 +1757,14 @@ Overfull \hbox (5.16829pt too wide) in paragraph at lines 53--54
 nance ex-ci-ta-tion. As shown
  []
 
-[2]
-<Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg, id=279, 5364.04pt x 3019.28pt>
-File: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg Graphic file (type jpg)
+[2] <Figures/pic/SiV.png, id=279, 845.40843pt x 597.73312pt>
+File: Figures/pic/SiV.png Graphic file (type png)
 
-<use Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg used on in
-put line 63.
-(pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
+<use Figures/pic/SiV.png>
+Package pdftex.def Info: Figures/pic/SiV.png used on input line 63.
+(pdftex.def)             Requested size: 361.34995pt x 255.47884pt.
 
-<Figures/pic/coherent.png, id=280, 845.40843pt x 597.73312pt>
+<Figures/pic/coherent.png, id=285, 845.40843pt x 597.73312pt>
 File: Figures/pic/coherent.png Graphic file (type png)
 
 <use Figures/pic/coherent.png>
@@ -1780,20 +1778,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg, id=282, 5364.04pt x 3019.28pt>
-File: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg Graphic file (type jpg)
+<Figures/pic/PLEUwe.png, id=288, 845.40843pt x 597.73312pt>
+File: Figures/pic/PLEUwe.png Graphic file (type png)
 
-<use Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg>
-Package pdftex.def Info: Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg used on in
-put line 80.
-(pdftex.def)             Requested size: 361.34995pt x 203.35493pt.
+<use Figures/pic/PLEUwe.png>
+Package pdftex.def Info: Figures/pic/PLEUwe.png used on input line 80.
+(pdftex.def)             Requested size: 361.34995pt x 255.47884pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <./Figures/pic/WP_20160921_20_40_25_Pro_LI.jpg>] [4 <./Figures/pic/coherent.
-png>]
-<Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg, id=305, 5364.04pt x 3019.28pt>
+[3 <./Figures/pic/SiV.png>] [4 <./Figures/pic/coherent.png>] [5 <./Figures/pic/
+PLEUwe.png>]
+<Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg, id=323, 5364.04pt x 3019.28pt>
 File: Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg Graphic file (type jpg)
 
 <use Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>
@@ -1806,15 +1803,10 @@ Overfull \hbox (10.97856pt too wide) in paragraph at lines 104--106
 ally proved. ([]Jantzen
  []
 
-) [5 <./Figures/pic/WP_20160921_20_40_48_Pro_LI.jpg> <./Figures/pic/WP_20160921
-_20_40_42_Pro_LI.jpg>]
+) [6 <./Figures/pic/WP_20160921_20_40_42_Pro_LI.jpg>]
 \openout2 = `Chapters/Chapter2.aux'.
 
- (Chapters/Chapter2.tex [6
-
-
-
-]
+ (Chapters/Chapter2.tex
 Chapter 2.
 
 LaTeX Warning: No positions in optional float specifier.
@@ -1823,7 +1815,11 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 32.
 1: section
-[7]
+[7
+
+
+
+]
 Overfull \hbox (12.81715pt too wide) in paragraph at lines 46--47
 \T1/ppl/m/n/10.95 di-at-ing dipoles near an in-ter-face be-tween two di-electri
 cs with Finite-difference
@@ -1837,7 +1833,7 @@ Overfull \hbox (8.96268pt too wide) in paragraph at lines 47--48
 10.95 ) and a ra-man shift at 1332$\OML/cmm/m/it/10.95 cm[]$
  []
 
-<Figures/pic/fib.png, id=330, 845.40843pt x 597.73312pt>
+<Figures/pic/fib.png, id=342, 845.40843pt x 597.73312pt>
 File: Figures/pic/fib.png Graphic file (type png)
 
 <use Figures/pic/fib.png>
@@ -1847,7 +1843,7 @@ Package pdftex.def Info: Figures/pic/fib.png used on input line 54.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] <Figures/pic/AcidCleaning.png, id=344, 845.40843pt x 597.73312pt>
+[8] <Figures/pic/AcidCleaning.png, id=356, 845.40843pt x 597.73312pt>
 File: Figures/pic/AcidCleaning.png Graphic file (type png)
 
 <use Figures/pic/AcidCleaning.png>
@@ -1868,7 +1864,7 @@ Overfull \hbox (17.19772pt too wide) in paragraph at lines 116--117
 fo-cal mi-cro-scope(with
  []
 
-<Figures/pic/initialsetup.png, id=356, 597.73312pt x 845.40843pt>
+<Figures/pic/initialsetup.png, id=368, 597.73312pt x 845.40843pt>
 File: Figures/pic/initialsetup.png Graphic file (type png)
 
 <use Figures/pic/initialsetup.png>
@@ -1878,7 +1874,7 @@ Package pdftex.def Info: Figures/pic/initialsetup.png used on input line 120.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/microscope.png, id=360, 845.40843pt x 597.73312pt>
+<Figures/pic/microscope.png, id=372, 845.40843pt x 597.73312pt>
 File: Figures/pic/microscope.png Graphic file (type png)
 
 <use Figures/pic/microscope.png>
@@ -1894,7 +1890,7 @@ png>]
 
  (Chapters/Chapter2.5.tex
 Chapter 3.
-<Figures/pic/RTPL.png, id=394, 845.40843pt x 597.73312pt>
+<Figures/pic/RTPL.png, id=406, 845.40843pt x 597.73312pt>
 File: Figures/pic/RTPL.png Graphic file (type png)
 
 <use Figures/pic/RTPL.png>
@@ -1919,7 +1915,7 @@ ifug-ing has worked.
  []
 
 [16 <./Figures/pic/RTPL.png>]
-<Figures/pic/PLE.png, id=411, 597.73312pt x 845.40843pt>
+<Figures/pic/PLE.png, id=423, 597.73312pt x 845.40843pt>
 File: Figures/pic/PLE.png Graphic file (type png)
 
 <use Figures/pic/PLE.png>
@@ -1939,7 +1935,7 @@ ro-duced time-resolved
  []
 
 [17 <./Figures/pic/PLE.png>]
-<Figures/pic/oxidation.png, id=419, 845.40843pt x 597.73312pt>
+<Figures/pic/oxidation.png, id=431, 845.40843pt x 597.73312pt>
 File: Figures/pic/oxidation.png Graphic file (type png)
 
 <use Figures/pic/oxidation.png>
@@ -1955,7 +1951,7 @@ ight back-ground.
 LaTeX Warning: Command \textunderscore invalid in math mode on input line 59.
 
 [18 <./Figures/pic/oxidation.png>]
-<Figures/pic/afteroxidation2.png, id=426, 845.40843pt x 597.73312pt>
+<Figures/pic/afteroxidation2.png, id=438, 845.40843pt x 597.73312pt>
 File: Figures/pic/afteroxidation2.png Graphic file (type png)
 
 <use Figures/pic/afteroxidation2.png>
@@ -1966,7 +1962,7 @@ Package pdftex.def Info: Figures/pic/afteroxidation2.png used on input line 74.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19] <Figures/pic/Htermination.png, id=431, 845.40843pt x 597.73312pt>
+[19] <Figures/pic/Htermination.png, id=443, 845.40843pt x 597.73312pt>
 File: Figures/pic/Htermination.png Graphic file (type png)
 
 <use Figures/pic/Htermination.png>
@@ -1977,7 +1973,7 @@ Package pdftex.def Info: Figures/pic/Htermination.png used on input line 93.
 LaTeX Warning: Command \textunderscore invalid in math mode on input line 99.
 
 [20 <./Figures/pic/afteroxidation2.png> <./Figures/pic/Htermination.png>]
-<Figures/pic/hmap.png, id=445, 845.40843pt x 597.73312pt>
+<Figures/pic/hmap.png, id=457, 845.40843pt x 597.73312pt>
 File: Figures/pic/hmap.png Graphic file (type png)
 
 <use Figures/pic/hmap.png>
@@ -2007,7 +2003,7 @@ n power of 120$\OMS/cmsy/m/n/10.95 $\T1/ppl/m/n/10.95 10uW,
 
 1: section
 [23]
-<Figures/pic/powerdependencybeforeafteroxidation.png, id=468, 867.24pt x 867.24
+<Figures/pic/powerdependencybeforeafteroxidation.png, id=480, 867.24pt x 867.24
 pt>
 File: Figures/pic/powerdependencybeforeafteroxidation.png Graphic file (type pn
 g)
@@ -2016,7 +2012,7 @@ Package pdftex.def Info: Figures/pic/powerdependencybeforeafteroxidation.png us
 ed on input line 40.
 (pdftex.def)             Requested size: 252.94385pt x 252.93556pt.
  [24 <./Figures/pic/powerdependencybeforeafteroxidation.png>]
-<"Figures/pic/excitation polarisation".png, id=478, 867.24pt x 867.24pt>
+<"Figures/pic/excitation polarisation".png, id=490, 867.24pt x 867.24pt>
 File: "Figures/pic/excitation polarisation".png Graphic file (type png)
 
 <use "Figures/pic/excitation polarisation".png>
@@ -2024,7 +2020,7 @@ Package pdftex.def Info: "Figures/pic/excitation polarisation".png used on inpu
 t line 53.
 (pdftex.def)             Requested size: 252.94385pt x 252.93556pt.
  [25 <./Figures/pic/excitation polarisation.png>]
-<Figures/pic/polarisationexcitation.png, id=488, 597.73312pt x 845.40843pt>
+<Figures/pic/polarisationexcitation.png, id=500, 597.73312pt x 845.40843pt>
 File: Figures/pic/polarisationexcitation.png Graphic file (type png)
 
 <use Figures/pic/polarisationexcitation.png>
@@ -2035,7 +2031,7 @@ ine 67.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/polarisationref03.png, id=489, 597.73312pt x 845.40843pt>
+<Figures/pic/polarisationref03.png, id=501, 597.73312pt x 845.40843pt>
 File: Figures/pic/polarisationref03.png Graphic file (type png)
 
 <use Figures/pic/polarisationref03.png>
@@ -2046,7 +2042,7 @@ Package pdftex.def Info: Figures/pic/polarisationref03.png used on input line 7
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/polarisationref03_2.png, id=492, 597.73312pt x 845.40843pt>
+<Figures/pic/polarisationref03_2.png, id=504, 597.73312pt x 845.40843pt>
 File: Figures/pic/polarisationref03_2.png Graphic file (type png)
 
 <use Figures/pic/polarisationref03_2.png>
@@ -2057,7 +2053,7 @@ Package pdftex.def Info: Figures/pic/polarisationref03_2.png used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/powerdependenceref11.png, id=495, 597.73312pt x 845.40843pt>
+<Figures/pic/powerdependenceref11.png, id=507, 597.73312pt x 845.40843pt>
 File: Figures/pic/powerdependenceref11.png Graphic file (type png)
 
 <use Figures/pic/powerdependenceref11.png>
@@ -2069,7 +2065,7 @@ e 88.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_1_2".png, id=496, 867.2
+<"Figures/pic/Histogram of normalized cross-correlation_1_2".png, id=508, 867.2
 4pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_1_2".png Graphic f
 ile (type png)
@@ -2083,7 +2079,7 @@ _1_2".png used on input line 94.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_1_H".png, id=497, 867.2
+<"Figures/pic/Histogram of normalized cross-correlation_1_H".png, id=509, 867.2
 4pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_1_H".png Graphic f
 ile (type png)
@@ -2097,7 +2093,7 @@ _1_H".png used on input line 100.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_1_H_2".png, id=498, 867
+<"Figures/pic/Histogram of normalized cross-correlation_1_H_2".png, id=510, 867
 .24pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_1_H_2".png Graphic
  file (type png)
@@ -2115,7 +2111,7 @@ Underfull \hbox (badness 6708) in paragraph at lines 107--107
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<"Figures/pic/Histogram of normalized cross-correlation_2_o".png, id=499, 867.2
+<"Figures/pic/Histogram of normalized cross-correlation_2_o".png, id=511, 867.2
 4pt x 867.24pt>
 File: "Figures/pic/Histogram of normalized cross-correlation_2_o".png Graphic f
 ile (type png)
@@ -2128,7 +2124,7 @@ _2_o".png used on input line 113.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/prepostoxidationspectra.png, id=504, 597.73312pt x 845.40843pt>
+<Figures/pic/prepostoxidationspectra.png, id=516, 597.73312pt x 845.40843pt>
 File: Figures/pic/prepostoxidationspectra.png Graphic file (type png)
 
 <use Figures/pic/prepostoxidationspectra.png>
@@ -2140,7 +2136,7 @@ line 127.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<Figures/pic/prepostoxidationtimeresolvespectra.png, id=505, 597.73312pt x 845.
+<Figures/pic/prepostoxidationtimeresolvespectra.png, id=517, 597.73312pt x 845.
 40843pt>
 File: Figures/pic/prepostoxidationtimeresolvespectra.png Graphic file (type png
 )
@@ -2156,7 +2152,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: Reference `Chaper2.5' on page 26 undefined on input line 142.
 
 [26]
-<Figures/pic/hydrogenterminationtimeresolve.png, id=531, 597.73312pt x 845.4084
+<Figures/pic/hydrogenterminationtimeresolve.png, id=542, 597.73312pt x 845.4084
 3pt>
 File: Figures/pic/hydrogenterminationtimeresolve.png Graphic file (type png)
  <use Figures/pic/hydrogenterminationtimeresolve.png>
@@ -2168,7 +2164,7 @@ Package pdftex.def Info: Figures/pic/hydrogenterminationtimeresolve.png used on
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<Figures/pic/hydrogenterminationpolarisation.png, id=532, 597.73312pt x 845.408
+<Figures/pic/hydrogenterminationpolarisation.png, id=543, 597.73312pt x 845.408
 43pt>
 File: Figures/pic/hydrogenterminationpolarisation.png Graphic file (type png)
  <use Figures/pic/hydrogenterminationpolarisation.png>
@@ -2179,7 +2175,7 @@ n input line 158.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/pic/nbandbend.png, id=534, 845.40843pt x 597.73312pt>
+<Figures/pic/nbandbend.png, id=545, 845.40843pt x 597.73312pt>
 File: Figures/pic/nbandbend.png Graphic file (type png)
 
 <use Figures/pic/nbandbend.png>
@@ -2324,8 +2320,8 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  32416 strings out of 493335
- 663350 string characters out of 3136674
- 906693 words of memory out of 3000000
+ 663110 string characters out of 3136674
+ 907310 words of memory out of 3000000
  35396 multiletter control sequences out of 15000+200000
  45853 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2345,9 +2341,9 @@ type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
 /palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatin
 o/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a
 .pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (56 pages, 22963774 bytes).
+Output written on main.pdf (56 pages, 12938685 bytes).
 PDF statistics:
- 844 PDF objects out of 1000 (max. 8388607)
+ 855 PDF objects out of 1000 (max. 8388607)
  173 named destinations out of 1000 (max. 500000)
  450 words of extra memory for PDF output out of 10000 (max. 10000000)
 
