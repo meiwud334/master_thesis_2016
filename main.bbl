@@ -17,6 +17,83 @@
 \endgroup
 
 \sortlist[entry]{nyt/global/}
+  \entry{albrecht_coupling_2013}{article}{}
+    \name{author}{4}{}{%
+      {{hash=AA}{%
+         family={Albrecht},
+         familyi={A\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Retzker},
+         familyi={R\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jelezko},
+         familyi={J\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=PMB}{%
+         family={Plenio},
+         familyi={P\bibinitperiod},
+         given={M.\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{AA+1}
+    \strng{fullhash}{AARAJFPMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Realizing controlled quantum dynamics via the magnetic interactions between
+  colour centres in diamond remains a challenge despite recent demonstrations
+  for nanometre separated pairs. Here we propose to use the intrinsic
+  acoustical phonons in diamond as a data bus for accomplishing this task. We
+  show that for nanodiamonds the electronâ€“phonon coupling can take
+  significant values that together with mode frequencies in the THz range can
+  serve as a resource for conditional gate operations. Based on these results,
+  we analyse how to use this phonon-induced interaction for constructing
+  quantum gates among the electron-spin triplet ground states, introducing the
+  phonon dependence via Raman transitions. Combined with decoupling pulses this
+  offers the possibility for creating entangled states within nanodiamonds on
+  the scale of several tens of nanometres, a promising prerequisite for quantum
+  sensing applications.%
+    }
+    \verb{doi}
+    \verb 10.1088/1367-2630/15/8/083014
+    \endverb
+    \field{issn}{1367-2630}
+    \field{number}{8}
+    \field{pages}{083014}
+    \field{title}{Coupling of nitrogen vacancy centres in nanodiamonds by means
+  of phonons}
+    \verb{url}
+    \verb http://stacks.iop.org/1367-2630/15/i=8/a=083014
+    \endverb
+    \field{volume}{15}
+    \verb{file}
+    \verb IOP Full Text PDF:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zote
+    \verb ro\\Profiles\\rmc4qiwo.default\\zotero\\storage\\MU4G34ED\\Albrecht ç
+    \verb ­‰. - 2013 - Coupling of nitrogen vacancy centres in nanodiamon.pdf:a
+    \verb pplication/pdf
+    \endverb
+    \field{journaltitle}{New Journal of Physics}
+    \field{year}{2013}
+    \field{urlday}{11}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
   \entry{bassett_ultrafast_2014}{article}{}
     \name{author}{7}{}{%
       {{hash=BLC}{%
@@ -736,6 +813,321 @@
     \field{month}{09}
     \field{year}{1996}
     \field{urlday}{10}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{iakoubovskii_luminescence_2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=IK}{%
+         family={Iakoubovskii},
+         familyi={I\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=AGJ}{%
+         family={Adriaenssens},
+         familyi={A\bibinitperiod},
+         given={G.\bibnamedelima J.},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IKAGJ1}
+    \strng{fullhash}{IKAGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{abstract}{%
+    Photoluminescence excitation (PLE) spectra, measured at varying
+  temperatures and for different luminescent energies, are applied
+  systematically to the study of defects in Ia, Ib, IIb, and
+  chemical-vapor-deposited (CVD) diamond. It is shown that the green
+  luminescent band in CVD diamond films consists of two distinct components.
+  The first one is attributed to recombination in the amorphous carbon phase.
+  The second component increases with surface hydrogenation in CVD films, but
+  an analogous band remains almost unchanged in Ib diamond. This band is
+  ascribed to the donor-acceptor pair recombination. The photoionization
+  threshold for transitions from the valence band to the donor level is
+  determined as 3.25 eV. Based on PLE measurements the broad blue band is
+  assigned to the vibronic band of a dislocation-related center with the ground
+  state position in the range from EV to EV+0.37 eV. A series of undocumented
+  photoluminescence (PL) lines at 1.81, 1.84, 1.91, 2.02, 2.1, and 2.2 eV is
+  characterized by PL and PLE techniques as belonging to radiative transitions
+  from different excited states to the same ground state of a divacancy-related
+  center. Oscillatory behavior in the PLE spectra from CVD diamond is used to
+  deduce ECâˆ’2.24 eV and ECâˆ’2.05 eV as the optical ionization thresholds to
+  the conduction band for the divacancy-related and the 1.68 eV centers,
+  respectively.%
+    }
+    \verb{doi}
+    \verb 10.1103/PhysRevB.61.10174
+    \endverb
+    \field{number}{15}
+    \field{pages}{10174\bibrangedash 10182}
+    \field{title}{Luminescence excitation spectra in diamond}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevB.61.10174
+    \endverb
+    \field{volume}{61}
+    \verb{file}
+    \verb APS Snapshot:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zotero\\P
+    \verb rofiles\\rmc4qiwo.default\\zotero\\storage\\DRTE837N\\PhysRevB.61.htm
+    \verb l:text/html
+    \endverb
+    \field{journaltitle}{Physical Review B}
+    \field{month}{04}
+    \field{year}{2000}
+    \field{urlday}{11}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{inam_modification_2011}{article}{}
+    \name{author}{8}{}{%
+      {{hash=IFA}{%
+         family={Inam},
+         familyi={I\bibinitperiod},
+         given={F.\bibnamedelima A.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Gaebel},
+         familyi={G\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Bradac},
+         familyi={B\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Stewart},
+         familyi={S\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WMJ}{%
+         family={Withford},
+         familyi={W\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DJM}{%
+         family={Dawes},
+         familyi={D\bibinitperiod},
+         given={J.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RJR}{%
+         family={Rabeau},
+         familyi={R\bibinitperiod},
+         given={J.\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SMJ}{%
+         family={Steel},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{IFA+1}
+    \strng{fullhash}{IFAGTBCSLWMJDJMRJRSMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{abstract}{%
+    Colour centres in diamond are promising candidates as a platform for
+  quantum technologies and biomedical imaging based on spins and/or photons.
+  Controlling the emission properties of colour centres in diamond is a key
+  requirement for the development of efficient single-photon sources having
+  high collection efficiency. A number of groups have achieved an enhancement
+  in the emission rate over narrow wavelength ranges by coupling single
+  emitters in nanodiamond crystals to resonant electromagnetic structures. In
+  this paper, we characterize in detail the spontaneous emission rates of
+  nitrogen-vacancy centres at various locations on a structured substrate. We
+  found a factor of 1.5 average enhancement of the total emission rate when
+  nanodiamonds are on an opal photonic crystal surface, and observed changes in
+  the lifetime distribution. We present a model for explaining these
+  observations and associate the lifetime properties with dipole orientation
+  and polarization effects.%
+    }
+    \verb{doi}
+    \verb 10.1088/1367-2630/13/7/073012
+    \endverb
+    \field{issn}{1367-2630}
+    \field{number}{7}
+    \field{pages}{073012}
+    \field{title}{Modification of spontaneous emission from nanodiamond colour
+  centres on a structured surface}
+    \verb{url}
+    \verb http://stacks.iop.org/1367-2630/13/i=7/a=073012
+    \endverb
+    \field{volume}{13}
+    \verb{file}
+    \verb IOP Full Text PDF:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zote
+    \verb ro\\Profiles\\rmc4qiwo.default\\zotero\\storage\\ZTM2QAP8\\Inam ç­‰.
+    \verb - 2011 - Modification of spontaneous emission from nanodiam.pdf:appli
+    \verb cation/pdf
+    \endverb
+    \field{journaltitle}{New Journal of Physics}
+    \field{year}{2011}
+    \field{urlday}{11}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
+  \endentry
+
+  \entry{jantzen_low_2015}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=JU}{%
+         family={Jantzen},
+         familyi={J\bibinitperiod},
+         given={Uwe},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JU1}
+    \strng{fullhash}{JU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{Low temperature spectroscopy of single colour centers in
+  nanodiamonds}
+    \list{institution}{1}{%
+      {Ulm University}%
+    }
+    \field{type}{Diplom {Thesis}}
+    \field{month}{05}
+    \field{year}{2015}
+  \endentry
+
+  \entry{jantzen_nanodiamonds_2016}{article}{}
+    \name{author}{11}{}{%
+      {{hash=JU}{%
+         family={Jantzen},
+         familyi={J\bibinitperiod},
+         given={Uwe},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=KAB}{%
+         family={Kurz},
+         familyi={K\bibinitperiod},
+         given={Andrea\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RDS}{%
+         family={Rudnicki},
+         familyi={R\bibinitperiod},
+         given={Daniel\bibnamedelima S.},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={SchÃ¤fermeier},
+         familyi={S\bibinitperiod},
+         given={Clemens},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JKD}{%
+         family={Jahnke},
+         familyi={J\bibinitperiod},
+         given={Kay\bibnamedelima D.},
+         giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=AUL}{%
+         family={Andersen},
+         familyi={A\bibinitperiod},
+         given={Ulrik\bibnamedelima L.},
+         giveni={U\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=DVA}{%
+         family={Davydov},
+         familyi={D\bibinitperiod},
+         given={Valery\bibnamedelima A.},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=AVN}{%
+         family={Agafonov},
+         familyi={A\bibinitperiod},
+         given={Viatcheslav\bibnamedelima N.},
+         giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kubanek},
+         familyi={K\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RLJ}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={Lachlan\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=JF}{%
+         family={Jelezko},
+         familyi={J\bibinitperiod},
+         given={Fedor},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{JU+1}
+    \strng{fullhash}{JUKABRDSSCJKDAULDVAAVNKARLJJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    Colour centres in nanodiamonds are an important resource for applications
+  in quantum sensing, biological imaging, and quantum optics. Here we report
+  unprecedented narrow optical transitions for individual colour centres in
+  nanodiamonds smaller than 200 nm. This demonstration has been achieved using
+  the negatively charged silicon vacancy centre, which has recently received
+  considerable attention due to its superb optical properties in bulk diamond.
+  We have measured an ensemble of silicon-vacancy centres across numerous
+  nanodiamonds to have an inhomogeneous distribution of 1.05 nm at 5 K.
+  Individual spectral lines as narrower than 360 MHz were measured in
+  photoluminescence excitation, and correcting for apparent spectral diffusion
+  yielded an homogeneous linewidth of about 200 MHz which is close to the
+  lifetime limit. These results indicate the high crystalline quality achieved
+  in these nanodiamond samples, and advance the applicability of
+  nanodiamond-hosted colour centres for quantum optics applications.%
+    }
+    \verb{doi}
+    \verb 10.1088/1367-2630/18/7/073036
+    \endverb
+    \field{issn}{1367-2630}
+    \field{number}{7}
+    \field{pages}{073036}
+    \field{title}{Nanodiamonds carrying silicon-vacancy quantum emitters with
+  almost lifetime-limited linewidths}
+    \verb{url}
+    \verb http://stacks.iop.org/1367-2630/18/i=7/a=073036
+    \endverb
+    \field{volume}{18}
+    \verb{file}
+    \verb IOP Full Text PDF:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zote
+    \verb ro\\Profiles\\rmc4qiwo.default\\zotero\\storage\\CW2REBXI\\Jantzen ç­
+    \verb ‰. - 2016 - Nanodiamonds carrying silicon-vacancy quantum emit.pdf:ap
+    \verb plication/pdf
+    \endverb
+    \field{journaltitle}{New Journal of Physics}
+    \field{year}{2016}
+    \field{urlday}{11}
     \field{urlmonth}{10}
     \field{urlyear}{2016}
   \endentry
@@ -1818,6 +2210,77 @@
     \field{journaltitle}{Diamond and Related Materials}
     \field{month}{01}
     \field{year}{2012}
+  \endentry
+
+  \entry{wang_single_2006}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WC}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Chunlang},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Kurtsiefer},
+         familyi={K\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Weinfurter},
+         familyi={W\bibinitperiod},
+         given={Harald},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BB}{%
+         family={Burchard},
+         familyi={B\bibinitperiod},
+         given={Bernd},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{WC+1}
+    \strng{fullhash}{WCKCWHBB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    We report the observation of single photon emission from single SiV
+  (silicon-vacancy) centres in diamond produced by ion implantation. The high
+  photostability and the narrow emission bandwidth of about 5 nm at room
+  temperature make SiV centres interesting as a single photon source in
+  practical quantum cryptography. We discuss problems that arise from the
+  nonradiaditve transitions which lower the brightness of the source.%
+    }
+    \verb{doi}
+    \verb 10.1088/0953-4075/39/1/005
+    \endverb
+    \field{issn}{0953-4075}
+    \field{number}{1}
+    \field{pages}{37}
+    \field{title}{Single photon emission from {SiV} centres in diamond produced
+  by ion implantation}
+    \verb{url}
+    \verb http://stacks.iop.org/0953-4075/39/i=1/a=005
+    \endverb
+    \field{volume}{39}
+    \verb{file}
+    \verb IOP Full Text PDF:C\:\\Users\\Ou.Wang\\AppData\\Roaming\\Zotero\\Zote
+    \verb ro\\Profiles\\rmc4qiwo.default\\zotero\\storage\\M8WKF45A\\Wang ç­‰.
+    \verb - 2006 - Single photon emission from SiV centres in diamond.pdf:appli
+    \verb cation/pdf
+    \endverb
+    \field{journaltitle}{Journal of Physics B: Atomic, Molecular and Optical
+  Physics}
+    \field{year}{2006}
+    \field{urlday}{11}
+    \field{urlmonth}{10}
+    \field{urlyear}{2016}
   \endentry
 
   \entry{wolcott_surface_2014}{article}{}
