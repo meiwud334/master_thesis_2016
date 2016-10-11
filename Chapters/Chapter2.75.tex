@@ -32,7 +32,8 @@ Sample 1508 was excited with decreasing excitation power. The left column of \re
 
 The result of cross correlation is can be seen in \ref{fig:powerdependencybeforeafteroxidation}, where each dot represents a POI in the sample. As shown in the figure, the general level of spectral diffusion decreases as the excitation power decreases. 
 
-As I try to explain the spectral behaviour with the band bending layer, the power dependency of spectral diffusion can be explained by the photon induced charge transfer between the conducting band and the surface, which will enhance the band bending, thus with higher excitation power, comes greater spectral diffusion. It is also shown in the figure, that after the oxidation, the response from the spectral diffusion towards the excitation power change is much greater, this gives evidence for the explanation of next observation: temperature change against spectral diffusion, which will be discussed in the next section.  
+A possible reason for this behaviour is the optical transition between the Nitrogen donor level and the conduction band has been involved in the excitation of SiV$^{-}$. The nitrogen donor level lies 1.7eV below the minimum of diamond conduction band \cite{diederich_electron_1998}, the spontaneous emission between the valence band and the donor level is capable of excite the SiV$^{-}$ from ground state to the first excited state.
+
  
 \begin{figure}[h]
 \centering
@@ -59,6 +60,7 @@ The polarisation of photoluminescence has been measured in \cite{rogers_all-opti
 In the measurement of excitation polarisation on sample 1510, time-resolved PL spectra are taken with different excitation polarisations. We do noticed some POIs behaved differently when excited with different beam polarisation\ref{fig:polarisationref03}. But no clear polarisation pattern has been acquired. Further cross-correlation calculation \ref{fig:excitation-polarisation of untreated nanodiamond batch 2} showed polarisation dependency like pattern in poi ref12, while the other two pois have no clear pattern.
 
 Further excitation polarisation-resolved spectra were taken on the same sample. In some of the spectra, polarisation-related periodic pattern can be seen on some of the lines, while the sum up pattern give no polarisation dependency.
+
 
 \begin{figure}[h]
 \centering
@@ -158,4 +160,23 @@ A,D: ref20, B,E: ref19, C,F: ref18}
 \label{fig:hydrogenterminationpolarisation}
 \end{figure}
 
+\section{Discussion}
 
+The size effect of colour centre in nanodiamonds is often related the the surface band bending phenomena. Here I try to explain the phenomena that has been observed with very wild guess and hypothesis.
+
+As the samples are nitrogen doped, it is expected to have a upward band-bending, with a fermi level between the conduction band and the donor level. When the surface chemical potential is low enough, it is possible to have the donor level, even valence band maximum of the bulk region crossing the fermi level near the surface, which results in the accumulation of holes. 
+
+The Nitrogen atom level lies 1.7eV below the minimum of the conduction band \citep{diederich_electron_1998}, at cryogenic temperature, the main electron source is the photon-excited electrons, with our 532nm excitation laser, it is not possible to excite electron from the valence band, but possible from the donor level.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{Figures/pic/nbandbend}
+\caption{Sketch of band bending in n doped nitrogen vacancy. The cross over of fermi level and nitrogen atom level may cause the accumulation of holes. E$_{D}$: donor level, the nitrogen atom level. E$_{CB}$: bulk conduction band minimum. E$_{VB}$: bulk valence band maximum. E$_{CS}$: surface conduction band minimum. E$_{VS}$: surface valence band maximum. $\mu_{SC}$: surface chemical potential. $\mu_{bulk}$: bulk chemical potential.} 
+\label{fig:nbandbend}
+\end{figure}
+ 
+
+Since the accumulation of holes at the nitrogen atom level, the electrons from the conduction band are encouraged to recombine with the holes and emit photons. Since 1.7eV is larger than the band gap between SiV$^{-}$ ground state and the first excited state, these spontaneous emission can be involved in the excitation of SiV$^{-}$s. 
+While the polarisation of spontaneous emission is not relevant to the excitation polarisation, the excitation polarisation pattern of SiV$^{-}$ may not be solely the reflection of excitation polarisation but also the polarisation of spontaneous emission from the conduction band, which explains the patterns in \ref{fig:polarisationexcitation}.
+
+As excitation power increases, more electrons are excited into the conduction band, which leads to further increase of spontaneous emission, which can be related to the power dependency of spectral diffusion in \ref{fig:powerdependencybeforeafteroxidation}, \ref{fig:powerdependenceref11}.

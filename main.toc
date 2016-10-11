@@ -42,13 +42,14 @@
 \contentsline {section}{\numberline {4.6}Aerobic Oxidation and Spectral stability}{28}{section.68}
 \contentsline {paragraph}{}{28}{section*.69}
 \contentsline {section}{\numberline {4.7}Hydrogen termination and Spectral stability}{28}{section.72}
-\contentsline {chapter}{\numberline {5}Conclusion and outlook}{41}{chapter.75}
-\contentsline {section}{\numberline {5.1}Conclusion}{41}{section.76}
-\contentsline {section}{\numberline {5.2} Outlook}{41}{section.77}
-\contentsline {paragraph}{PL and PLE}{41}{section*.78}
-\contentsline {paragraph}{life time measurement}{42}{section*.79}
-\contentsline {paragraph}{Surface treatments}{42}{section*.80}
-\contentsline {paragraph}{better method for size selection}{42}{section*.81}
-\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{42}{section*.82}
-\contentsline {chapter}{\numberline {A}Appendix Title Here}{43}{appendix.83}
-\contentsline {chapter}{Bibliography}{45}{appendix*.84}
+\contentsline {section}{\numberline {4.8}Discussion}{29}{section.75}
+\contentsline {chapter}{\numberline {5}Conclusion and outlook}{41}{chapter.77}
+\contentsline {section}{\numberline {5.1}Conclusion}{41}{section.78}
+\contentsline {section}{\numberline {5.2} Outlook}{41}{section.79}
+\contentsline {paragraph}{PL and PLE}{41}{section*.80}
+\contentsline {paragraph}{life time measurement}{42}{section*.81}
+\contentsline {paragraph}{Surface treatments}{42}{section*.82}
+\contentsline {paragraph}{better method for size selection}{42}{section*.83}
+\contentsline {paragraph}{relation between surface geometry and spectral behaviour}{42}{section*.84}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{43}{appendix.85}
+\contentsline {chapter}{Bibliography}{45}{appendix*.86}
